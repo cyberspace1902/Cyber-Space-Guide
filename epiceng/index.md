@@ -6,8 +6,8 @@
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can ask us in Shopee Live Chat. Let's start it.
 
 ## Please note:
-a. After completing the settings, you only need to do **step 9** and **step 10** next time you play.
-b. Please repeat the above steps if you play in new device/after reset your device.
+1. After completing the settings, you only need to do **step 9** and **step 10** next time you play.
+2. Please repeat the above steps if you play in new device/after reset your device.
 
 Please read the tutorial carefully. If we do not reply to you during the off-hours, please don’t rush to give us a bad review, we are taking a break at the moment. If you have a good attitude towards us, we will definitely serve you hard. Thank you for your support!
 
