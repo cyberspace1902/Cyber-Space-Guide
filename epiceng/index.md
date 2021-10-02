@@ -9,7 +9,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ## Please note:
 * After you completed the setup, you only need to do **step 3.4** and **step 4.1** next time you play.
-* Please repeat the above steps if you play in new device/after reset your device.
+* Please repeat the following steps if you play in a new device/after reset your device.
 
 
 
