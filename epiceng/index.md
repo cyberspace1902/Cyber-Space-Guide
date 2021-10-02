@@ -18,7 +18,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ![0](https://user-images.githubusercontent.com/91774682/135710061-fa37dd20-8979-4595-b108-38100dfd6390.jpg)
 
-## 2. Sign in:
+## 2. Sign in Epic Games Launcher:
 2.1. After installed Epic Games Launcher, click "**SIGN IN WITH STEAM**" to sign in Epic Games.
 
 ![1](https://user-images.githubusercontent.com/91774682/135710625-e045cba1-e110-4609-b850-125d0a954403.jpg)
@@ -59,7 +59,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 ![9](https://user-images.githubusercontent.com/91774682/135711644-49f1130f-a0dc-4d2e-990c-cad5052e018f.jpg)
 ![10](https://user-images.githubusercontent.com/91774682/135711660-61533f36-400d-4653-9a8d-299ba73753b5.jpg)
 
-## 4. Play
+## 4. Play the game:
 4.1. Exit Epic Games everytime you start the game after entered main menu.
 
 ![11](https://user-images.githubusercontent.com/91774682/135712006-1e288fe0-84ab-4d1e-88bd-0e0741a569f1.jpg)
