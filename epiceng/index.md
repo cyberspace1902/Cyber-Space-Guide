@@ -9,7 +9,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 * After completing the settings, you only need to do **step 9** and **step 10** next time you play.
 * Please repeat the above steps if you play in new device/after reset your device.
 
-Please read the tutorial carefully. If we do not reply to you during the off-hours, please don’t rush to give us a bad review, we are taking a break at the moment. If you have a good attitude towards us, we will definitely serve you hard. Thank you for your support!
+### Please read the tutorial carefully. If we do not reply to you during the off-hours, please don’t rush to give us a bad review, we are taking a break at the moment. If you have a good attitude towards us, we will definitely serve you hard. Thank you for your support!
 
 ## 1. Download Epic Games Launcher (*Skip if you already installed*):
 Click the "**Get Epic Games**" button at the upper right corner to download the **[Epic Games Launcher](https://shopee.com.my/cyberspace1902)**.
