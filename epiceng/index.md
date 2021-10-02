@@ -5,11 +5,11 @@
 # Epic Games Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can ask us in Shopee Live Chat. Let's start it.
 
-## Please note:
-1. After completing the settings, you only need to do **step 9** and **step 10** next time you play.
-2. Please repeat the above steps if you play in new device/after reset your device.
+# Please note:
+## 1. After completing the settings, you only need to do **step 9** and **step 10** next time you play.
+## 2. Please repeat the above steps if you play in new device/after reset your device.
 
-Please read the tutorial carefully. If we do not reply to you during the off-hours, please don’t rush to give us a bad review, we are taking a break at the moment. If you have a good attitude towards us, we will definitely serve you hard. Thank you for your support!
+## Please read the tutorial carefully. If we do not reply to you during the off-hours, please don’t rush to give us a bad review, we are taking a break at the moment. If you have a good attitude towards us, we will definitely serve you hard. Thank you for your support!
 
 ## 1. Download Epic Games Launcher (*Skip if you already installed*):
 Click the "**Get Epic Games**" button at the upper right corner to download the **[Epic Games Launcher](https://shopee.com.my/cyberspace1902)**.
@@ -57,9 +57,9 @@ Click the "**Get Epic Games**" button at the upper right corner to download the 
 ![9](https://user-images.githubusercontent.com/91774682/135711644-49f1130f-a0dc-4d2e-990c-cad5052e018f.jpg)
 ![10](https://user-images.githubusercontent.com/91774682/135711660-61533f36-400d-4653-9a8d-299ba73753b5.jpg)
 
-After completing the above steps, you are done!
-
 ## Play
 10. Exit Epic Games everytime you start the game after entered main menu.
 
 ![11](https://user-images.githubusercontent.com/91774682/135712006-1e288fe0-84ab-4d1e-88bd-0e0741a569f1.jpg)
+
+After completing the above steps, you are done!
