@@ -11,12 +11,12 @@ b. Please repeat the above steps if you play in new device/after reset your devi
 
 Please read the tutorial carefully. If we do not reply to you during the off-hours, please don’t rush to give us a bad review, we are taking a break at the moment. If you have a good attitude towards us, we will definitely serve you hard. Thank you for your support!
 
-## 1. Download Epic Games Launcher (*Skip if you already installed*):
+## - Download Epic Games Launcher (*Skip if you already installed*):
 Click the "**Get Epic Games**" button at the upper right corner to download the **[Epic Games Launcher](https://shopee.com.my/cyberspace1902)**.
 
 ![0](https://user-images.githubusercontent.com/91774682/135710061-fa37dd20-8979-4595-b108-38100dfd6390.jpg)
 
-## 2. Sign in:
+## - Sign in:
 1. After Installed, click "**SIGN IN WITH STEAM**" to sign in Epic Games.
 
 ![1](https://user-images.githubusercontent.com/91774682/135710625-e045cba1-e110-4609-b850-125d0a954403.jpg)
@@ -48,7 +48,7 @@ Click the "**Get Epic Games**" button at the upper right corner to download the 
 
 ---------------------------------------
 
-## 3. Download and Setup:
+## - Download and Setup:
 
 6. Click "**Library**".
 
@@ -75,7 +75,7 @@ Click the "**Get Epic Games**" button at the upper right corner to download the 
 
 ---------------------------------------
 
-## Play
+## - Play
 10. Exit Epic Games everytime you start the game after entered main menu.
 
 ![11](https://user-images.githubusercontent.com/91774682/135712006-1e288fe0-84ab-4d1e-88bd-0e0741a569f1.jpg)
