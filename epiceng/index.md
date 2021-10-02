@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/91774682/135708227-fefb44fa-ae60-4d5b-8cdf-a68d30176e66.png" width="250" height="250">
 </p>
 
-### Please read the tutorial carefully. If we do not reply to you during the off-hours, please don’t rush to give us a bad review, we are taking a break at the moment. If you have a good attitude towards us, we will definitely serve you hard. Thank you for your support!
+<center> <h3>Please read the tutorial carefully. If we do not reply to you during the off-hours, please don’t rush to give us a bad review, we are taking a break at the moment. Hope you can understand. If you have a good attitude towards us, we will definitely serve you hard. Thank you for your support!</h3> </center>
  
 # Epic Games Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can ask us in Shopee Live Chat. Let's start it.
@@ -13,13 +13,13 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 
 
-## 1. Download Epic Games Launcher (*Skip if you already installed*):
+## 1. Download and Install Epic Games Launcher (*Skip if you already installed*):
 1.1. Click the "**Get Epic Games**" button at the upper right corner to download the **[Epic Games Launcher](https://shopee.com.my/cyberspace1902)**.
 
 ![0](https://user-images.githubusercontent.com/91774682/135710061-fa37dd20-8979-4595-b108-38100dfd6390.jpg)
 
 ## 2. Sign in:
-2.1. After Installed, click "**SIGN IN WITH STEAM**" to sign in Epic Games.
+2.1. After installed Epic Games Launcher, click "**SIGN IN WITH STEAM**" to sign in Epic Games.
 
 ![1](https://user-images.githubusercontent.com/91774682/135710625-e045cba1-e110-4609-b850-125d0a954403.jpg)
 
@@ -64,4 +64,4 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ![11](https://user-images.githubusercontent.com/91774682/135712006-1e288fe0-84ab-4d1e-88bd-0e0741a569f1.jpg)
 
-After completing the above steps, you are done!
+<center> <h3>After completing the above steps, you are done! Wish you a good gaming experience!</h3> </center>
