@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/91774682/135708227-fefb44fa-ae60-4d5b-8cdf-a68d30176e66.png" width="250" height="250">
 </p>
 
- ### Please read the tutorial carefully. If we do not reply to you during the off-hours, please don’t rush to give us a bad review, we are taking a break at the moment. If you have a good attitude towards us, we will definitely serve you hard. Thank you for your support!
+### Please read the tutorial carefully. If we do not reply to you during the off-hours, please don’t rush to give us a bad review, we are taking a break at the moment. If you have a good attitude towards us, we will definitely serve you hard. Thank you for your support!
  
 # Epic Games Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can ask us in Shopee Live Chat. Let's start it.
@@ -23,7 +23,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ![1](https://user-images.githubusercontent.com/91774682/135710625-e045cba1-e110-4609-b850-125d0a954403.jpg)
 
-2.2 Enter the username and password that we provided. (Click "**Not You?** if that is not the account you want to login.)
+2.2. Enter the username and password that we provided. (Click "**Not You?** if that is not the account you want to login.)
 
 ![2](https://user-images.githubusercontent.com/91774682/135710984-33fe378b-2560-4636-9814-e04232542de1.jpg)
 ![3 5](https://user-images.githubusercontent.com/91774682/135710983-f27fba48-a511-40a5-996f-cf2a10b2fa8f.jpg)
