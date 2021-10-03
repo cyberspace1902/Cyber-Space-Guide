@@ -7,7 +7,7 @@
  
 # <span style="color: red;">IMPORTANT!!!</span>
 ### <span style="color: red;">1. Make sure you have turned off Windows Update as we said!!!!</span>
-### <span style="color: red;">2. Please don't update the game before we arrange a time for you to update!!! (Follow Step 6 if Steam forced you to update)</span>
+### <span style="color: red;">2. Please don't update the game before we arrange a time for you to update!!! (Follow [Step 6](https://docs.cyberspace.cyou/steamdenuvo/#6-if-steam-force-you-to-update-the-game-in-offline-mode) if Steam forced you to update)</span>
 ### <span style="color: red;">3. Make sure you start the game in offline mode to avoid you update the game accidently!!!</span>
 
 # Steam Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
