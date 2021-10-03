@@ -6,9 +6,9 @@
  
  
 # <span style="color: red;">IMPORTANT!!!</span>
-### 1. <span style="color: red;">Make sure you have turned off Windows Update as we said!!!!</span>
-### 2. <span style="color: red;">Please don't update the game before we arrange a time for you to update!!! (Follow Step 6 if Steam forced you to update)</span>
-### 3. <span style="color: red;">Make sure you start the game in offline mode to avoid you update the game accidently!!!</span>
+### <span style="color: red;">1. Make sure you have turned off Windows Update as we said!!!!</span>
+### <span style="color: red;">2. Please don't update the game before we arrange a time for you to update!!! (Follow Step 6 if Steam forced you to update)</span>
+### <span style="color: red;">3. Make sure you start the game in offline mode to avoid you update the game accidently!!!</span>
 
 # Steam Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can ask us in Shopee Live Chat. Let's start it.
@@ -97,7 +97,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ![18](https://user-images.githubusercontent.com/91774682/135750464-f6ae2666-4317-4eb4-baa8-80162d78021a.jpg)
 
-## 6. If Steam force you to update the game in offline mode:
+## <span style="color: red;">6. If Steam force you to update the game in offline mode:</span>
 
 6.1. Right click on the game you want to play, click on "**Manage**", and "**Browse local files**".
 
