@@ -79,6 +79,19 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 ![CableStuck](https://user-images.githubusercontent.com/91774682/135758478-5eb18dfe-4302-4036-9926-643cb9fd474d.png)
 
 
+## 6. Additional guide (Optional)
+
+### Enable controller function
+
+6.1. Click on "**LIBRARY**", right click on the game you want to setup/play, and click on "**Properties...**".
+
+![13](https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg)
+
+6.2. Click on "**CONTROLLER**", change the options on middle to "**Enable Steam Input**".
+
+![20](https://user-images.githubusercontent.com/91774682/135759643-178b6bf3-4baa-4400-b498-11059775055c.jpg)
+
+
 ### After completing the above steps, you are done! Wish you a good gaming experience! If you have other questions, you can ask us in Shopee Live Chat. We will definitely serve you hard!
 
 
