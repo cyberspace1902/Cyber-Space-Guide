@@ -13,7 +13,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ## 2. Log in Steam:
 
-2.1. After installed Steam, enter the username and password we gave you into the boxes and then click on "**LOGIN**". (Click Remember my password to log in to this account automatically next time.)
+2.1. After installing Steam, enter the username and password we gave you into the boxes and then click on "**LOGIN**". (Click Remember my password to log in to this account automatically next time.)
 
 ![2](https://user-images.githubusercontent.com/91774682/135746372-c50e3052-db32-48d0-9278-fa797d9d1034.jpg)
 
@@ -65,7 +65,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ![14](https://user-images.githubusercontent.com/91774682/135749647-ee7160cd-1ccc-4422-b2af-f5c6bf412d5f.jpg)
 
-4.3. After the game is installed, click "**Play**". After entering the game, click ""**Exit**"", ""**Quit**"" or Alt + F4 to exit the game.
+4.3. After the game is installing, click "**Play**". After entering the game, click ""**Exit**"", ""**Quit**"" or Alt + F4 to exit the game.
 
 ![15](https://user-images.githubusercontent.com/91774682/135750002-a20c5a37-45a3-4596-89e2-40578aaf6832.jpg)
 
