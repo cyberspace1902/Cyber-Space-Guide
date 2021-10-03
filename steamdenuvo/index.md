@@ -97,7 +97,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ![18](https://user-images.githubusercontent.com/91774682/135750464-f6ae2666-4317-4eb4-baa8-80162d78021a.jpg)
 
-## <span style="color: red;">6. If Steam force you to update the game in offline mode:</span>
+## 6.<span style="color: red;"> If Steam force you to update the game in offline mode:</span>
 
 6.1. Right click on the game you want to play, click on "**Manage**", and "**Browse local files**".
 
