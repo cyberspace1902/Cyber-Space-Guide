@@ -66,4 +66,4 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 <h2></h2>
 
 
-<center> <h1>After completing the above steps, you are done! Wish you a good gaming experience! If you have other questions, please ask us in Shopee Live Chat! Thank you for your support! Welcome to come back next time!</h1> </center>
+<center> <h1>After completing the above steps, you are done! Wish you a good gaming experience! If you have other questions, please ask us in Shopee! Thank you for your support, and welcome to come back again again next time!</h1> </center>
