@@ -63,5 +63,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 4.1. Exit Epic Games everytime you start the game after entering the main menu.
 
 ![11](https://user-images.githubusercontent.com/91774682/135712006-1e288fe0-84ab-4d1e-88bd-0e0741a569f1.jpg)
+<h2></h2>
 
-<p align="center"> <h2>After completing the above steps, you are done! Wish you a good gaming experience! If you have other questions, please ask us in Shopee Live Chat! Thank you for your support! Welcome to come back next time!</h2> </p>
+
+<center> <h3>After completing the above steps, you are done! Wish you a good gaming experience! If you have other questions, please ask us in Shopee Live Chat! Thank you for your support! Welcome to come back next time!</h3> </center>
