@@ -22,6 +22,8 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 1.1. Disable Windows Update with the program we gave. (Run as admin if it does not work.)
 
 ![0](https://user-images.githubusercontent.com/91774682/136052890-bc2c4922-56f2-4c3e-acad-333cd9d764eb.jpg)
+ 
+ <img src="https://user-images.githubusercontent.com/91774682/136052890-bc2c4922-56f2-4c3e-acad-333cd9d764eb.jpg" style="border: 1px solid black" />
 
 1.2. Download the game files from the link we gave.
 
