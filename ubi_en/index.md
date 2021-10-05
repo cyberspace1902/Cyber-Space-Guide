@@ -30,10 +30,13 @@ This tutorial will teach you how to log in, setup, download, and play step by st
   <img src="https://user-images.githubusercontent.com/91774682/136053318-f6dee91c-d7a7-49bd-9451-2a1766924410.jpg">
 </kbd>
  </p>
- <kbd>
-![3](https://user-images.githubusercontent.com/91774682/136053311-a0b6bd98-77c3-47b3-a1b4-771fcb407300.jpg)
- </kbd>
-
+ 
+ <p align="center">
+<kbd>
+  <img src="https://user-images.githubusercontent.com/91774682/136053311-a0b6bd98-77c3-47b3-a1b4-771fcb407300.jpg">
+</kbd>
+ </p>
+ 
 1.4. Open the exe, and choose a location where you like to install.
 
 ![4](https://user-images.githubusercontent.com/91774682/136053514-e20ca276-32c3-4c8f-94c2-008960895021.jpg)
