@@ -26,8 +26,8 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 1.3. After finish downloading, open the zip file and extract to a location where you like to.
 <kbd>
-![2](https://user-images.githubusercontent.com/91774682/136053318-f6dee91c-d7a7-49bd-9451-2a1766924410.jpg)
- </kbd>
+  <img src="https://user-images.githubusercontent.com/91774682/136053318-f6dee91c-d7a7-49bd-9451-2a1766924410.jpg">
+</kbd>
  <kbd>
 ![3](https://user-images.githubusercontent.com/91774682/136053311-a0b6bd98-77c3-47b3-a1b4-771fcb407300.jpg)
  </kbd>
