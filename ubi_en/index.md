@@ -1,3 +1,6 @@
+<!-- .slide: data-background-color="grey" -->
+
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91774682/135708227-fefb44fa-ae60-4d5b-8cdf-a68d30176e66.png" width="250" height="250">
 </p>
