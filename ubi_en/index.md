@@ -21,17 +21,17 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 ## 1. Preparation: 
 1.1. Disable Windows Update with the program we gave. (Run as admin if it does not work.)
  
-<img src="https://user-images.githubusercontent.com/91774682/136052890-bc2c4922-56f2-4c3e-acad-333cd9d764eb.jpg" style="border: 2px solid black" />
+<img src="https://user-images.githubusercontent.com/91774682/136052890-bc2c4922-56f2-4c3e-acad-333cd9d764eb.jpg" style="border: 2px solid purple" />
 
 1.2. Download the game files from the link we gave.
  
-<img src="https://user-images.githubusercontent.com/91774682/136052997-3e5f2959-a756-4929-9bd0-6dc2c61ec75b.jpg" style="border: 2px solid black" />
+<img src="https://user-images.githubusercontent.com/91774682/136052997-3e5f2959-a756-4929-9bd0-6dc2c61ec75b.jpg" style="border: 2px solid red" />
 
 1.3. After finish downloading, open the zip file and extract to a location where you like to.
  
-<img src="https://user-images.githubusercontent.com/91774682/136053318-f6dee91c-d7a7-49bd-9451-2a1766924410.jpg" style="border: 2px solid black" />
+<img src="https://user-images.githubusercontent.com/91774682/136053318-f6dee91c-d7a7-49bd-9451-2a1766924410.jpg" style="border: 2px solid yellow" />
  
- <img src="https://user-images.githubusercontent.com/91774682/136053311-a0b6bd98-77c3-47b3-a1b4-771fcb407300.jpg" style="border: 2px solid black" />
+ <img src="https://user-images.githubusercontent.com/91774682/136053311-a0b6bd98-77c3-47b3-a1b4-771fcb407300.jpg" style="border: 2px solid pink" />
  
 1.4. Open the exe, and choose a location where you like to install.
 
