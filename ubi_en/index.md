@@ -6,11 +6,11 @@
  
  
 # <span style="color: red;">IMPORTANT!!!</span>
-## <span style="color: red;">1. Make sure you have turned off Windows Update as we said!!!!</span>
-## <span style="color: red;">2. Please don't update the game before we arrange a time for you to update!!!
-## <span style="color: red;">3. Make sure you start the game in offline mode to avoid you update the game accidently!!!</span>
+### <span style="color: red;">1. Make sure you have turned off Windows Update as we said!!!!</span>
+### <span style="color: red;">2. Please don't update the game before we arrange a time for you to update!!!
+### <span style="color: red;">3. Make sure you start the game in offline mode to avoid you update the game accidently!!!</span>
   
-<span style="color: red;">WE WILL NOT BE RESPONSIBLE IF YOU CAN'T PLAY THE GAME ANYMORE BECAUSE OF DON'T FOLLOW THE IMPORTANT RULES!!! </span>
+#### <span style="color: red;">WE WILL NOT BE RESPONSIBLE IF YOU CAN'T PLAY THE GAME ANYMORE BECAUSE OF DON'T FOLLOW THE IMPORTANT RULES!!! </span>
 
 # Ubisoft Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can ask us in Shopee Chat. Let's start it.
