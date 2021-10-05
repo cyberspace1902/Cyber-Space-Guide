@@ -10,7 +10,7 @@
 ### <span style="color: red;">2. Please don't update the game before we arrange a time for you to update!!!
 ### <span style="color: red;">3. Make sure you start the game in offline mode to avoid you update the game accidently!!!</span>
   
-#### <span style="color: red;">WE WILL NOT BE RESPONSIBLE IF YOU CAN'T PLAY THE GAME ANYMORE BECAUSE OF DON'T FOLLOW THE IMPORTANT RULES!!! </span>
+### <span style="color: red;">WE WILL NOT BE RESPONSIBLE IF YOU CAN'T PLAY THE GAME ANYMORE BECAUSE OF DON'T FOLLOW THE IMPORTANT RULES!!! </span>
 
 # Ubisoft Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can ask us in Shopee Chat. Let's start it.
@@ -38,7 +38,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
  
  <img src="https://user-images.githubusercontent.com/91774682/136053591-23be3ce6-6669-469d-990d-369c3f98f983.jpg" style="border: 2px solid red" />
 
-## Login: 
+## 2. Login: 
 
 2.1. Download and install [Ubisoft Connect](https://ubi.li/4vxt9).
 
@@ -78,9 +78,11 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/136057112-3ff1f3a1-6a8c-479e-a99e-12e2580e602a.jpg" style="border: 2px solid red" />
 
-## Setup: 
+## 3. Setup: 
 
 3.1. Click "**Settings**", Untick "**Enable cloud save... **".
+ 
+<img src="https://user-images.githubusercontent.com/91774682/136085890-76fb7199-6766-417c-8aaf-cd7e8b469299.jpg" style="border: 2px solid red" />
 
 <img src="https://user-images.githubusercontent.com/91774682/136060097-7a5f2f5c-9fac-4445-aaba-56cd31b3a4dd.jpg" style="border: 2px solid red" />
 
@@ -88,8 +90,19 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/136060515-c96b1d69-c62f-43f4-8e89-a2abe997f818.jpg" style="border: 2px solid red" />
 
-3.3. Click "**Settings**" below, check "**Start Ubisoft Connect in offline mode**, and login again." <span style="color: red;">(THIS STEP VERY IMPORTANT!!! WE WILL NOT BE RESPONSIBLE IF YOU MISS THIS STEP EVERYTIME YOU LOGIN!!!)</span>
-
+3.3. Click "**Settings**" below, check "**Start Ubisoft Connect in offline mode**, "**Back**", and login again." <span style="color: red;">(THIS STEP VERY IMPORTANT!!! WE WILL NOT BE RESPONSIBLE IF YOU MISS THIS STEP EVERYTIME YOU LOGIN!!!)</span>
+ 
+<img src="https://user-images.githubusercontent.com/91774682/136086623-2ddb7a8f-d918-4518-ae32-5ae455af094c.jpg" style="border: 2px solid red" />
+ 
+ <img src="https://user-images.githubusercontent.com/91774682/136086847-82b55b26-7292-4c8e-a8e0-0db97f33d6b0.jpg" style="border: 2px solid red" />
+ 
+  <img src="https://user-images.githubusercontent.com/91774682/136053934-51f379c8-ab44-4499-9c5d-b20f544f5099.jpg" style="border: 2px solid red" />
+ 
+ ## 4. Play
+ 
+ 4.1. After setup complete and entered offline mode, click "**Play**" and enjoy!
+ 
+ <img src="https://user-images.githubusercontent.com/91774682/136086534-c7bd293a-b413-4f4a-a028-99983fc991ea.jpg" style="border: 2px solid red" />
 
 <h2></h2>
 
