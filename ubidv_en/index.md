@@ -13,7 +13,7 @@
 ### <span style="color: red;">WE WILL NOT BE RESPONSIBLE IF YOU CAN'T PLAY THE GAME ANYMORE BECAUSE OF DON'T FOLLOW THE IMPORTANT RULES!!! </span>
 
 # Ubisoft Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
-This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can ask us in Shopee Chat. Let's start it.
+This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
  
 ## Please note:
 * After you do the steps below, you only need to repeat step 3.3 and step 3.5 everytime you play.
@@ -112,9 +112,4 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <h2></h2>
 
-<center> <h1>After completing the above steps, you are done! Wish you a good gaming experience! If you have other questions, please ask us again in Shopee Live Chat! Thank you for your support! Welcome to come back next time!</h1> </center>
-
-
-
-
-
+<center> <h1>After completing the above steps, you are done! Wish you have a good gaming experience! If you have other questions, please pm us again in Shopee! Thank you for your support! Welcome to come back next time!</h1> </center>
