@@ -90,7 +90,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/136180553-b58d0637-956d-44ed-9c3b-23b427a3a293.jpg" style="border: 2px solid red" />
  
-3.3. Afrer offline, click the 3 bars at top-left corner, and click "**Log Out**".
+3.3. After offline, click the 3 bars at top-left corner, and click "**Log Out**".
  
  <img src="https://user-images.githubusercontent.com/91774682/136181202-344ab70c-03fd-45c0-b5cf-374f11f94f9a.jpg" style="border: 2px solid red" />
  
