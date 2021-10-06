@@ -5,13 +5,11 @@
 <center> <h3>Please read the tutorial carefully. If we do not reply to you during the off-hours, please don't rush to give us a bad review. We are taking a break at the moment. Hope you can understand. If you have a good attitude towards us, we will serve you hard. Thank you for your support!</h3> </center>
  
 # Epic Games Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
-This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can ask us in Shopee Live Chat. Let's start it.
+This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
 ## Please note:
 * After completing the setup, you only need to do **step 3.4** and **step 4.1** next time you play.
 * Please repeat the following steps if you play in a new device/after resetting your device.
-
-
 
 ## 1. Download and Install Epic Games Launcher (*Skip if you already installed*):
 1.1. Click the "**Get Epic Games**" button to download the **[Epic Games Launcher](https://shopee.com.my/cyberspace1902)** in the upper right corner.
@@ -63,7 +61,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 4.1. Exit Epic Games everytime you start the game after entering the main menu.
 
 ![11](https://user-images.githubusercontent.com/91774682/135712006-1e288fe0-84ab-4d1e-88bd-0e0741a569f1.jpg)
+
 <h2></h2>
 
-
-<center> <h1>After completing the above steps, you are done! Wish you a good gaming experience! If you have other questions, please ask us in Shopee! Thank you for your support, and welcome to come back again again next time!</h1> </center>
+<center> <h1>After completing the above steps, you are done! Wish you have a good gaming experience! If you have other questions, please pm us again in Shopee! Thank you for your support! Welcome to come back next time!</h1> </center>
