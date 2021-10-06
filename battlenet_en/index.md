@@ -19,57 +19,57 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 2.1. Click on the **GOOGLE ICON** to start the login process:
 
-![1](https://user-images.githubusercontent.com/91774682/135727561-d30fa4e5-8d0f-45e2-956e-f1b13caa2a0d.jpg)
+<img src="https://user-images.githubusercontent.com/91774682/135727561-d30fa4e5-8d0f-45e2-956e-f1b13caa2a0d.jpg" style="border: 2px solid red" />
 
 2.2. Click on the "**Use another account**" after you jump to page sign in Google account.
 
-![1 5](https://user-images.githubusercontent.com/91774682/135728069-f690d543-4bb6-41ff-b59d-6b1afe1486aa.jpg)
+<img src="https://user-images.githubusercontent.com/91774682/135728069-f690d543-4bb6-41ff-b59d-6b1afe1486aa.jpg" style="border: 2px solid red" />
 
 2.3. Enter the email and password we gave you into the boxes and then click "**Next**".
 
-![1 6](https://user-images.githubusercontent.com/91774682/135728221-e493a938-5ffe-423a-bb77-b758f5898e0d.jpg)
-![1 7](https://user-images.githubusercontent.com/91774682/135728241-eea32623-94e4-48a9-bd74-05212961fa0e.jpg)
+<img src="https://user-images.githubusercontent.com/91774682/135728221-e493a938-5ffe-423a-bb77-b758f5898e0d.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/135728241-eea32623-94e4-48a9-bd74-05212961fa0e.jpg" style="border: 2px solid red" />
 
 2.4. Tell us that you are logged in and give us the 4-digits code in the circle.
 
-![1 9](https://user-images.githubusercontent.com/91774682/135728323-9646b643-f535-4811-86f0-4528886a60bb.jpg)
+<img src="https://user-images.githubusercontent.com/91774682/135728323-9646b643-f535-4811-86f0-4528886a60bb.jpg" style="border: 2px solid red" />
 
 2.5. After we approve the request, return to Battle.net app when this screen show out.
 
-![1 8](https://user-images.githubusercontent.com/91774682/135728343-a7fce91e-2f17-4223-90a8-783d596f3f1e.jpg)
+<img src="https://user-images.githubusercontent.com/91774682/135728343-a7fce91e-2f17-4223-90a8-783d596f3f1e.jpg" style="border: 2px solid red" />
 
 ## 3. Download and setup:
 
 3.1. After you logged in Battle.net app, click the banner of the game you bought to install.
 
-![2](https://user-images.githubusercontent.com/91774682/135728502-035d281a-6ea9-45eb-b21b-a9e425cf36bf.jpg)
+<img src="https://user-images.githubusercontent.com/91774682/135728502-035d281a-6ea9-45eb-b21b-a9e425cf36bf.jpg" style="border: 2px solid red" />
 
 3.2. Choose Asia and click "**Install**" to install the game.
 
-![3](https://user-images.githubusercontent.com/91774682/135728546-c540e271-ad62-4535-8a43-89172e269611.jpg)
+<img src="https://user-images.githubusercontent.com/91774682/135728546-c540e271-ad62-4535-8a43-89172e269611.jpg" style="border: 2px solid red" />
 
 3.3. Change your install location by clicking "**Change Folder**" (can keep default) and click "**Start Install**" to download the game.
 
-
-![4](https://user-images.githubusercontent.com/91774682/135728594-6660d622-f9e8-4529-a935-7b7f05e63144.jpg)
+<img src="https://user-images.githubusercontent.com/91774682/135728594-6660d622-f9e8-4529-a935-7b7f05e63144.jpg" style="border: 2px solid red" />
 
 3.4. Click "**Stay Offline**" if this window pop out.
 
-![lol](https://user-images.githubusercontent.com/91774682/135728622-f2f42a64-c9a9-4b10-8c90-93cfe84cb58d.jpg)
+<img src="https://user-images.githubusercontent.com/91774682/135728622-f2f42a64-c9a9-4b10-8c90-93cfe84cb58d.jpg" style="border: 2px solid red" />
 
 ## 4. Play:
 
 4.1. After the game is installed, click “**Play**" to play the game.
 
-![5](https://user-images.githubusercontent.com/91774682/135728672-08d6ab26-d9ec-4018-8acd-bd4e7583c86a.jpg)
+<img src="https://user-images.githubusercontent.com/91774682/135728672-08d6ab26-d9ec-4018-8acd-bd4e7583c86a.jpg" style="border: 2px solid red" />
 
 4.2. Click the "**Offline**" to play the offline campaign. If you don’t comply and play in online campaign, you will get kick by Battle.net when someone login into the game.
 
-![6](https://user-images.githubusercontent.com/91774682/135728670-88859f1d-88a2-49f2-a864-a7c8af05eaad.jpg)
+<img src="https://user-images.githubusercontent.com/91774682/135728670-88859f1d-88a2-49f2-a864-a7c8af05eaad.jpg" style="border: 2px solid red" />
 
 4.3. Exit Battle.net once you enter the campaign.
 
-![7](https://user-images.githubusercontent.com/91774682/135728671-5c420c1c-82dc-4e3f-a25a-8fa583754e8b.jpg)
+<img src="https://user-images.githubusercontent.com/91774682/135728671-5c420c1c-82dc-4e3f-a25a-8fa583754e8b.jpg" style="border: 2px solid red" />
 
 <h2></h2>
 
