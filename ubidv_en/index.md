@@ -16,7 +16,7 @@
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
  
 ## Please note:
-* After you do the steps below, you only need to repeat step 3.3 and step 3.5 everytime you play.
+* After you do the steps below, you only need to repeat "**step 3.1**" and "**step 3.4**" everytime you play.
 * Repeat steps below again after you reinstall your Windows.
 
 ## 1. Download and preparation: 
@@ -84,25 +84,25 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/136060097-7a5f2f5c-9fac-4445-aaba-56cd31b3a4dd.jpg" style="border: 2px solid red" />
 
-3.3. Click the 3 bars at top-left corner, and click "**Offline**"
+3.2. Click the 3 bars at top-left corner, and click "**Offline**"
  
  <img src="https://user-images.githubusercontent.com/91774682/136181202-344ab70c-03fd-45c0-b5cf-374f11f94f9a.jpg" style="border: 2px solid red" />
 
 <img src="https://user-images.githubusercontent.com/91774682/136180553-b58d0637-956d-44ed-9c3b-23b427a3a293.jpg" style="border: 2px solid red" />
  
-3.4. Afrer offline, click the 3 bars at top-left corner, and click "**Log Out**".
+3.3. Afrer offline, click the 3 bars at top-left corner, and click "**Log Out**".
  
  <img src="https://user-images.githubusercontent.com/91774682/136181202-344ab70c-03fd-45c0-b5cf-374f11f94f9a.jpg" style="border: 2px solid red" />
  
 <img src="https://user-images.githubusercontent.com/91774682/136060515-c96b1d69-c62f-43f4-8e89-a2abe997f818.jpg" style="border: 2px solid red" />
 
-3.5. Click "**Settings**" below, check "**Start Ubisoft Connect in offline mode**, "**Back**", and login again." <span style="color: red;">(THIS STEP VERY IMPORTANT!!! WE WILL NOT BE RESPONSIBLE IF YOU MISS THIS STEP EVERYTIME YOU LOGIN!!!)</span>
+3.4. Click "**Settings**" below, check "**Start Ubisoft Connect in offline mode**, "**Back**", and login again." <span style="color: red;">(THIS STEP VERY IMPORTANT!!! WE WILL NOT BE RESPONSIBLE IF YOU MISS THIS STEP EVERYTIME YOU LOGIN!!!)</span>
  
 <img src="https://user-images.githubusercontent.com/91774682/136086623-2ddb7a8f-d918-4518-ae32-5ae455af094c.jpg" style="border: 2px solid red" />
  
- <img src="https://user-images.githubusercontent.com/91774682/136086847-82b55b26-7292-4c8e-a8e0-0db97f33d6b0.jpg" style="border: 2px solid red" />
+<img src="https://user-images.githubusercontent.com/91774682/136086847-82b55b26-7292-4c8e-a8e0-0db97f33d6b0.jpg" style="border: 2px solid red" />
  
-  <img src="https://user-images.githubusercontent.com/91774682/136053934-51f379c8-ab44-4499-9c5d-b20f544f5099.jpg" style="border: 2px solid red" />
+<img src="https://user-images.githubusercontent.com/91774682/136053934-51f379c8-ab44-4499-9c5d-b20f544f5099.jpg" style="border: 2px solid red" />
  
  ## 4. Play
  
