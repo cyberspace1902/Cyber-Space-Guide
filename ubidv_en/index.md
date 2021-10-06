@@ -14,8 +14,12 @@
 
 # Ubisoft Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can ask us in Shopee Chat. Let's start it.
+ 
+## Please note:
+* After you do the steps below, you only need to repeat step 3.3 and step 3.5 everytime you play.
+* Repeat steps below again after you reinstall your Windows.
 
-## 1. Preparation: 
+## 1. Download and preparation: 
 1.1. Disable Windows Update with the program we gave. (Run as admin if it does not work.)
  
 <img src="https://user-images.githubusercontent.com/91774682/136052890-bc2c4922-56f2-4c3e-acad-333cd9d764eb.jpg" style="border: 2px solid red" />
@@ -28,15 +32,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
  
 <img src="https://user-images.githubusercontent.com/91774682/136053318-f6dee91c-d7a7-49bd-9451-2a1766924410.jpg" style="border: 2px solid red" />
  
- <img src="https://user-images.githubusercontent.com/91774682/136053311-a0b6bd98-77c3-47b3-a1b4-771fcb407300.jpg" style="border: 2px solid red" />
- 
-1.4. Open the exe, and choose a location where you like to install.
-
- <img src="https://user-images.githubusercontent.com/91774682/136053514-e20ca276-32c3-4c8f-94c2-008960895021.jpg" style="border: 2px solid red" />
- 
- <img src="hhttps://user-images.githubusercontent.com/91774682/136053560-a97b9576-cbbb-42de-af78-3955c0e7f5b6.jpg" style="border: 2px solid red" />
- 
- <img src="https://user-images.githubusercontent.com/91774682/136053591-23be3ce6-6669-469d-990d-369c3f98f983.jpg" style="border: 2px solid red" />
+<img src="https://user-images.githubusercontent.com/91774682/136053311-a0b6bd98-77c3-47b3-a1b4-771fcb407300.jpg" style="border: 2px solid red" />
 
 ## 2. Login: 
 
@@ -74,23 +70,33 @@ This tutorial will teach you how to log in, setup, download, and play step by st
  
  <img src="https://user-images.githubusercontent.com/91774682/136057008-d15126c3-2300-4c5b-82ba-599ece0f66d5.jpg" style="border: 2px solid red" />
 
-2.8. Wait to finish.
+2.8. Wait till finish.
 
 <img src="https://user-images.githubusercontent.com/91774682/136057112-3ff1f3a1-6a8c-479e-a99e-12e2580e602a.jpg" style="border: 2px solid red" />
 
 ## 3. Setup: 
 
-3.1. Click "**Settings**", Untick "**Enable cloud save... **".
+3.1. Click the 3 bars at top-left corner, "**Settings**", Untick "**Enable cloud save... **".
+ 
+ <img src="https://user-images.githubusercontent.com/91774682/136181202-344ab70c-03fd-45c0-b5cf-374f11f94f9a.jpg" style="border: 2px solid red" />
  
 <img src="https://user-images.githubusercontent.com/91774682/136085890-76fb7199-6766-417c-8aaf-cd7e8b469299.jpg" style="border: 2px solid red" />
 
 <img src="https://user-images.githubusercontent.com/91774682/136060097-7a5f2f5c-9fac-4445-aaba-56cd31b3a4dd.jpg" style="border: 2px solid red" />
 
-3.2. Click the 3 bars at top-left corner, and click "**Log Out**".
+3.3. Click the 3 bars at top-left corner, and click "**Offline**"
+ 
+ <img src="https://user-images.githubusercontent.com/91774682/136181202-344ab70c-03fd-45c0-b5cf-374f11f94f9a.jpg" style="border: 2px solid red" />
 
+<img src="https://user-images.githubusercontent.com/91774682/136180553-b58d0637-956d-44ed-9c3b-23b427a3a293.jpg" style="border: 2px solid red" />
+ 
+3.4. Afrer offline, click the 3 bars at top-left corner, and click "**Log Out**".
+ 
+ <img src="https://user-images.githubusercontent.com/91774682/136181202-344ab70c-03fd-45c0-b5cf-374f11f94f9a.jpg" style="border: 2px solid red" />
+ 
 <img src="https://user-images.githubusercontent.com/91774682/136060515-c96b1d69-c62f-43f4-8e89-a2abe997f818.jpg" style="border: 2px solid red" />
 
-3.3. Click "**Settings**" below, check "**Start Ubisoft Connect in offline mode**, "**Back**", and login again." <span style="color: red;">(THIS STEP VERY IMPORTANT!!! WE WILL NOT BE RESPONSIBLE IF YOU MISS THIS STEP EVERYTIME YOU LOGIN!!!)</span>
+3.5. Click "**Settings**" below, check "**Start Ubisoft Connect in offline mode**, "**Back**", and login again." <span style="color: red;">(THIS STEP VERY IMPORTANT!!! WE WILL NOT BE RESPONSIBLE IF YOU MISS THIS STEP EVERYTIME YOU LOGIN!!!)</span>
  
 <img src="https://user-images.githubusercontent.com/91774682/136086623-2ddb7a8f-d918-4518-ae32-5ae455af094c.jpg" style="border: 2px solid red" />
  
