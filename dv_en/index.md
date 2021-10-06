@@ -11,8 +11,7 @@
 ### <span style="color: red;">3. Make sure you start the game in offline mode to avoid you update the game accidently!!!</span>
 
 # Steam Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
-This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can ask us in Shopee Live Chat. Let's start it.
-
+This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
 ## Please note:
 * After you completing the setup, you only need to do **step 4.2** and **step 5.1** next time you play.
@@ -123,4 +122,4 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <h2></h2>
 
-<center> <h1>After completing the above steps, you are done! Wish you a good gaming experience! If you have other questions, please ask us in Shopee Live Chat! Thank you for your support! Welcome to come back next time!</h1> </center>
+<center> <h1>After completing the above steps, you are done! Wish you have a good gaming experience! If you have other questions, please pm us again in Shopee! Thank you for your support! Welcome to come back next time!</h1> </center>
