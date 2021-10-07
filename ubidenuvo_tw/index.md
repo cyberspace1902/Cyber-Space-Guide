@@ -17,7 +17,7 @@
 ### <span style="color: red;">4. 不能重灌系統！不能重灌系統！不能重灌系統！</span>
 ### <span style="color: red;">5. 請保持登入在帳號裏面不能登出！！！</span>
 
-### <span style="color: red;">在帳號需求量高的時候違反以上事項導致不能遊玩我們將不會對此行爲負責，請熟知！！！</span>
+### <span style="color: red;">在帳號需求量高的時候違反以上事項導致不能遊玩需要再次下單！！！請熟知！！！</span>
 
 
 ## 0. 下載
