@@ -7,7 +7,7 @@
  
 # <span style="color: red;">IMPORTANT!!!</span>
 ### <span style="color: red;">1. Make sure you have turned off Windows Update as we said!!!!</span>
-### <span style="color: red;">2. Please don't update the game before you setup 30 days!!!</span>
+### <span style="color: red;">2. Please let us arrange your update time if you want update the game after 30 days!!!</span>
 ### <span style="color: red;">3. Make sure you play the game in offline mode!!!</span>
 ### <span style="color: red;">4. Stay logged in to the account!!!</span>
   
