@@ -1,28 +1,42 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/91774682/135708227-fefb44fa-ae60-4d5b-8cdf-a68d30176e66.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/91774682/136349945-a873c338-cb9c-40db-b596-12ccba0a2192.png" width="250" height="250">
 </p>
 
 <center> <h3>請仔細閱讀此教程以免造成您無法再次遊玩此遊戲。如果我們在休工時間不在線/不回覆，請別急着給差評，我們會在工作時間回覆您。希望您能諒解。</h3> </center>
 
 ## 請注意：
-1. 完成以下步驟後，下次遊玩遊戲只需要完成"**步驟3.4**"就能安心遊玩。
+1. 完成以下步驟後，下次遊玩遊戲只需要完成"**步驟3.4**"就能安心遊玩 （自動登入帳號則不需要）。
  
 # 育碧平臺教程 by [賽博電玩](https://shopee.tw/selina860208)
 這個教程會一步步地教您如何登入，設置，下載以及遊玩。非常簡單。如果您有什麼不懂，可以在蝦皮聊聊詢問我們。我們必定盡力爲您服務。我們開始吧！
 
 ## <span style="color: red;">重要事項！！！</span>
 ### <span style="color: red;">1. 確保您有依照我們說的關閉了Windows 更新服務！！！</span>
-### <span style="color: red;">2. 請別在我們爲您安排時間之前更新遊戲！！！</span>
+### <span style="color: red;">2. 請讓我們爲您安排更新遊戲的時間！！！</span>
 ### <span style="color: red;">3. 確保您在離線模式下遊玩此遊戲以免造成需要重新激活和自動更新的情況！！！</span>
 ### <span style="color: red;">4. 不能重灌系統！不能重灌系統！不能重灌系統！</span>
+### <span style="color: red;">5. 請保持登入在帳號裏面不能登出！！！</span>
 
 ### <span style="color: red;">在帳號需求量高的時候違反以上事項導致不能遊玩我們將不會對此行爲負責，請熟知！！！</span>
+
+
+## 0. 下載
+
+0.1. 進入賣家給您的網址，並選擇你要下載的分流。點擊"**下載**"。
+
+<img src="https://user-images.githubusercontent.com/91774682/136357533-74525cfc-7361-472c-8e4b-2c65b47c96f4.jpg" style="border: 2px solid red" />
+
+0.2. 下載完成後使用解壓/壓縮工具（不能使用Windows自帶的！！！）解壓到你想安裝的文件夾。
+
+<img src="https://user-images.githubusercontent.com/91774682/136357960-82c803dc-9e27-4549-ac78-25dc12b13161.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/136357969-602d9cd0-97f3-47f3-aeb7-683246d131b4.jpg" style="border: 2px solid red" />
 
 ## 1. 登入
 
 1.1. 下載 [Ubisoft Connect](https://ubi.li/4vxt9)。
 
-1.2. 安裝完成後，輸入我們給您的郵箱和密碼，打勾"**記住我**"選項並點擊"**登入**"。
+1.2. 安裝完成後，跟我們索取帳號。輸入我們給您的郵箱和密碼，打勾"**記住我**"選項並點擊"**登入**"。
 
 <img src="https://user-images.githubusercontent.com/91774682/136170326-a3048df8-c359-442e-bdc5-7374670025fe.jpg" style="border: 2px solid red" />
 
@@ -30,9 +44,9 @@
 
 <img src="https://user-images.githubusercontent.com/91774682/136171178-a69e9bd6-03be-4cce-b0d2-6c3a8ee43a42.jpg" style="border: 2px solid red" />
 
-## 2. 下載和安裝：
+## 2. 安裝：
 
-2.1. 選擇你想下載的遊戲。
+2.1. 選擇你已經下載好的遊戲。
 
 <img src="https://user-images.githubusercontent.com/91774682/136171306-1f25687e-fbdd-46d6-848b-07113b1b86e7.jpg" style="border: 2px solid red" />
 
@@ -40,17 +54,21 @@
 
 <img src="https://user-images.githubusercontent.com/91774682/136171542-2ce3a304-06f4-4836-97a8-5c91f7dc326b.jpg" style="border: 2px solid red" />
 
-2.3. 選擇你想安裝的語言，點擊"**繼續**"。選擇您要安裝的位置（可保持默認），點擊"**繼續**"，"**接受並繼續**"。
+2.3. 選擇你想安裝的語言，點擊"**繼續**"。點擊"**更改**"，選擇剛剛您解壓縮的位置，點擊"**繼續**"，"**接受並繼續**"。
 
 <img src="https://user-images.githubusercontent.com/91774682/136171952-5d61eb4a-5367-415f-9aed-1a681a988d05.jpg" style="border: 2px solid red" />
 
-<img src="https://user-images.githubusercontent.com/91774682/136171960-a2857cc3-2def-444f-a072-d8095b67600b.jpg" style="border: 2px solid red" />
+<img src="https://user-images.githubusercontent.com/91774682/136361896-6cf32270-1bf2-4f73-ae46-0bf85637c0fe.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/136361904-b1444cd0-9dfb-4b6d-a5bd-c32687cf0d78.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/136361905-faf015fb-71ec-4a61-99b2-0bfcdef4f3bf.jpg" style="border: 2px solid red" />
 
 <img src="https://user-images.githubusercontent.com/91774682/136171934-20e3f96b-d106-453c-84b9-c1cd6cbf30f2.jpg" style="border: 2px solid red" />
 
-2.4. 等待下載完成。
+2.4. 等待完成。
 
-<img src="https://user-images.githubusercontent.com/91774682/136172221-b03e2db5-a012-4f41-91cb-b8ff4dfe888d.jpg" style="border: 2px solid red" />
+<img src="https://user-images.githubusercontent.com/91774682/136361909-2009d59d-286f-43f3-8c66-304b580d9a12.jpg" style="border: 2px solid red" />
 
 ## 3. 設置：
 
