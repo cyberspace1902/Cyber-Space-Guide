@@ -7,7 +7,7 @@
  
 # <span style="color: red;">IMPORTANT!!!</span>
 ### <span style="color: red;">1. Make sure you have turned off Windows Update as we said!!!!</span>
-### <span style="color: red;">2. Please let us arrange your update time if you want update the game after 30 days!!!</span>
+### <span style="color: red;">2. Please let us arrange your update time if you want update the game.</span>
 ### <span style="color: red;">3. Make sure you play the game in offline mode!!!</span>
 ### <span style="color: red;">4. Stay logged in to the account!!!</span>
   
@@ -57,7 +57,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
  
 <img src="https://user-images.githubusercontent.com/91774682/136056690-2abf15d3-2177-489a-a56a-5c4a25780767.jpg" style="border: 2px solid red" />
 
-2.7. Change the game location to where the game you located at, and click "**Continue**".
+2.7. Change the game location to where the game you extract at, and click "**Continue**".
  
 <img src="https://user-images.githubusercontent.com/91774682/136056941-f5ac543a-2cd0-438d-871d-f12846aa8f5f.jpg" style="border: 2px solid red" />
  
@@ -71,7 +71,11 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/136057112-3ff1f3a1-6a8c-479e-a99e-12e2580e602a.jpg" style="border: 2px solid red" />
 
-## 3. Setup: 
+## 3. Setup:
+
+3.0. Click "**Play**", and exit after you get into the game.
+
+<img src="https://user-images.githubusercontent.com/91774682/136621121-9535d5b1-7e1a-43c3-a8a9-065c2d0235ef.jpg" style="border: 2px solid red" />
 
 3.1. Click the 3 bars at top-left corner, "**Settings**", Untick "**Enable cloud save... **".
  
