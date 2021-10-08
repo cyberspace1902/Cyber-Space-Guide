@@ -1,4 +1,5 @@
 ### You only need to download from one link. Please use 7zip or Winrar to extract them!
+### If the zip files you download only 7gb, please download installpkg.dat and fctworlds.dat from Far Cry 6/data_final/pc/worlds.
 
 ### [Mirror 2](https://drive.google.com/file/d/1TwFEqJEM-S7-vjybm4FuIZdmTWWFylsh/view?usp=sharing)
 ### [Mirror 3](https://cyberspace1902-my.sharepoint.com/:f:/g/personal/cyberspace1902_cyberspace1902_onmicrosoft_com/Etht9GQild5DtXZ6x3k0iLQBHfJrggSqHI6PM6TXgBEM9w?e=cXI3ZX)
