@@ -8,8 +8,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 ## Please note:
 * Please log in to your account before obtaining the code to avoid this problem occurs.
 
- <img src="https://user-images.githubusercontent.com/91774682/135890393-84031741-45ad-4ff8-88ac-5c8cca7913c5.png" style="border: 2px solid red" />
-
+ <img src="https://user-images.githubusercontent.com/91774682/136669583-089c689d-00cf-4f34-914d-6bad7089d62d.jpg" style="border: 2px solid red" />
 
 ## 1.1 Get Shopee Order ID from PC
 
@@ -23,7 +22,6 @@ This tutorial will teach you how to log in, setup, download, and play step by st
    
 <img src="https://user-images.githubusercontent.com/91774682/135895635-4bfaf81b-c07b-47b5-9053-690cb055dd32.jpg" style="border: 2px solid red" />
     
-
 1.1.2.  It will be a long string sequence with letters and numbers on the right.
 
 <img src="https://user-images.githubusercontent.com/91774682/135896119-c6acb5aa-a05c-49b9-9ee2-cf7ee423ef27.jpg" style="border: 2px solid red" />
