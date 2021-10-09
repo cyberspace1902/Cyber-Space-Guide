@@ -7,9 +7,9 @@
  
 # <span style="color: red;">IMPORTANT!!!</span>
 ### <span style="color: red;">1. Make sure you have turned off Windows Update as we said!!!!</span>
-### <span style="color: red;">2. Please let us arrange your update time if you want update the game.</span>
+### <span style="color: red;">2. Please get our consent before you want to update the game and enter online mode.</span>
 ### <span style="color: red;">3. Make sure you play the game in offline mode!!!</span>
-### <span style="color: red;">4. Stay logged in to the account!!!</span>
+### <span style="color: red;">4. You must play in offline mode.</span>
   
 ### <span style="color: red;">YOU WILL HAVE TO PAY AGAIN FOR THE GAME IF YOU CAN'T PLAY THE GAME ANYMORE BECAUSE OF DON'T FOLLOW THE IMPORTANT RULES!!! HOPE BOSS WILL UNDERSTAND OUR DIFFICULTY. </span>
 
@@ -25,7 +25,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
  
 <img src="https://user-images.githubusercontent.com/91774682/136052997-3e5f2959-a756-4929-9bd0-6dc2c61ec75b.jpg" style="border: 2px solid red" />
 
-1.3. After finish downloading, open the zip file and extract to a location where you like to.
+1.3. After finish downloading, open the zip file and extract to a location where you like.
  
 <img src="https://user-images.githubusercontent.com/91774682/136053318-f6dee91c-d7a7-49bd-9451-2a1766924410.jpg" style="border: 2px solid red" />
  
@@ -73,11 +73,11 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ## 3. Setup:
 
-3.0. Click "**Play**", and exit after you get into the game.
+3.0. Click "**Play**" after the discover progress are completed. Exit after you enter the game.
 
-<img src="https://user-images.githubusercontent.com/91774682/136621121-9535d5b1-7e1a-43c3-a8a9-065c2d0235ef.jpg" style="border: 2px solid red" />
+<img src="https://user-images.githubusercontent.com/91774682/136671306-633b9dbd-1323-4af5-9341-ebc3c7d96f8b.jpg" style="border: 2px solid red" />
 
-3.1. Click the 3 bars at top-left corner, "**Settings**", Untick "**Enable cloud save... **".
+3.1. Click the hamburger at top-left corner, "**Settings**", Untick "**Enable cloud save... **".
  
  <img src="https://user-images.githubusercontent.com/91774682/136181202-344ab70c-03fd-45c0-b5cf-374f11f94f9a.jpg" style="border: 2px solid red" />
  
@@ -85,13 +85,13 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/136060097-7a5f2f5c-9fac-4445-aaba-56cd31b3a4dd.jpg" style="border: 2px solid red" />
 
-3.2. Click the 3 bars at top-left corner, and click "**Offline**"
+3.2. Click the hamburger at top-left corner, and click "**Offline**"
  
  <img src="https://user-images.githubusercontent.com/91774682/136181202-344ab70c-03fd-45c0-b5cf-374f11f94f9a.jpg" style="border: 2px solid red" />
 
 <img src="https://user-images.githubusercontent.com/91774682/136180553-b58d0637-956d-44ed-9c3b-23b427a3a293.jpg" style="border: 2px solid red" />
  
-3.3. After offline, click the 3 bars at top-left corner, and click "**Log Out**".
+3.3. After offline, click the hamburger again at top-left corner, and click "**Log Out**".
  
  <img src="https://user-images.githubusercontent.com/91774682/136181202-344ab70c-03fd-45c0-b5cf-374f11f94f9a.jpg" style="border: 2px solid red" />
  
