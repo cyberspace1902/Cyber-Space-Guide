@@ -8,8 +8,7 @@ Tutorial tersebut akan mengajar anda cara menggunakan sistem pengambilan kod dan
 ## Untuk perhatian:
 * Sila log-masukkan akaun anda sebelum memperolehi kod untuk mengelakkan masalah tersebut berlaku.
 
- <img src="https://user-images.githubusercontent.com/91774682/135890393-84031741-45ad-4ff8-88ac-5c8cca7913c5.png" style="border: 2px solid red" />
-
+ <img src="https://user-images.githubusercontent.com/91774682/136669583-089c689d-00cf-4f34-914d-6bad7089d62d.jpg" style="border: 2px solid red" />
 
 ## 1. Memperolehi ID pesanan:
 
