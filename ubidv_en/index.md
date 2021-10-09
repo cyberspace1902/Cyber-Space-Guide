@@ -8,8 +8,7 @@
 # <span style="color: red;">IMPORTANT!!!</span>
 ### <span style="color: red;">1. Make sure you have turned off Windows Update as we said!!!!</span>
 ### <span style="color: red;">2. Please get our consent before you want to update the game and enter online mode.</span>
-### <span style="color: red;">3. Make sure you play the game in offline mode!!!</span>
-### <span style="color: red;">4. You must play in offline mode.</span>
+### <span style="color: red;">3. You must play in offline mode.</span>
   
 ### <span style="color: red;">YOU WILL HAVE TO PAY AGAIN FOR THE GAME IF YOU CAN'T PLAY THE GAME ANYMORE BECAUSE OF DON'T FOLLOW THE IMPORTANT RULES!!! HOPE BOSS WILL UNDERSTAND OUR DIFFICULTY. </span>
 
@@ -73,7 +72,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ## 3. Setup:
 
-3.0. Click "**Play**" after the discover progress are completed. Exit after you enter the game.
+3.0. Click "**Play**" after the discovery progress is completed. Exit after you enter the game.
 
 <img src="https://user-images.githubusercontent.com/91774682/136671306-633b9dbd-1323-4af5-9341-ebc3c7d96f8b.jpg" style="border: 2px solid red" />
 
@@ -97,7 +96,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
  
 <img src="https://user-images.githubusercontent.com/91774682/136060515-c96b1d69-c62f-43f4-8e89-a2abe997f818.jpg" style="border: 2px solid red" />
 
-3.4. Click "**Settings**" below, check "**Start Ubisoft Connect in offline mode**, "**Back**", and login again." <span style="color: red;">(THIS STEP VERY IMPORTANT!!! WE WILL NOT BE RESPONSIBLE IF YOU MISS THIS STEP EVERYTIME YOU LOGIN!!!)</span>
+3.4. Click "**Settings**" below, check "**Start Ubisoft Connect in offline mode**, "**Back**", and login again." <span style="color: red;">(THIS STEP IS VERY IMPORTANT!!! WE WILL NOT BE RESPONSIBLE IF YOU MISS THIS STEP EVERYTIME YOU LOGIN EXCEPT YOU HAVE AUTOMATICALLY LOGGED IN!!!)</span>
  
 <img src="https://user-images.githubusercontent.com/91774682/136086623-2ddb7a8f-d918-4518-ae32-5ae455af094c.jpg" style="border: 2px solid red" />
  
