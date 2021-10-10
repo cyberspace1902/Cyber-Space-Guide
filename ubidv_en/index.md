@@ -7,8 +7,8 @@
  
 # <span style="color: red;">IMPORTANT!!!</span>
 ### <span style="color: red;">1. Make sure you have turned off Windows Update as we said!!!!</span>
-### <span style="color: red;">2. Please get our consent before you want to update the game and enter online mode.</span>
-### <span style="color: red;">3. You must play in offline mode.</span>
+### <span style="color: red;">2. Please get our consent before you want to update the game and enter online mode!!!</span>
+### <span style="color: red;">3. You must play in offline mode!!!</span>
   
 ### <span style="color: red;">YOU WILL HAVE TO PAY AGAIN FOR THE GAME IF YOU CAN'T PLAY THE GAME ANYMORE BECAUSE OF DON'T FOLLOW THE IMPORTANT RULES!!! HOPE BOSS WILL UNDERSTAND OUR DIFFICULTY. </span>
 
