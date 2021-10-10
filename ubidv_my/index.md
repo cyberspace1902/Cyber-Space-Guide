@@ -5,11 +5,11 @@
 ### Sila membaca tutorial dengan teliti. Jika kami tidak membalas anda luar masa kerja, harap jangan memberikan review yang negatif disebabkan kami sedang berehat pada masa ketika. Harap anda boleh memahami. Jika anda bersikap mesra dengan kami, kami akan berkhidmat anda dengan baik. Terima kasih atas sokongan anda! 
  
 # <span style="color: red;">MAKLUMAT PENTING !!!</span>
-### <span style="color: red;">1. Pastikan anda telah menutupkan Windows Update seperti yang dinyatakan !!!</span>
-### <span style="color: red;">2. Jangan mengemas-kini game sebelum kami menyusunkan anda masa untuk kemas kini !!!</span>
-### <span style="color: red;">3. Pastikan anda melancarkan game dalam mod luar talian untuk mengelakkan anda mengemas-kini game secara tidak sengaja !!!</span>
+### <span style="color: red;">1. Pastikan anda telah menutupkan Windows Update seperti yang dinyatakan!!!</span>
+### <span style="color: red;">2. Sila dapatkan persetujuan daripada kami sebelum anda ingin mengemas-kini game dan masuk ke mod dalam talian.</span>
+### <span style="color: red;">3. Anda haruslah main dalam mod luar talian!!!</span>
   
-### <span style="color: red;">KAMI TIDAK AKAN BERTANGGUNGJAWAB JIKA ANDA TIDAK DAPAT BERMAIN LAGI DISEBABKAN ANDA TIDAK MENGIKUT PERATURAN PENTING !!! </span>
+### <span style="color: red;">ANDA PERLU BAYAR LAGI UNTUK MEMBELI GAME LAGI JIKA ANDA TIDAK DAPAT BERMAIN LAGI DISEBABKAN ANDA TIDAK MENGIKUT PERATURAN YANG PENGTING!!! HARAP BOS BOLEH MEMAHAMI KESUSAHAN KAMI.</span>
 
 # Panduan Platform Ubisoft dari [Cyber Space](https://shopee.com.my/cyberspace1902)
 Tutorial tersebut akan mengajar anda cara log masuk, setup, memuat turun, dan bermain langkah demi langkah. Ini adalah sangat mudah. Sila membaca dengan berhati-hati, jika anda terdapat sesuatu yang kurang faham, anda boleh PM kami di Shopee. Mari kita mulakan.
@@ -74,6 +74,10 @@ Tutorial tersebut akan mengajar anda cara log masuk, setup, memuat turun, dan be
 
 ## 3. Persediaan:
 
+3.0. Tekan "Play" selepas progres penemuan telah disiapkan. Keluarkan selepas anda memasuki game tersebut.
+
+<img src="https://user-images.githubusercontent.com/91774682/136671306-633b9dbd-1323-4af5-9341-ebc3c7d96f8b.jpg" style="border: 2px solid red" />
+
 3.1. Tekan "**Hamburger**" pada sudut atas kiri, “Settings”, nyahtandakan "**Enable cloud save…**".
  
  <img src="https://user-images.githubusercontent.com/91774682/136181202-344ab70c-03fd-45c0-b5cf-374f11f94f9a.jpg" style="border: 2px solid red" />
@@ -94,7 +98,7 @@ Tutorial tersebut akan mengajar anda cara log masuk, setup, memuat turun, dan be
  
 <img src="https://user-images.githubusercontent.com/91774682/136060515-c96b1d69-c62f-43f4-8e89-a2abe997f818.jpg" style="border: 2px solid red" />
 
-3.4. Tekan "**Settings**" pada bawah, tandakan "**Start Ubisoft Connect in offline mode**", "**Back**", dan log masuk lagi. <span style="color: red;">(LANGKAH INI ADALAH SANGAT PENTING!!! KAMI TIDAK AKAN BERTANGGUNGJAWAB JIKA ANDA TERLEPAS LANGKAH INI SETIAP KALI ANDA LOG MASUK!!!)</span>
+3.4. Tekan "**Settings**" pada bawah, tandakan "**Start Ubisoft Connect in offline mode**", "**Back**", dan log masuk lagi. <span style="color: red;">(LANGKAH INI ADALAH SANGAT PENTING!!! KAMI TIDAK AKAN BERTANGGUNGJAWAB JIKA ANDA TERTINGGAL LANGKAH INI SETIAP KALI ANDA LOG MASUK SELAIN ANDA LOG MASUK SECARA AUTOMATIK!!!)</span>
  
 <img src="https://user-images.githubusercontent.com/91774682/136086623-2ddb7a8f-d918-4518-ae32-5ae455af094c.jpg" style="border: 2px solid red" />
  
