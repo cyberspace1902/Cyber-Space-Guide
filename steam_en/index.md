@@ -30,11 +30,11 @@ This tutorial will teach you how to log in, setup, download, and play step by st
  <img src="https://user-images.githubusercontent.com/91774682/135746487-421ed157-2192-49e0-9b64-7670737efbcf.jpg" style="border: 2px solid red" />
 
 ## 3. Download and install:
-3.1. After you log in into Steam, click on "**LIBRARY**" on the top.
+3.1. After you logged in successfully, click "**LIBRARY**" on the top.=
 
  <img src="https://user-images.githubusercontent.com/91774682/135746879-888520a8-a73a-4293-b1bc-8e55963eb131.jpg" style="border: 2px solid red" />
 
-3.2. Choose the game you likes to download, click to enter. (For example: F1 2021)
+3.2. Choose the game you likes to download, click on it. (For example: F1 2021)
 
  <img src="https://user-images.githubusercontent.com/91774682/135747116-4d8c908c-b079-423d-bf58-170000da31c0.jpg" style="border: 2px solid red" />
 
@@ -44,11 +44,11 @@ This tutorial will teach you how to log in, setup, download, and play step by st
  
  <img src="https://user-images.githubusercontent.com/91774682/135747353-b9d970e0-038f-4d8f-94a6-71c0cfd21eff.jpg" style="border: 2px solid red" />
 
-3.4. Choose location to install, create shortcut as needed and click on "NEXT>". (Can keep default)
+3.4. Choose a location you like, create shortcut as needed and click on "NEXT>". (Can keep default)
 
  <img src="https://user-images.githubusercontent.com/91774682/135748741-792bb820-51fc-407a-bcc8-6b8b7057b309.jpg" style="border: 2px solid red" />
 
-3.5. Choose the language as you like, and click on "**I AGREE**". (Skip if there is no such interface.)
+3.5. Select the language you want, and click on "**I AGREE**". (Skip if there is no such interface.)
 
  <img src="https://user-images.githubusercontent.com/91774682/135748869-744f9f70-748c-46f3-b0a5-fb3673fe1295.jpg" style="border: 2px solid red" />
 
@@ -56,7 +56,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://user-images.githubusercontent.com/91774682/135748907-cf4a5de7-8d74-40f3-a1f0-b2a453982bc1.jpg" style="border: 2px solid red" />
 
-3.7. Click on "**DOWNLOADS**" below, you can see it is downloading. At this moment, you just need to wait patiently until the download and installation are complete.
+3.7. Click the "**DOWNLOADS**" button below, you can see it is downloading right now. At this moment, you just need to wait patiently until the download and installation are complete.
 
  <img src="https://user-images.githubusercontent.com/91774682/135749211-634f0019-6fc8-4aad-9214-47994d4dd5c9.jpg" style="border: 2px solid red" />
  
@@ -64,7 +64,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ## 4. Setup:
 
-4.1. Click on "**LIBRARY**", right click on the game you want to setup/play, and click on "**Properties...**".
+4.1. Click "**LIBRARY**" again, right click on the game you want to setup/play, and click on "**Properties...**".
 
  <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
@@ -72,7 +72,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://user-images.githubusercontent.com/91774682/135749647-ee7160cd-1ccc-4422-b2af-f5c6bf412d5f.jpg" style="border: 2px solid red" />
 
-4.3. After the game is installing, click "**Play**". After entering the game, click ""**Exit**"", ""**Quit**"" or Alt + F4 to exit the game.
+4.3. After the game is installing, click "**Play**". Click ""**Exit**"", ""**Quit**"" or Alt + F4 to exit the game once you entered the game successfully.
 
 <img src="https://user-images.githubusercontent.com/91774682/135750002-a20c5a37-45a3-4596-89e2-40578aaf6832.jpg" style="border: 2px solid red" />
 
@@ -80,7 +80,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ## 5. Play:
 
-5.1. After completing the setup, click "Steam" in the upper left corner and click "Go Offline...", "**RESTART IN OFFLINE MODE**".
+5.1. After you finish the setup, click "Steam" in the upper left corner and click "Go Offline...", "**RESTART IN OFFLINE MODE**".
 
 <img src="https://user-images.githubusercontent.com/91774682/135750380-1a61c6f1-e1b0-425d-9507-5fd60f13b439.jpg" style="border: 2px solid red" />
 
@@ -90,14 +90,14 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ### Enable controller function
 
-6.1. Click on "**LIBRARY**", right click on the game you want to setup/play, and click on "**Properties...**".
+6.1. Click "**LIBRARY**", right click on the game you want to setup/play, and click on "**Properties...**".
 
 <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
-6.2. Click on "**CONTROLLER**", change the options on middle to "**Enable Steam Input**".
+6.2. Select "**CONTROLLER**", change the options on middle to "**Enable Steam Input**".
 
 <img src="https://user-images.githubusercontent.com/91774682/135759643-178b6bf3-4baa-4400-b498-11059775055c.jpg" style="border: 2px solid red" />
 
 <h2></h2>
 
-<center> <h1>After completing the above steps, you are done! Wish you have a good gaming experience! If you have other questions, please pm us again in Shopee! Thank you for your support! Welcome to come back next time!</h1> </center>
+<center> <h1>After completing the above steps, you are done! If you have other questions, please pm us again in Shopee! Wish you have a good gaming experience! Thank you for your support! Welcome to come back next time!</h1> </center>
