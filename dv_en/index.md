@@ -27,8 +27,9 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135746372-c50e3052-db32-48d0-9278-fa797d9d1034.jpg" style="border: 2px solid red" />
 
-2.2. Click "**NEXT>**" once this window pop up, get the Steam Guard access code from our [pickup website](https://cyberspace.cyou) and enter into the boxes and click "**NEXT>**".
-> [How to get Steam Guard access code from the website?](LOL)
+2.2. After the Steam Guard window pops up, click "**Next >**". Then get the verification code on the website, enter it into the boxes.
+
+> [How to get Steam Guard access code from the website?](https://cutt.ly/dEXhDw8)
 
 <img src="https://user-images.githubusercontent.com/91774682/135746485-c171ef77-d583-4c72-87e8-6573b8cb23aa.jpg" style="border: 2px solid red" />
 
