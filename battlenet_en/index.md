@@ -21,7 +21,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135727561-d30fa4e5-8d0f-45e2-956e-f1b13caa2a0d.jpg" style="border: 2px solid red" />
 
-2.2. Click on the "**Use another account**" after you jump to page sign in Google account.
+2.2. Click "**Use another account**" after you jump to the page sign in Google account.
 
 <img src="https://user-images.githubusercontent.com/91774682/135728069-f690d543-4bb6-41ff-b59d-6b1afe1486aa.jpg" style="border: 2px solid red" />
 
