@@ -82,7 +82,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135763729-f86058ea-be97-4048-a19d-890498f63951.jpg" style="border: 2px solid red" />
 
-4.3. After the game is installed, click "**Play**". Click ""**Exit**"", ""**Quit**"" or Alt + F4 to exit the game once you entered the game successfully.
+4.4. After the game is installed, click "**Play**". Click ""**Exit**"", ""**Quit**"" or Alt + F4 to exit the game once you entered the game successfully.
 
 <img src="https://user-images.githubusercontent.com/91774682/135750002-a20c5a37-45a3-4596-89e2-40578aaf6832.jpg" style="border: 2px solid red" />
 
