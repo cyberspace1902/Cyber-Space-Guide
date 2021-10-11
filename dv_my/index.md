@@ -2,8 +2,13 @@
 <img src="https://user-images.githubusercontent.com/91774682/135708227-fefb44fa-ae60-4d5b-8cdf-a68d30176e66.png" width="250" height="250">
 </p>
 
-### Please read the tutorial carefully. If we do not reply to you during the off-hours, please don’t rush to give us a bad rating, we are taking a break at the moment. If you have a good attitude towards us, we will definitely serve you hard. Thank you for your support!
+### Sila membaca tutorial dengan teliti. Jika kami tidak membalas anda luar masa kerja, harap jangan memberikan review yang negatif disebabkan kami sedang berehat pada masa ketika. Harap anda boleh memahami. Jika anda bersikap mesra dengan kami, kami akan berkhidmat anda dengan baik. Terima kasih atas sokongan anda!
  
+# <span style="color: red;">MAKLUMAT PENTING !!!</span>
+### <span style="color: red;">1. Pastikan anda telah menutupkan Windows Update seperti yang dinyatakan!!!</span>
+### <span style="color: red;">2. Sila dapatkan persetujuan daripada kami sebelum anda ingin mengemas-kini game dan masuk ke mod dalam talian.</span>
+### <span style="color: red;">3. Anda haruslah main dalam mod luar talian!!!</span>
+
 # Panduan Platform Steam dari [Cyber Space](https://shopee.com.my/cyberspace1902)
 Tutorial tersebut akan mengajar anda cara log masuk, setup, memuat turun, dan bermain langkah demi langkah. Ini adalah sangat mudah. Sila membaca dengan berhati-hati, jika anda terdapat sesuatu yang kurang faham, anda boleh PM kami di Shopee. Mari kita mulakan.
 
