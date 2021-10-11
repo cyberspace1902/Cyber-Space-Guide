@@ -80,7 +80,7 @@ Tutorial tersebut akan mengajar anda cara log masuk, setup, memuat turun, dan be
 
 ## 5. Main:
 
-5.1. After you finish the setup, click "Steam" in the upper left corner and click "Go Offline...", "**RESTART IN OFFLINE MODE**".
+5.1. Selepas anda menyiapkan proses persediaan, tekan "**Steam**" pada sudut atas kiri dan tekan "**Go Offline…**", "**RESTART IN OFFLINE MODE**".
 
 <img src="https://user-images.githubusercontent.com/91774682/135750380-1a61c6f1-e1b0-425d-9507-5fd60f13b439.jpg" style="border: 2px solid red" />
 
