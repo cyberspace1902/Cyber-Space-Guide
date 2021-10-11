@@ -14,7 +14,7 @@
 # Panduan Platform Ubisoft dari [Cyber Space](https://shopee.com.my/cyberspace1902)
 Tutorial tersebut akan mengajar anda cara log masuk, setup, memuat turun, dan bermain langkah demi langkah. Ini adalah sangat mudah. Sila membaca dengan berhati-hati, jika anda terdapat sesuatu yang kurang faham, anda boleh PM kami di Shopee. Mari kita mulakan.
  
-## Nota:
+## Harap maklum:
 * Selepas menyiapkan langkah berikut, anda hanya perlu mengulangkan "**langkah 3.3**" & langkah 3.5 setiap kali anda bermain.
 * Sila berulang langkah tersebut jika anda memasang Windows semula.
 
