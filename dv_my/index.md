@@ -9,6 +9,8 @@
 ### <span style="color: red;">2. Sila dapatkan persetujuan daripada kami sebelum anda ingin mengemas-kini game dan masuk ke mod dalam talian.</span>
 ### <span style="color: red;">3. Anda haruslah main dalam mod luar talian!!!</span>
 
+### <span style="color: red;">ANDA PERLU BAYAR LAGI UNTUK MEMBELI GAME LAGI JIKA ANDA TIDAK DAPAT BERMAIN LAGI DISEBABKAN ANDA TIDAK MENGIKUT PERATURAN YANG PENGTING!!! HARAP BOS BOLEH MEMAHAMI KESUSAHAN KAMI.</span>
+
 # Panduan Platform Steam dari [Cyber Space](https://shopee.com.my/cyberspace1902)
 Tutorial tersebut akan mengajar anda cara log masuk, setup, memuat turun, dan bermain langkah demi langkah. Ini adalah sangat mudah. Sila membaca dengan berhati-hati, jika anda terdapat sesuatu yang kurang faham, anda boleh PM kami di Shopee. Mari kita mulakan.
 
