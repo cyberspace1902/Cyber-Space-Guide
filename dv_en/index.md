@@ -35,12 +35,12 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135746487-421ed157-2192-49e0-9b64-7670737efbcf.jpg" style="border: 2px solid red" />
 
-## 3. Download and install:
+## 3. Install:
 3.1. After you logged in successfully, click "**LIBRARY**" on the top.=
 
  <img src="https://user-images.githubusercontent.com/91774682/135746879-888520a8-a73a-4293-b1bc-8e55963eb131.jpg" style="border: 2px solid red" />
 
-3.2. Choose the game you likes to download, click on it. (For example: F1 2021)
+3.2. Choose the game you download, click on it. (For example: F1 2021)
 
  <img src="https://user-images.githubusercontent.com/91774682/135747116-4d8c908c-b079-423d-bf58-170000da31c0.jpg" style="border: 2px solid red" />
 
@@ -50,7 +50,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
  
  <img src="https://user-images.githubusercontent.com/91774682/135747353-b9d970e0-038f-4d8f-94a6-71c0cfd21eff.jpg" style="border: 2px solid red" />
 
-3.4. Choose a location you like, create shortcut as needed and click on "NEXT>". (Can keep default)
+3.4. Choose the SteamLibrary where the game you extract, create shortcut as needed and click on "NEXT>".
 
  <img src="https://user-images.githubusercontent.com/91774682/135748741-792bb820-51fc-407a-bcc8-6b8b7057b309.jpg" style="border: 2px solid red" />
 
@@ -62,7 +62,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://user-images.githubusercontent.com/91774682/135748907-cf4a5de7-8d74-40f3-a1f0-b2a453982bc1.jpg" style="border: 2px solid red" />
 
-3.7. Click the "**DOWNLOADS**" button below, you can see it is downloading right now. At this moment, you just need to wait patiently until the download and installation are complete.
+3.7. Click the "**DOWNLOADS**" button below, you can see the installation is starting right now. At this moment, you just need to wait patiently until the installation are complete.
 
  <img src="https://user-images.githubusercontent.com/91774682/135749211-634f0019-6fc8-4aad-9214-47994d4dd5c9.jpg" style="border: 2px solid red" />
  
