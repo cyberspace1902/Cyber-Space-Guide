@@ -95,7 +95,25 @@
 
 5.1. 點擊"**開始遊戲**"。
 
-![14](https://user-images.githubusercontent.com/91774682/136980191-997a2301-601f-4ce0-8994-09f28ae8e30e.jpg)
+<img src="https://user-images.githubusercontent.com/91774682/136980191-997a2301-601f-4ce0-8994-09f28ae8e30e.jpg" style="border: 2px solid red" />
+
+## 6. <span style="color: red;">如何切換帳號？（這個步驟很重要，跟着這個步驟切換帳號可以把重新激活的機率降到最低）</span>
+
+6.1. 進入大圖片模式。
+
+<img src="https://user-images.githubusercontent.com/91774682/136989235-8ee6b05d-6489-4b63-b140-01fcbf2eea12.jpg" style="border: 2px solid red" />
+
+6.2. 點擊電源按鈕和"**登出使用者**"退出當前帳號。
+
+<img src="https://user-images.githubusercontent.com/91774682/136989293-e8e65ec0-0270-47d1-bbc3-d101fc181188.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/136989303-34e883f0-2c8e-44d4-8129-78720a58152b.jpg" style="border: 2px solid red" />
+
+6.3. 選擇您想切換的帳號，並點擊"**保持離線**"。
+
+<img src="https://user-images.githubusercontent.com/91774682/136989314-8990415e-67a6-4b08-a264-28b96e5c2cb3.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/136989320-5fffbeda-230d-4585-8968-fc50368dc2c5.jpg" style="border: 2px solid red" />
 
 <h2></h2>
 
