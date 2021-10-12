@@ -107,15 +107,35 @@ Tutorial tersebut akan mengajar anda cara log masuk, setup, memuat turun, dan be
 
 <img src="https://user-images.githubusercontent.com/91774682/135764612-0cfb5bfb-d979-415f-a874-117ce5eb969e.jpg" style="border: 2px solid red" />
 
-## 7. Panduan tambahan (Pilihan)
+## 7. <span style="color: red;"> Penukaran akaun: (Langkah ini adalah sangat penting, ia akan menurunkan peluang pengaktifan semula ke minimum jika anda mengikut langkah ini untuk menukar akaun!)</span>
+
+7.1. Masuk ke mod "**Big Picture**".
+
+<img src="https://user-images.githubusercontent.com/91774682/136946681-4542841b-bbb5-4dbd-8cb3-3a71397fc046.jpg" style="border: 2px solid red" />
+
+7.2. Log keluar akaun semasa.
+
+<img src="https://user-images.githubusercontent.com/91774682/136946718-ef63760e-704a-4f84-b93d-918ad88e5491.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/136946729-c7939b7e-bc37-485b-a495-c4ec981d0963.jpg" style="border: 2px solid red" />
+
+7.3. Pilih akaun yang anda ingin log masuk.
+
+<img src="https://user-images.githubusercontent.com/91774682/136946771-72391b57-6ddf-4aae-8f73-bdcf6be4555e.jpg" style="border: 2px solid red" />
+
+7.4. Tekan "**Stay Offline**".
+
+<img src="https://user-images.githubusercontent.com/91774682/136946781-b93940c3-adcf-408b-b72a-6355d99aa210.jpg" style="border: 2px solid red" />
+
+## 8. Panduan tambahan (Pilihan)
 
 ### Aktifkan fungsi pengawal
 
-7.1. Tekan "**LIBRARY**", klik kanan pada game yang anda ingin melalukan persediaan/bermain, dan klik "**Properties…**".
+8.1. Tekan "**LIBRARY**", klik kanan pada game yang anda ingin melalukan persediaan/bermain, dan klik "**Properties…**".
 
 <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
-7.2. Pilih "**CONTROLLER**", tukarkan pilihan pada tengah kepada "**Enable Steam Input**".
+8.2. Pilih "**CONTROLLER**", tukarkan pilihan pada tengah kepada "**Enable Steam Input**".
 
 <img src="https://user-images.githubusercontent.com/91774682/135759643-178b6bf3-4baa-4400-b498-11059775055c.jpg" style="border: 2px solid red" />
 
