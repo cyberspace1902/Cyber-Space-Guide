@@ -1,0 +1,102 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/91774682/136349945-a873c338-cb9c-40db-b596-12ccba0a2192.png" width="250" height="250">
+</p>
+
+<center> <h3>請仔細閱讀此教程以免造成您無法再次遊玩此遊戲。如果我們在休工時間不在線/不回覆，請別急着給差評，我們會在工作時間回覆您。希望您能諒解。</h3> </center>
+
+## 請注意：
+1. 完成以下步驟後，下次遊玩遊戲只需要完成"**步驟4.2**"和"**步驟4.5**"能安心遊玩 （自動登入帳號則不需要）。
+
+
+## <span style="color: red;">重要事項！！！</span>
+### <span style="color: red;">1. 確保您有依照我們說的關閉了Windows 更新服務！！！</span>
+### <span style="color: red;">2. 請讓我們爲您安排更新遊戲的時間！！！</span>
+### <span style="color: red;">3. 確保您在離線模式下遊玩此遊戲以免造成需要重新激活和自動更新的情況！！！</span>
+### <span style="color: red;">4. 不能重灌系統！不能重灌系統！不能重灌系統！</span>
+
+### <span style="color: red;">在帳號需求量高的時候違反以上事項導致不能遊玩需要再次下單！！！請熟知！！！</span>
+
+## 1. 下載[Steam客戶端](https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe)。
+
+1.1. 下載[Steam客戶端](https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe)。
+
+## 2. 登錄。
+
+2.1. 輸入我們給您的用戶名和密碼，打勾"**記住我的密碼**"並點擊"**登入**"。
+
+<img src="https://user-images.githubusercontent.com/91774682/136976214-fa9970e8-47bd-4cc1-989b-d5cc40c6290b.jpg" style="border: 2px solid red" />
+
+2.2. 點擊"**下一步**"，跟我們索取驗證碼並輸入，再次點擊"**下一步**"。
+
+<img src="https://user-images.githubusercontent.com/91774682/136976510-dcc433aa-a507-4387-934b-f6b74de466e9.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/136976502-203bd860-38f1-424b-a433-1e2b25fe457e.jpg" style="border: 2px solid red" />
+
+2.3. 點擊"**完成**"。
+
+<img src="https://user-images.githubusercontent.com/91774682/136976695-dfb0693f-ab1d-49eb-826c-6e1da4bc6939.jpg" style="border: 2px solid red" />
+
+## 3. 下載&安裝。
+
+3.1. 點擊"**收藏庫**"。
+
+<img src="https://user-images.githubusercontent.com/91774682/136977131-c442ef9e-5db4-498c-b398-9efc0626568f.jpg" style="border: 2px solid red" />
+
+
+3.2. 選擇你想安裝的遊戲並點擊"**安裝**"。
+
+<img src="https://user-images.githubusercontent.com/91774682/136977389-b1750bbf-d279-461b-a451-fcfe1beabdf3.jpg" style="border: 2px solid red" />
+
+3.3. 選擇您的安裝位置（可保持默認），並點擊"**下一步**"。
+
+<img src="https://user-images.githubusercontent.com/91774682/136977576-b7e331ab-beee-44cc-89ed-4bfd9dab4efc.jpg" style="border: 2px solid red" />
+
+3.4. 點擊"**我同意**"，（若沒有此界面則跳過）。
+
+<img src="https://user-images.githubusercontent.com/91774682/136977736-682a1f39-97ad-4591-84ab-d585293fd8c6.jpg" style="border: 2px solid red" />
+
+3.5. 點擊"**完成**"。
+
+<img src="https://user-images.githubusercontent.com/91774682/136977848-304c51c8-840e-40ff-9327-673e7abc626d.jpg" style="border: 2px solid red" />
+
+3.6. 點擊下方的"**下載中**"，您可以看到遊戲已經正在下載。此時您只需要等待遊戲下載完畢。
+
+<img src="https://user-images.githubusercontent.com/91774682/136978175-51a0d2bf-98a8-44e5-a8f1-c772559b00ff.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/136978312-a71ed217-30ba-4387-a290-2a97081df2a7.jpg" style="border: 2px solid red" />
+
+## 4. 初始設置：
+
+4.1. 返回收藏庫，右鍵您想設置的遊戲，點擊"**內容**"。
+
+<img src="https://user-images.githubusercontent.com/91774682/136977131-c442ef9e-5db4-498c-b398-9efc0626568f.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/136978629-737223fc-72c3-4cca-bff3-419bccb505a7.jpg" style="border: 2px solid red" />
+
+4.2. 關閉"**STEAM雲端**"功能，並點擊更新。
+
+<img src="https://user-images.githubusercontent.com/91774682/136978934-653535ea-dc2f-4c20-aab9-87c5a0a812a7.jpg" style="border: 2px solid red" />
+
+4.3. 把自動更新的選項改成"**只有當我啓動此遊戲時才開始更新**"。
+
+<img src="https://user-images.githubusercontent.com/91774682/136979255-37599bae-4b38-4f6b-b79d-c158a052799d.jpg" style="border: 2px solid red" />
+
+4.4. 遊戲下載完成後，點擊"**開始遊戲**"。進入遊戲主頁面後退出遊戲。
+
+<img src="https://user-images.githubusercontent.com/91774682/136979429-19c5e250-b3d5-4029-ba71-1a580042b1df.jpg" style="border: 2px solid red" />
+
+4.5. 點擊左上角的"**STEAM**"，"**離線**"，並點擊"**重新啓動爲離線模式**"。
+
+<img src="https://user-images.githubusercontent.com/91774682/136979856-be21f622-eb49-49b9-854f-df5fa66c3537.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/136979864-85205e95-c95f-4315-a763-55cb9e3c990c.jpg" style="border: 2px solid red" />
+
+## 5. 遊玩：
+
+5.1. 點擊"**開始遊戲**"。
+
+![14](https://user-images.githubusercontent.com/91774682/136980191-997a2301-601f-4ce0-8994-09f28ae8e30e.jpg)
+
+<h2></h2>
+
+<center> <h3>完成以上步驟後，就能在離線模式下暢玩了！祝您有個美好的遊戲體驗！如果還有什麼問題，請私信我們。我們必將盡力爲您服務！</h3> </center>
