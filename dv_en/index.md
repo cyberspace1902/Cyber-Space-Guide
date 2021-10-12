@@ -106,15 +106,35 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135764612-0cfb5bfb-d979-415f-a874-117ce5eb969e.jpg" style="border: 2px solid red" />
 
-## 7. Additional guide (Optional)
+## 7. <span style="color: red;"> Switch Account: (This step very important, it will reduce the chance of reactivate to minimum if you follow this method to switch account!)</span>
 
-### Enable controller function
+7.1. Enter Big Picture Mode.
 
-7.1.1 Click "**LIBRARY**", right click on the game you want to setup/play, and click on "**Properties...**".
+<img src="https://user-images.githubusercontent.com/91774682/136946681-4542841b-bbb5-4dbd-8cb3-3a71397fc046.jpg" style="border: 2px solid red" />
+
+7.2. Log out your current account.
+
+<img src="https://user-images.githubusercontent.com/91774682/136946718-ef63760e-704a-4f84-b93d-918ad88e5491.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/136946729-c7939b7e-bc37-485b-a495-c4ec981d0963.jpg" style="border: 2px solid red" />
+
+7.3. Select the account you want to login.
+
+<img src="https://user-images.githubusercontent.com/91774682/136946771-72391b57-6ddf-4aae-8f73-bdcf6be4555e.jpg" style="border: 2px solid red" />
+
+7.4. Click "**Stay Offline**".
+
+<img src="https://user-images.githubusercontent.com/91774682/136946781-b93940c3-adcf-408b-b72a-6355d99aa210.jpg" style="border: 2px solid red" />
+
+## 8. Additional guide (Optional)
+
+### 8.1 Enable controller function
+
+8.1.1 Click "**LIBRARY**", right click on the game you want to setup/play, and click on "**Properties...**".
 
 <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
-7.1.2 Select "**CONTROLLER**", change the options on middle to "**Enable Steam Input**".
+8.1.2 Select "**CONTROLLER**", change the options on middle to "**Enable Steam Input**".
 
 <img src="https://user-images.githubusercontent.com/91774682/135759643-178b6bf3-4baa-4400-b498-11059775055c.jpg" style="border: 2px solid red" />
 
