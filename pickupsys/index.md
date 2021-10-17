@@ -54,7 +54,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 1.2.7. Scroll down, and you will see the Order ID at the end.
 
- <img src="https://user-images.githubusercontent.com/91774682/135900463-ddf79865-98dd-4e58-b038-d8def189d669.jpg)" style="border: 2px solid red" />
+ <img src="https://user-images.githubusercontent.com/91774682/135900463-ddf79865-98dd-4e58-b038-d8def189d669.jpg" style="border: 2px solid red" />
 
 ## 2. Username/Email:
 
