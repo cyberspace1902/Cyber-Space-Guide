@@ -1,4 +1,4 @@
-## 1. 下載[Rockstar啓動器]。(https://socialclub.rockstargames.com/rockstar-games-launcher?_gl=1%2A1hznyoo%2A_ga%2ANzU4MTQ1Mjk4LjE2MzUwNTkxOTU.%2A_ga_PJQ2JYZDQC%2AMTYzNzQwNzgwNi4yMS4xLjE2Mzc0MDc4MDYuMA..&_ga=2.108492033.2078593567.1637392823-758145298.1635059195)
+## 1. 下載[Rockstar啓動器](https://socialclub.rockstargames.com/rockstar-games-launcher?_gl=1%2A1hznyoo%2A_ga%2ANzU4MTQ1Mjk4LjE2MzUwNTkxOTU.%2A_ga_PJQ2JYZDQC%2AMTYzNzQwNzgwNi4yMS4xLjE2Mzc0MDc4MDYuMA..&_ga=2.108492033.2078593567.1637392823-758145298.1635059195)。
 
 ## 2. 輸入我們給您的郵箱和密碼並登入。
 ![1](https://user-images.githubusercontent.com/91774682/142724764-af124590-db13-4b57-a544-fcc3b0634a0c.jpg)
