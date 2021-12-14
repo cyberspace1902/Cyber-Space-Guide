@@ -1,5 +1,5 @@
 ## Please note:
-* After you completing the setup, you only need to do **step 4.2** and **step 5.1** next time you play.
+* After you completing the setup, you only need to do **step 4.3 (If you using disconnect internet method)**, **step 5.1** and **step 5.2** next time you play.
 * Please repeat the following steps if you play in a new device/after reset your device.
 
 ## 1. [Download and install Steam](https://store.steampowered.com/about/). (Skip if you already installed):
