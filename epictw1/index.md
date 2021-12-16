@@ -1,8 +1,8 @@
 ## <span style="color: red;">重要事項！！！</span>
-### <span style="color: red;">1. 確保您有依照我們說的關閉了Windows 更新服務！！！</span>
-### <span style="color: red;">2. 確保您在離線模式下遊玩此遊戲以免造成需要重新激活自動更新的情況！！！</span>
-### <span style="color: red;">3. 不能重灌系統！不能重灌系統！不能重灌系統！</span>
-### <span style="color: red;">4. 不能刪除斷網規則和切換帳號！！！</span>
+### <span style="color: red;">1. 確保您有依照我們說的關閉了Windows 更新服務。</span>
+### <span style="color: red;">2. 不能重灌系統！不能重灌系統！不能重灌系統！</span>
+### <span style="color: red;">3. 不能換設備！不能換設備！不能換設備！</span>
+### <span style="color: red;">4. 因官方平臺較爲嚴格，確保您根據我們的教程做做離線設置，並且在下載登錄EPIC是以離線的方式進入，以免發生需要重新激活或使用者IP被官方鎖的可能，諾違反以上事項導致不能遊玩需要再次下單。請熟知！！</span>
 
 ### <span style="color: red;">違反以上事項導致不能遊玩需要再次下單！！！請熟知！！！</span>
 
