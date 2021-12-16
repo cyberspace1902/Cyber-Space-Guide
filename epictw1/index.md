@@ -2,7 +2,7 @@
 ### <span style="color: red;">1. 確保您有依照我們說的關閉了Windows 更新服務！！！</span>
 ### <span style="color: red;">2. 確保您在離線模式下遊玩此遊戲以免造成需要重新激活和自動更新的情況！！！</span>
 ### <span style="color: red;">3. 不能重灌系統！不能重灌系統！不能重灌系統！</span>
-### <span style="color: red;">4. 不能重灌系統！不能重灌系統！不能重灌系統！</span>
+### <span style="color: red;">4. 不能刪除斷網規則和切換帳號！！！</span>
 
 ### <span style="color: red;">在帳號需求量高的時候違反以上事項導致不能遊玩需要再次下單！！！請熟知！！！</span>
 
