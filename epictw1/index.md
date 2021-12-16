@@ -1,13 +1,13 @@
 ## <span style="color: red;">重要事項！！！</span>
 ### <span style="color: red;">1. 確保您有依照我們說的關閉了Windows 更新服務！！！</span>
-### <span style="color: red;">2. 確保您在離線模式下遊玩此遊戲以免造成需要重新激活和自動更新的情況！！！</span>
+### <span style="color: red;">2. 確保您在離線模式下遊玩此遊戲以免造成需要重新激活自動更新的情況！！！</span>
 ### <span style="color: red;">3. 不能重灌系統！不能重灌系統！不能重灌系統！</span>
 ### <span style="color: red;">4. 不能刪除斷網規則和切換帳號！！！</span>
 
-### <span style="color: red;">在帳號需求量高的時候違反以上事項導致不能遊玩需要再次下單！！！請熟知！！！</span>
+### <span style="color: red;">違反以上事項導致不能遊玩需要再次下單！！！請熟知！！！</span>
 
 ## 步驟：
-0. 下載並運行我們給你的reg文件，點擊YES/是。
+0. 下載並運行我們給你的[reg文件](https://github.com/cyberspace1902/Cyber-Space-Guide/releases/download/o%3B%3B/pauseupdate.reg)，點擊YES/是。
 
 ![o](https://user-images.githubusercontent.com/91774682/146409843-91957c78-387d-4762-872c-3b5b38264482.jpg)
 
@@ -49,12 +49,18 @@
 
 ![12](https://user-images.githubusercontent.com/91774682/146409114-651ffb25-411d-4c73-9aae-475f2fc7eeb4.jpg)
 
-10. 以管理員模式運行離線器。
+10. 以管理員模式運行我們給您的[離線器](https://github.com/cyberspace1902/Cyber-Space-Guide/releases/download/o%3B%3B/epicoffline.bat)。
 
 ![7](https://user-images.githubusercontent.com/91774682/146409279-59fe8377-eb80-4c69-922b-e38b473871c7.jpg)
 
-11. 等待數分鐘直到EPIC出現這個紫色的欄絛，並且點擊使用離線模式。
+11. 可能需要等待非常久，等待數分鐘直到EPIC出現這個紫色的欄絛，並且點擊使用離線模式。
 
 ![15](https://user-images.githubusercontent.com/91774682/146409568-a214973f-aa97-4e8d-8f0e-1f5412574db5.jpg)
 
-12. 祝您有個愉快的遊戲體驗！
+12. 以後登入時輸入我們給您的郵箱地址然後登入。
+
+![18](https://user-images.githubusercontent.com/91774682/146414377-70b3d3aa-9acc-486f-a080-24c804596938.jpg)
+
+13. 在快速啓動項啓動遊戲。
+
+![17](https://user-images.githubusercontent.com/91774682/146414479-616978d5-4bb3-4d9d-9181-7b93d3d0265c.jpg)
