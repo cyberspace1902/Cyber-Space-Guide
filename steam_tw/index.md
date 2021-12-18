@@ -47,7 +47,6 @@
 
 <img src="https://user-images.githubusercontent.com/91774682/136977131-c442ef9e-5db4-498c-b398-9efc0626568f.jpg" style="border: 2px solid red" />
 
-
 3.2. 選擇你想安裝的遊戲並點擊"**安裝**"。
 
 <img src="https://user-images.githubusercontent.com/91774682/136977389-b1750bbf-d279-461b-a451-fcfe1beabdf3.jpg" style="border: 2px solid red" />
