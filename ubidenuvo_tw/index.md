@@ -19,18 +19,11 @@
 
 ### <span style="color: red;">在帳號需求量高的時候違反以上事項導致不能遊玩需要再次下單！！！請熟知！！！</span>
 
+## 0. 下載並運行我們給你的[reg文件](https://github.com/cyberspace1902/Cyber-Space-Guide/releases/download/o%3B%3B/pauseupdate.reg)，點擊YES/是。
 
-## 0. 下載
+![o](https://user-images.githubusercontent.com/91774682/146409843-91957c78-387d-4762-872c-3b5b38264482.jpg)
 
-0.1. 進入賣家給您的網址，並選擇你要下載的分流。點擊"**下載**"。
-
-<img src="https://user-images.githubusercontent.com/91774682/136357533-74525cfc-7361-472c-8e4b-2c65b47c96f4.jpg" style="border: 2px solid red" />
-
-0.2. 下載完成後使用解壓/壓縮工具（不能使用Windows自帶的！！！）解壓到你想安裝的文件夾。
-
-<img src="https://user-images.githubusercontent.com/91774682/136357960-82c803dc-9e27-4549-ac78-25dc12b13161.jpg" style="border: 2px solid red" />
-
-<img src="https://user-images.githubusercontent.com/91774682/136357969-602d9cd0-97f3-47f3-aeb7-683246d131b4.jpg" style="border: 2px solid red" />
+![16](https://user-images.githubusercontent.com/91774682/146410001-2bfae0e8-d19b-4ded-81df-8f9b8661454c.jpg)
 
 ## 1. 登入
 
@@ -46,7 +39,7 @@
 
 ## 2. 安裝：
 
-2.1. 選擇你已經下載好的遊戲。
+2.1. 選擇你想下載的遊戲。
 
 <img src="https://user-images.githubusercontent.com/91774682/136171306-1f25687e-fbdd-46d6-848b-07113b1b86e7.jpg" style="border: 2px solid red" />
 
@@ -54,7 +47,7 @@
 
 <img src="https://user-images.githubusercontent.com/91774682/136171542-2ce3a304-06f4-4836-97a8-5c91f7dc326b.jpg" style="border: 2px solid red" />
 
-2.3. 選擇你想安裝的語言，點擊"**繼續**"。點擊"**更改**"，選擇剛剛您解壓縮的位置，點擊"**繼續**"，"**接受並繼續**"。
+2.3. 選擇你想安裝的語言，點擊"**繼續**"。點擊"**更改**"，選擇你要安裝的位置，點擊"**繼續**"，"**接受並繼續**"。
 
 <img src="https://user-images.githubusercontent.com/91774682/136171952-5d61eb4a-5367-415f-9aed-1a681a988d05.jpg" style="border: 2px solid red" />
 
