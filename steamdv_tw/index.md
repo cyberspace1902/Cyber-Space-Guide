@@ -16,6 +16,12 @@
 
 ### <span style="color: red;">在帳號需求量高的時候違反以上事項導致不能遊玩需要再次下單！！！請熟知！！！</span>
 
+## 0. 下載並運行我們給你的[reg文件](https://github.com/cyberspace1902/Cyber-Space-Guide/releases/download/o%3B%3B/pauseupdate.reg)，點擊YES/是。
+
+![o](https://user-images.githubusercontent.com/91774682/146409843-91957c78-387d-4762-872c-3b5b38264482.jpg)
+
+![16](https://user-images.githubusercontent.com/91774682/146410001-2bfae0e8-d19b-4ded-81df-8f9b8661454c.jpg)
+
 ## 1. 下載[Steam客戶端](https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe)。
 
 1.1. 下載[Steam客戶端](https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe)。
