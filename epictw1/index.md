@@ -1,3 +1,11 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/91774682/136349945-a873c338-cb9c-40db-b596-12ccba0a2192.png" width="250" height="250">
+</p>
+
+<center> <h3>請仔細閱讀此教程以免造成您無法再次遊玩此遊戲。如果我們在休工時間不在線/不回覆，請別急着給差評，我們會在工作時間回覆您。希望您能諒解。</h3> </center>
+
+
+
 ## <span style="color: red;">重要事項！！！</span>
 ### <span style="color: red;">1. 確保您有依照我們說的關閉了Windows 更新服務。</span>
 ### <span style="color: red;">2. 不能重灌系統！不能重灌系統！不能重灌系統！</span>
