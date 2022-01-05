@@ -62,7 +62,7 @@
 
 <img src="https://user-images.githubusercontent.com/91774682/144553406-7c2c450b-d272-49f3-b051-72349cfeb899.jpg" style="border: 2px solid red" />
 
-### 13. Run the Origin Offline.bat as administrator.
+### 13. Run the [Origin Offline.bat](https://cutt.ly/RYZiTmj) as administrator.
 
 ![admin](https://user-images.githubusercontent.com/91774682/148103877-9ed70ecc-0492-420e-8c68-9a8695ca8c81.jpg)
 
