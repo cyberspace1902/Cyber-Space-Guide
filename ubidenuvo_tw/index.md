@@ -47,7 +47,7 @@
 
 <img src="https://user-images.githubusercontent.com/91774682/136171542-2ce3a304-06f4-4836-97a8-5c91f7dc326b.jpg" style="border: 2px solid red" />
 
-2.3. 選擇你想安裝的語言，點擊"**繼續**"。點擊"**更改**"，選擇你要安裝的位置，點擊"**繼續**"，"**接受並繼續**"。
+2.3. 選擇你想安裝的語言，點擊"**繼續**"。點擊"**更改**"，選擇你要安裝的位置（如果您是從雲端下載遊戲文件的話就選擇您解壓縮該文件的位置），點擊"**繼續**"，"**接受並繼續**"。
 
 <img src="https://user-images.githubusercontent.com/91774682/136171952-5d61eb4a-5367-415f-9aed-1a681a988d05.jpg" style="border: 2px solid red" />
 
