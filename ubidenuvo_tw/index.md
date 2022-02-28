@@ -65,7 +65,13 @@
 
 ## 3. 設置：
 
-3.1. 下載完成後，點擊"**開始遊戲**"。進入遊戲主頁面後，<span style="color: red;">立刻退出遊戲！！！</span>
+3.0. 下載完成後，進入設定然後關掉雲端選項。
+
+<img src="https://user-images.githubusercontent.com/91774682/155927381-ff59647a-f35d-4295-b9ee-a570ed5877dc.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/155927425-99483d7d-9261-4dee-b9d9-57b48dfefca6.jpg" style="border: 2px solid red" />
+
+3.1. 點擊"**開始遊戲**"。進入遊戲主頁面後，<span style="color: red;">立刻退出遊戲！！！</span>
 
 <img src="https://user-images.githubusercontent.com/91774682/136172705-31286c8e-6b3d-4e05-a633-05815dafdb04.jpg" style="border: 2px solid red" />
 
