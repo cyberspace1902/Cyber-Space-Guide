@@ -44,11 +44,19 @@
 
 ### 2. Unable to download GreenLuma.zip because Chrome said it's unsafe.
 
-> Press CTRL J on your keyboard, and click keep the file. If the file has been blocked again by your antivirus, allow and whitelist it. After that click the link below the file again, if it still then allow and whitelist again.
+> Press CTRL J on your keyboard, and click keep the file. If the file has been blocked again by your antivirus, allow and whitelist it. After that click the link below the file again, if it still then allow and whitelist again at your antivirus manage page.
 
 ### 3. My DLLinjector exe/x86 dll/GreenLuma Settings are missing.
 
-> The file has been blocked again by your antivirus, allow/whitelist and restore them.
+> The file has been blocked again by your antivirus, allow/whitelist and restore them at your antivirus manage page.
+
+### 4. Unable to open ini.
+
+> Please locate the file correctly as the tutorial we provided.
+
+### 5. There is already a process...... etc
+
+> Exit Steam before you run DLLInjector.exe.
 
 ## Game Issue
 ### 1. Easy Anti Cheat is not installed.
