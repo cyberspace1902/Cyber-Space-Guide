@@ -6,7 +6,7 @@
  
  
 # <span style="color: red;">IMPORTANT!!!</span>
-### <span style="color: red;">1. Make sure you have turned off Windows Update as we said!!!!</span>
+### <span style="color: red;">1. Make sure you have turned off Windows Update as we said or manually!!!!</span>
 ### <span style="color: red;">2. Please get our consent before you want to update the game and enter online mode. (Follow [Step 6](https://gd.csmail.store/dv_en/#6-if-steam-force-you-to-update-the-game-in-offline-mode) if Steam forced you to update)</span>
 ### <span style="color: red;">3. Make sure you start the game in offline mode to avoid you update the game accidently!!!</span>
 
@@ -14,9 +14,26 @@
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
 ## Please note:
-* After you completing the setup, you only need to do **step 4.2** and **step 5.1** next time you play.
+* After you completing the setup, you only need to do **step 4.2**, **step 5.1** and **step 6** next time you play.
 * Please repeat the following steps if you play in a new device/after reset your device.
 
+## 0. Pause Windows Update until you finish the game or when the game/account is in dropped to low traffic (You can just pause it manually at Windows Update setting):
+
+0.1. Download the [Windows Update Pauser reg](https://cutt.ly/JU56Pif) file we gave:
+
+<img src="https://user-images.githubusercontent.com/91774682/226674300-84b87208-c457-4b0d-aa18-63060689f7f7.jpg" style="border: 2px solid red" />
+
+0.2. Run the file to pause Windows Update until 2099, you can resume it at Windows Update Setting in the future.
+
+<img src="https://user-images.githubusercontent.com/91774682/226674620-d7018f14-aa3d-4711-a096-32eb0d81c552.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/226674691-0059fc29-cd72-47ec-b25c-641e414ef5d5.jpg" style="border: 2px solid red" />
+
+0.3. Done!
+
+<img src="https://user-images.githubusercontent.com/91774682/226675292-65485aac-c46c-47a7-bd9f-1694748e5261.jpg" style="border: 2px solid red" />
+
+                                                                                                                                             
 ## 1. [Download and install Steam](https://store.steampowered.com/about/). (Skip if you already installed):
 
 <img src="https://user-images.githubusercontent.com/91774682/135745721-68d77853-dcd6-4af9-9022-68fd87ce83e3.jpg" style="border: 2px solid red" />
@@ -100,35 +117,13 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135764612-0cfb5bfb-d979-415f-a874-117ce5eb969e.jpg" style="border: 2px solid red" />
 
-## 7. <span style="color: red;"> If you want to switch account: (THIS STEP VERY IMPORTANT!!!)</span>
+### 7 Enable controller function
 
-7.1. Enter Big Picture Mode.
-
-<img src="https://user-images.githubusercontent.com/91774682/136946681-4542841b-bbb5-4dbd-8cb3-3a71397fc046.jpg" style="border: 2px solid red" />
-
-7.2. Log out your current account.
-
-<img src="https://user-images.githubusercontent.com/91774682/136946718-ef63760e-704a-4f84-b93d-918ad88e5491.jpg" style="border: 2px solid red" />
-
-<img src="https://user-images.githubusercontent.com/91774682/136946729-c7939b7e-bc37-485b-a495-c4ec981d0963.jpg" style="border: 2px solid red" />
-
-7.3. Select the account you want to login.
-
-<img src="https://user-images.githubusercontent.com/91774682/136946771-72391b57-6ddf-4aae-8f73-bdcf6be4555e.jpg" style="border: 2px solid red" />
-
-7.4. Click "**Stay Offline**".
-
-<img src="https://user-images.githubusercontent.com/91774682/136946781-b93940c3-adcf-408b-b72a-6355d99aa210.jpg" style="border: 2px solid red" />
-
-## 8. Additional guide (Optional)
-
-### 8.1 Enable controller function
-
-8.1.1 Click "**LIBRARY**", right click on the game, and click on "**Properties...**".
+7.1 Click "**LIBRARY**", right click on the game, and click on "**Properties...**".
 
 <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
-8.1.2 Select "**CONTROLLER**", change the options to "**Enable Steam Input**".
+7.2 Select "**CONTROLLER**", change the options to "**Enable Steam Input**".
 
 <img src="https://user-images.githubusercontent.com/91774682/135759643-178b6bf3-4baa-4400-b498-11059775055c.jpg" style="border: 2px solid red" />
 
