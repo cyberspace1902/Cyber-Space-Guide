@@ -81,43 +81,43 @@ This tutorial will teach you how to log in, setup, download, and play step by st
  ## 4. Setup:
  4.1. After the game is finish downloading, download the patch we provide.
  
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a84cf478-d95b-4a13-ade1-af9887ca7489" style="border: 2px solid red" />
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f35e173a-e09a-44ee-ac53-9ffd818a9fb5" style="border: 2px solid red" />
  
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/7bdf1af0-ea7b-451f-9b47-22447b7aa9d8" style="border: 2px solid red" />
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/985e1144-75b0-4a69-b32b-b3941132e06e" style="border: 2px solid red" />
  
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f1a7ab88-1ce6-4706-be3a-ffd68ba6650e" style="border: 2px solid red" />
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/150c63ef-1944-42e5-bd18-3abf14d20290" style="border: 2px solid red" />
 
  4.2. Open and follow the steps to install it in the game folder by clicking on next.
  
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/4aab7ca9-57be-483a-816d-4f85112b44f0" style="border: 2px solid red" />
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/78163cae-e935-4bbc-8508-6b69f596f54c" style="border: 2px solid red" />
  
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/9ffb27a4-00e7-4d60-a3e4-afc60d6689c5" style="border: 2px solid red" />
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/74a2bf44-7d5d-46c7-9d88-aa0a5c1a4040" style="border: 2px solid red" />
  
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ddfd7e0f-91bd-4255-9dc7-24ce48154b51" style="border: 2px solid red" />
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a7ab5f5e-f5fd-4dda-819f-65cc45ce2bef" style="border: 2px solid red" />
  
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/268baa6b-6690-4de2-a48d-b62bc00c5f83" style="border: 2px solid red" />
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/9792dec4-692e-4e4e-8461-0675872a6012" style="border: 2px solid red" />
  
  4.3. Open the game launcher via desktop shortcut or installer (FIFA 23 Launcher for example).
- 
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f7d1f061-ab2b-4fca-ab0c-c1b9e153e6e1" style="border: 2px solid red" />
+
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f720181e-eeeb-4e75-a7cb-7325584fd63c" style="border: 2px solid red" />
 
  4.4. click Ctrl + C to copy the error and paste it into [0bin.net](https://0bin.net/) and click submit. Send the link to us after submit is completed.
  
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/aad86a77-9f76-4bb8-b63d-c8c7c063a055" style="border: 2px solid red" />
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a96515ce-8393-4807-8b9c-5a4ad1e0278e" style="border: 2px solid red" />
 
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/1ec495b1-0354-413e-b7a4-957cdcd2d94f" style="border: 2px solid red" />
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/88e57039-9c00-4751-a68d-f1aeae06ea5e" style="border: 2px solid red" />
 
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/bb60d12f-0cc7-474c-83c7-be880bd4b5f5" style="border: 2px solid red" />
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/d8e96e8f-d127-4962-b0b5-68755c8fe4e1" style="border: 2px solid red" />
 
  4.5. We will provide you with the 0bin.net link containing the denuvo token. Copy it and open the desktop shortcut to the token changer for that game and paste it in with a right click and hit enter.
- 
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f91d9a9d-11db-4469-9ec3-e3f05488b86c" style="border: 2px solid red" />
 
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/06cbdd95-aec1-45be-8229-848c22da4107" style="border: 2px solid red" />
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/17de09d6-66ef-40e8-aaf4-3980532f7270" style="border: 2px solid red" />
 
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/59bbe864-c893-4e86-a5d9-faf9f7e35800" style="border: 2px solid red" />
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/be89735a-eee1-4044-b0fe-6905be8e2b9d" style="border: 2px solid red" />
 
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/9734df44-e4b8-4e3b-be12-693cd774d37f" style="border: 2px solid red" />
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c636a5a2-67aa-4ba7-9251-5158ae987f10" style="border: 2px solid red" />
+
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/52d4b56e-9ee7-4420-a6a3-aace406ef506" style="border: 2px solid red" />
  
  <h2></h2>
 
