@@ -115,8 +115,8 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/be89735a-eee1-4044-b0fe-6905be8e2b9d" style="border: 2px solid red" />
 
-  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c636a5a2-67aa-4ba7-9251-5158ae987f10" style="border: 2px solid red" />
-
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/08f96ac9-a8fd-4ae5-b5c6-2dbb6c028671" style="border: 2px solid red" />
+ 
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/52d4b56e-9ee7-4420-a6a3-aace406ef506" style="border: 2px solid red" />
  
  <h2></h2>
