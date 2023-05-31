@@ -107,8 +107,8 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/88e57039-9c00-4751-a68d-f1aeae06ea5e" style="border: 2px solid red" />
 
-  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/d8e96e8f-d127-4962-b0b5-68755c8fe4e1" style="border: 2px solid red" />
-
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/0fe423f2-b95c-4a5c-8afa-0dba947823e9" style="border: 2px solid red" />
+  
  4.5. We will provide you with the 0bin.net link containing the denuvo token. Copy it and open the desktop shortcut to the token changer for that game and paste it in with a right click and hit enter.
 
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/17de09d6-66ef-40e8-aaf4-3980532f7270" style="border: 2px solid red" />
