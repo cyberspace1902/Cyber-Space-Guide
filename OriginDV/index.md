@@ -87,10 +87,12 @@ This tutorial will teach you how to log in, setup, download, and play step by st
  
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/150c63ef-1944-42e5-bd18-3abf14d20290" style="border: 2px solid red" />
 
- 4.2. Open and follow the steps to install it in the game folder by clicking on next.
+ 4.2. Open and follow the steps to install it in the game folder by clicking on next (Browse local files at Steam to know where the game you installed in).
  
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/78163cae-e935-4bbc-8508-6b69f596f54c" style="border: 2px solid red" />
- 
+  
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/8b01955b-d0c1-4df9-937a-09daae346706" style="border: 2px solid red" />
+  
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/74a2bf44-7d5d-46c7-9d88-aa0a5c1a4040" style="border: 2px solid red" />
  
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a7ab5f5e-f5fd-4dda-819f-65cc45ce2bef" style="border: 2px solid red" />
