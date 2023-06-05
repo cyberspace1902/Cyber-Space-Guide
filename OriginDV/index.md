@@ -103,19 +103,19 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f720181e-eeeb-4e75-a7cb-7325584fd63c" style="border: 2px solid red" />
 
- 4.4. click Ctrl + C to copy the error and paste it into [0bin.net](https://0bin.net/) and click submit. Send the link to us after submit is completed.
+ 4.4. click Ctrl + C to copy the error and paste it into [Controlc.com](https://controlc.com/) and click submit. Send the link to us after submit is completed.
  
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a96515ce-8393-4807-8b9c-5a4ad1e0278e" style="border: 2px solid red" />
 
-  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/88e57039-9c00-4751-a68d-f1aeae06ea5e" style="border: 2px solid red" />
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/40e0cab8-8027-4626-b2b4-5e7962f70dd7" style="border: 2px solid red" />
 
-  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/0fe423f2-b95c-4a5c-8afa-0dba947823e9" style="border: 2px solid red" />
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/3e53b15b-a152-40cb-a04a-6c66860ac1b7" style="border: 2px solid red" />
   
- 4.5. We will provide you with the 0bin.net link containing the denuvo token. Copy it and open the desktop shortcut to the token changer for that game and paste it in with a right click and hit enter.
+ 4.5. We will provide you with the ControlC.com link containing the denuvo token. Copy it and open the desktop shortcut to the token changer for that game and paste it in with a right click and hit enter.
 
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/17de09d6-66ef-40e8-aaf4-3980532f7270" style="border: 2px solid red" />
 
-  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/be89735a-eee1-4044-b0fe-6905be8e2b9d" style="border: 2px solid red" />
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/e854c1b7-c9c8-4157-a59e-7798ed77d5b3" style="border: 2px solid red" />
 
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/08f96ac9-a8fd-4ae5-b5c6-2dbb6c028671" style="border: 2px solid red" />
  
