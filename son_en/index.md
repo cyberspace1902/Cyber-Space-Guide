@@ -8,7 +8,7 @@
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
 ## Please note:
-* After you completing the setup, you only need to do **step 4.2** and **step 5.1** next time you play.
+* After you completing the setup, you only need to do **step 4.3** next time you play.
 * Please repeat the following steps if you play in a new device/after reset your device.
 
 ## 1. [Download and install Steam](https://store.steampowered.com/about/). (Skip if you already installed):
@@ -56,37 +56,35 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://user-images.githubusercontent.com/91774682/135748907-cf4a5de7-8d74-40f3-a1f0-b2a453982bc1.jpg" style="border: 2px solid red" />
 
-## 4. Setup:
+## 4. Play: (You will need to do 4.1 & 4.2 only once)
 
-4.1. Click "**LIBRARY**" again, right click on the game, and click on "**Properties...**".
+4.1. After the game is installed, start the game and login Rockstar Launcher with the Email and password we provided.
 
- <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
+<img src="https://user-images.githubusercontent.com/91774682/135750002-a20c5a37-45a3-4596-89e2-40578aaf6832.jpg" style="border: 2px solid red" />
 
-4.2. Uncheck the option "**Keep games saves in the Steam cloud for....**". (Skip this step if you don't found the option there)
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/48bc9492-d418-423d-8165-df7c62c9cc92" style="border: 2px solid red" />
 
- <img src="https://user-images.githubusercontent.com/91774682/135749647-ee7160cd-1ccc-4422-b2af-f5c6bf412d5f.jpg" style="border: 2px solid red" />
- 
-## 5. Play:
+4.2. Click "**Not Right Now**" when the Cloud Saves option appear.
 
-5.1. After the game is installed, click "**Play**". After entering the game main menu, disconnect your internet connection by turn off your wifi or remove the lan cable.
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c46fd027-a4d8-489b-bbc3-eaafedfe223a" style="border: 2px solid red" />
 
- <img src="https://user-images.githubusercontent.com/91774682/135750002-a20c5a37-45a3-4596-89e2-40578aaf6832.jpg" style="border: 2px solid red" />
+4.3. After entered the game main menu, disconnect your internet connection by turn off your wifi or remove the lan cable.
  
  <img src="https://user-images.githubusercontent.com/91774682/135758484-f85199e3-ad54-4fb5-819b-9b4c31fcc642.jpg" style="border: 2px solid red" />
  
  <img src="https://user-images.githubusercontent.com/91774682/135758478-5eb18dfe-4302-4036-9926-643cb9fd474d.png" style="border: 2px solid red" />
 
-## 6. Additional guide (Optional)
+## 5. Additional guide (Optional)
 
 ### Enable controller function
 
 6.1. Click "**LIBRARY**", right click on the game you want to setup/play, and click on "**Properties...**".
 
- <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
+<img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
 6.2. Select "**CONTROLLER**", change the options to "**Enable Steam Input**".
 
- <img src="https://user-images.githubusercontent.com/91774682/135759643-178b6bf3-4baa-4400-b498-11059775055c.jpg" style="border: 2px solid red" />
+<img src="https://user-images.githubusercontent.com/91774682/135759643-178b6bf3-4baa-4400-b498-11059775055c.jpg" style="border: 2px solid red" />
 
 <h2></h2>
 
