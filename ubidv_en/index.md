@@ -9,22 +9,32 @@
 ### <span style="color: red;">1. Make sure you have turned off Windows Update as we said!!!!</span>
 ### <span style="color: red;">2. Please get our consent before you want to update the game and enter online mode!!!</span>
 ### <span style="color: red;">3. You must play in offline mode!!!</span>
-  
-### <span style="color: red;">YOU WILL HAVE TO PAY AGAIN FOR THE GAME IF YOU CAN'T PLAY THE GAME ANYMORE BECAUSE OF DON'T FOLLOW THE IMPORTANT RULES!!! HOPE BOSS WILL UNDERSTAND OUR DIFFICULTY. </span>
 
 # Ubisoft Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
-## 1. Download and preparation: (Skip if you already done)
-1.1. Disable Windows Update with the program we gave. (Run as admin if it does not work.)
- 
-<img src="https://user-images.githubusercontent.com/91774682/136052890-bc2c4922-56f2-4c3e-acad-333cd9d764eb.jpg" style="border: 2px solid red" />
+## 0. Pause Windows Update until you finish the game or when the game/account is in dropped to low traffic (You can just pause it manually at Windows Update setting):
 
-1.2. Download the game files from the link we gave.
- 
-<img src="https://user-images.githubusercontent.com/91774682/136052997-3e5f2959-a756-4929-9bd0-6dc2c61ec75b.jpg" style="border: 2px solid red" />
+0.1. Download the [Windows Update Pauser reg](https://cutt.ly/JU56Pif) file we gave:
 
-1.3. After finish downloading, open the zip file and extract to a location where you like.
+<img src="https://user-images.githubusercontent.com/91774682/226674300-84b87208-c457-4b0d-aa18-63060689f7f7.jpg" style="border: 2px solid red" />
+
+0.2. Run the file to pause Windows Update until 2099, you can resume it at Windows Update Setting in the future.
+
+<img src="https://user-images.githubusercontent.com/91774682/226674620-d7018f14-aa3d-4711-a096-32eb0d81c552.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/226674691-0059fc29-cd72-47ec-b25c-641e414ef5d5.jpg" style="border: 2px solid red" />
+
+0.3. Done!
+
+<img src="https://user-images.githubusercontent.com/91774682/226675292-65485aac-c46c-47a7-bd9f-1694748e5261.jpg" style="border: 2px solid red" />
+
+## 1. Download and preparation:
+1.1. Download the game files from the link we gave.
+ 
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/e2be44cf-a9bb-4489-a06a-856d19f58776" style="border: 2px solid red" />
+
+1.2. After finish downloading, open the zip file and extract to a location where you like.
  
 <img src="https://user-images.githubusercontent.com/91774682/136053318-f6dee91c-d7a7-49bd-9451-2a1766924410.jpg" style="border: 2px solid red" />
  
@@ -108,7 +118,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
  
  4.1. After setup complete and entered offline mode, click "**Play**" and enjoy!
  
- <img src="https://user-images.githubusercontent.com/91774682/136086534-c7bd293a-b413-4f4a-a028-99983fc991ea.jpg" style="border: 2px solid red" />
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/24a77316-b293-40a0-91a8-62414a3fce9d" style="border: 2px solid red" />
 
 <h2></h2>
 
