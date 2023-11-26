@@ -42,7 +42,7 @@
 ## Own Account Issue
 ### 1. Request Failed when I borrow the game.
 
-> Its a bug of Steam, actually you already sent the request to our email. Please give us the account 
+> Please contact us and wait our reply at business hours.
 
 ### 2. Unable to download GreenLuma.zip because Chrome said it's unsafe.
 
