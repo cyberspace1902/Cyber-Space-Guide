@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
 <img src="https://user-images.githubusercontent.com/91774682/135708227-fefb44fa-ae60-4d5b-8cdf-a68d30176e66.png" width="250" height="250">
 </p>
 
@@ -35,7 +35,11 @@
 
 > Please untick the Cloud Save option at the game properties. For more details please read the tutorial we gave.
 
-### 8. The acount is currently in use at another machine.
+### 8. I can't play the game with controller. (Steam)
+
+> Please follow step 7 in the tutorial to set up your controller. If it still doesn't work, try to start the game in online mode, and if the problem is solved, go back to offline mode.
+
+### 8. The account is currently in use at another machine.
 
 > Please try again after few mins or keep trying until you are able to login. If it still didn't work, please contact us in Shopee.
 
@@ -69,6 +73,10 @@
 
 > Run them in online mode, and disconnect internet connection once when you enter the game main menu. If it doesn't work, try also uninstall Rockstar Launcher and restart the game.
 
+### 2.1. I ran the game in online mode but it still doesn't work.
+
+> Try to use your mobile hotspot to start the game, your internet firewall/router/isp is blocked Rockstar Services.
+
 ### 3. RDR2 activation error.
 
 > Run them in online mode, and disconnect internet connection once when you enter the game main menu.
@@ -82,5 +90,22 @@
 
 > Please login Ubisoft Connect with the email and password we gave.
 
+## EPIC Games Issue
+### 1. I can't found the game in library/Game library keep loading
 
-### Hope the solution we provide will help you when we are not online. If the solution of the issue didn't list above or not work, please contact us at Shopee, we will reply you asap!
+> This is the bug/server issue of Epic Games Client, please put Epic Games in background and check again soon.
+
+## Standalone Offline/EA Issue
+### 1. I can't play the game with my controller. (Standalone Offline)
+
+> Add the game into Steam library as non steam game and enable steam input. For details please ask us at Shopee or google search for tutorials.
+
+### 2. I can't launch the game with the patch, it appear error when launching game with launcher.
+
+> Make sure u choose the game folder location as the install destination when u install the patch instead of anywhere, follow steps 4 of the tutorial.
+
+### 3. EA app appear when I launch game.
+
+> Please launch the game with the launcher we provide, for Fifa series please make sure you have installed the patch in game folder instead of anywhere.
+
+### We will always update this note. Hope the solution we provide will help you when we are not online. If the solution of the issue didn't list above or not work, please contact us at Shopee, we will reply you asap!
