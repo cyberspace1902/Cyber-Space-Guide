@@ -8,7 +8,7 @@
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
 ## Please note:
-* After you completing the setup, you only need to do **step 4.3** next time you play.
+* After you completing the setup, you only need to do **step 5** next time you play.
 * Please repeat the following steps if you play in a new device/after reset your device.
 
 ## 1. [Download and install Steam](https://store.steampowered.com/about/). (Skip if you already installed):
@@ -56,7 +56,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://user-images.githubusercontent.com/91774682/135748907-cf4a5de7-8d74-40f3-a1f0-b2a453982bc1.jpg" style="border: 2px solid red" />
 
-## 4. Play: (You will need to do 4.1 & 4.2 only once)
+## 4. Setup
 
 4.1. After the game is installed, start the game and login Rockstar Launcher with the Email and password we provided.
 
@@ -68,13 +68,34 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c46fd027-a4d8-489b-bbc3-eaafedfe223a" style="border: 2px solid red" />
 
-4.3. After entered the game main menu, disconnect your internet connection by turn off your wifi or remove the lan cable.
+## 5. Play
+
+### (Method 1)
+
+5.1.1. Start the game in online mode, after entered the game main menu, disconnect your internet connection by turn off your wifi or remove the lan cable.
  
  <img src="https://user-images.githubusercontent.com/91774682/135758484-f85199e3-ad54-4fb5-819b-9b4c31fcc642.jpg" style="border: 2px solid red" />
  
  <img src="https://user-images.githubusercontent.com/91774682/135758478-5eb18dfe-4302-4036-9926-643cb9fd474d.png" style="border: 2px solid red" />
 
-## 5. Additional guide (Optional)
+### (Method 2): (Try this if method 1 not working)
+
+5.2.1. Enter the game in online mode and click ""**Exit**"", ""**Quit**"" or Alt + F4 to exit the game. (You can skip this step if u did it before, but if Rockstar appear an error in offline mode work please repeat again.)
+
+<img src="https://user-images.githubusercontent.com/91774682/135750002-a20c5a37-45a3-4596-89e2-40578aaf6832.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/135750191-464f7ac2-e243-42a1-87f1-128f537a721e.jpg" style="border: 2px solid red" />
+
+5.2.2 After you finish the setup, click "Steam" in the upper left corner and click "Go Offline...", "**RESTART IN OFFLINE MODE**".
+
+<img src="https://user-images.githubusercontent.com/91774682/135750380-1a61c6f1-e1b0-425d-9507-5fd60f13b439.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/135750464-f6ae2666-4317-4eb4-baa8-80162d78021a.jpg" style="border: 2px solid red" />
+
+5.2.3. Play.
+
+
+## 6. Additional guide (Optional)
 
 ### Enable controller function
 
