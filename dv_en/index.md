@@ -16,6 +16,8 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 ## Please note:
 * After you completing the setup, you only need to do **step 4.2**, **step 5.1** and **step 6** next time you play.
 * Please repeat the following steps if you play in a new device/after reset your device.
+* Please click "Change Account..." to swap accounts instead of "Sign Out..." or you will need to get the Steam Guard code to login again and may face REQUEST ERROR when getting a new code.
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f05dabbb-cb1b-4d98-abe4-a91d330177c7" style="border: 2px solid red" />
 
 ## 0. Pause Windows Update until you finish the game or when the game/account is in dropped to low traffic (You can just pause it manually at Windows Update setting):
 
