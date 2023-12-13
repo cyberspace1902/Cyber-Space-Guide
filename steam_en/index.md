@@ -10,6 +10,9 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 ## Please note:
 * After you completing the setup, you only need to do **step 4.2** and **step 5.1** next time you play.
 * Please repeat the following steps if you play in a new device/after reset your device.
+* <font color="red"> Please click "Change Account..." to swap accounts instead of "Sign Out..." or you will need to get the Steam Guard code to login again. </font>
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f05dabbb-cb1b-4d98-abe4-a91d330177c7" style="border: 2px solid red" />
+
 
 ## 1. [Download and install Steam](https://store.steampowered.com/about/). (Skip if you already installed):
 
