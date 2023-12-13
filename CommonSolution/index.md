@@ -9,7 +9,8 @@
 ## Steam Offline Issue
 ### 1. I need code to login the account.
 
-> Please get it from the website https://cyberspace.cyou we provided with the game account.
+> Please get it from the website https://cyberspace.cyou we provided with the game account. Please click "Change Account..." to swap accounts instead of "Sign Out..." or you will need to get the Steam Guard code to login again and may face REQUEST ERROR when getting a new code.
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f05dabbb-cb1b-4d98-abe4-a91d330177c7" style="border: 2px solid red" />
 
 ### 2. I need family pin to setup the controller.
 
