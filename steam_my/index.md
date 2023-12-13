@@ -10,6 +10,8 @@ Tutorial tersebut akan mengajar anda cara log masuk, setup, memuat turun, dan be
 ## Harap maklum:
 * Selepas menyiapkan langkah berikut, anda hanya perlu mengulangkan langkah 4.2 & langkah 5.1 setiap kali anda bermain.
 * Sila berulang langkah tersebut jika anda bermain di peranti baharu/ selepas menetapkan peranti anda semula.
+* Sila klik "Change Account..." untuk menukar akaun dan bukannya "Sign Out...". Anda perlu mendapatkan kod Steam Guard untuk log masuk semula dan mungkin menghadapi REQUEST ERROR apabila mendapat kod baharu KALAU anda Sign Out.
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f05dabbb-cb1b-4d98-abe4-a91d330177c7" style="border: 2px solid red" />
 
 ## 1. [Muat turun dan memasang Steam](https://store.steampowered.com/about/). (Abaikan jika anda telah memasang):
 
