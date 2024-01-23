@@ -137,4 +137,6 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/5c66a96a-d9a1-4080-ac7c-e3317db85776" style="border: 2px solid red" />
 
+<h2></h2>
+
 <center> <h1>After completing the above steps, you are done! If you have other questions, please pm us again in Shopee! Wish you have a good gaming experience! Thank you for your support! Welcome to come back next time!</h1> </center>
