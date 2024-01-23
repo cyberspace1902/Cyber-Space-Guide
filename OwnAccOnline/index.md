@@ -8,11 +8,16 @@
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
 ## Please note:
-* After you completing the setup, you only need to do **step 4.2** and **step 5.1** next time you play.
-* Please repeat the following steps if you play in a new device/after reset your device.
-* Please click "Change Account..." to swap accounts instead of "Sign Out..." or you will need to get the Steam Guard code to login again and may face REQUEST ERROR when getting a new code.
-  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f05dabbb-cb1b-4d98-abe4-a91d330177c7" style="border: 2px solid red" />
+* Skip to Step 4 if you know how to use Steam.
+* You have to run Greenluma everytime you play the game.
+* Please redo Step 4 if the game shows **Purchase** & kick out from game by another computer.
 
+## Easy Tutorial:
+1. Login the account we provide and download the game.
+2. Disable Real-time protection, and download & extract Greenluma into the Steam client folder. After that add Steam folder into the exception of antivirus scanning and turn Realtime protection on back.
+3. Ask us to borrow the game into your account.
+4. Run **Run Greenluma** file and insert the amount and ID into the window.
+5. Setup is done, click yes on the window when launching greenluma and run greenluma everytime you play the game.
 
 ## 1. [Download and install Steam](https://store.steampowered.com/about/). (Skip if you already installed):
 
@@ -59,8 +64,9 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://user-images.githubusercontent.com/91774682/135748907-cf4a5de7-8d74-40f3-a1f0-b2a453982bc1.jpg" style="border: 2px solid red" />
 
-3.7. Once the game installs are completed, please contact us to remote your device for sharing/binding the game to your account.
+3.7. Once the game installs are completed, please contact us and send us your Steam Profile and username to remote your device for sharing/binding the game to your account.
 
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/1107d2c3-c15c-4394-a18c-55c636a1dfc8" style="border: 2px solid red" />
 
 ## 4. Download & setup Greenluma:
 4.1. Go to Windows Security setting to disable Real-time protection (Don't worry, you can enable it back after setup). If you using another antivirus, please disable at ur antivirus app or contact us if you don't know how to do.
@@ -122,3 +128,13 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/8f3d9a66-8184-48ef-bb0f-e87bcb9aec7e" style="border: 2px solid red" />
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ed936517-f0c0-45d8-be54-1222596c860d" style="border: 2px solid red" />
+
+## 5. Play.
+
+5.1. Run **Run Greenluma** everytime you play the game, and click yes to apply the ID List.
+
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/4d77eee5-315d-4d01-b719-b0d6ebbbf6c2" style="border: 2px solid red" />
+
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/5c66a96a-d9a1-4080-ac7c-e3317db85776" style="border: 2px solid red" />
+
+<center> <h1>After completing the above steps, you are done! If you have other questions, please pm us again in Shopee! Wish you have a good gaming experience! Thank you for your support! Welcome to come back next time!</h1> </center>
