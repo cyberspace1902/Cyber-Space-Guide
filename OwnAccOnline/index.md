@@ -52,7 +52,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
  
  <img src="https://user-images.githubusercontent.com/91774682/135747353-b9d970e0-038f-4d8f-94a6-71c0cfd21eff.jpg" style="border: 2px solid red" />
 
-3.4. Choose a location you like to install at, create shortcut as needed and click on "NEXT>". (Can keep default).
+3.4. Choose a location you like to install at, create shortcut as needed, and click on "NEXT>". (Can keep default).
 
  <img src="https://user-images.githubusercontent.com/91774682/135748741-792bb820-51fc-407a-bcc8-6b8b7057b309.jpg" style="border: 2px solid red" />
 
@@ -64,12 +64,20 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://user-images.githubusercontent.com/91774682/135748907-cf4a5de7-8d74-40f3-a1f0-b2a453982bc1.jpg" style="border: 2px solid red" />
 
-3.7. Once the game installs are completed, please contact us and send us your Steam Profile and username to remote your device for sharing/binding the game to your account.
+ ## 4. Borrow
 
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/1107d2c3-c15c-4394-a18c-55c636a1dfc8" style="border: 2px solid red" />
+ 4.1. Once the game installs are completed, login to your account and borrow the game.
 
-## 4. Download & setup Greenluma:
-4.1. Go to Windows Security setting to disable Real-time protection (Don't worry, you can enable it back after setup). If you using another antivirus, please disable at ur antivirus app or contact us if you don't know how to do.
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ba74a4a7-87c0-4df4-9909-9ad29841f559" style="border: 2px solid red" />
+
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/3cd106c1-dcc7-4240-971c-6fd92d9e48d3" style="border: 2px solid red" />
+
+ 4.2. If this error occurs when you borrow,  please contact us and send us your Steam Profile and username to remote your device to share/bind the game to your account **(THIS STEP HAVE TO BE DONE BY US, PLEASE TELL US IF YOU DON'T WANT TO LET US REMOTE YOUR DEVICE)**. You can do step 5 while waiting for us to borrow when we are off.
+
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/1107d2c3-c15c-4394-a18c-55c636a1dfc8" style="border: 2px solid red" />
+
+## 5. Download & setup Greenluma:
+5.1. Go to the Windows Security setting to disable Real-time protection (Don't worry, you can enable it back after setup). If you using another antivirus, please disable at ur antivirus app or contact us if you don't know how to do it.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/52a5afbe-c714-4714-9ac9-83019b378dc0" style="border: 2px solid red" />
 
@@ -79,27 +87,27 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/612ca4f4-9ed0-461c-b9eb-69bcc41143a8" style="border: 2px solid red" />
 
-4.2. Download [Greenluma](https://cutt.ly/uCu8QK2) with the link we provided.
+5.2. Download [Greenluma](https://cutt.ly/uCu8QK2) with the link we provided.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/26def62d-5439-4f34-a4ea-fd6f6d4ff860" style="border: 2px solid red" />
 
-4.3. Go to the Downloads page by Ctrl+J, click "**keep dangerous file**" and "**Keep Anyway**". （It's not dangerous, it was just a misjudgment.)
+5.3. Go to the Downloads page by Ctrl+J, click "**keep dangerous file**" and "**Keep Anyway**". （It's not dangerous, it was just a misjudgment.)
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/da20246f-080a-4a9a-a109-409e393f4fa3" style="border: 2px solid red" />
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/3cdbebbd-49c0-4949-935b-10629ac05cbb" style="border: 2px solid red" />
 
-4.4. If u did step 4.1 correctly, then it will show like the picture with the check symbol. If it show like picture with an X mark "**Failed - Virus Detected**" please redo step 4.1-4.3.
+5.4. If u did step 5.1 correctly, then it will show like the picture with the check symbol. If it shows like the picture with an X mark "**Failed - Virus Detected**" please redo step 5.1-5.3.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c468e236-1041-422e-8c6d-bc3c92277457" style="border: 2px solid red" />
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/38eb449d-7013-40a1-b0b6-04713976854a" style="border: 2px solid red" />
 
-4.5. Extract files inside the zip to the Steam Client folder.
+5.5. Extract files inside the zip to the Steam Client folder.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/7e5efcb2-6224-4162-819c-986010135bc3" style="border: 2px solid red" />
 
-4.6. (Optional but recommended) Add Steam folder to exclusions. And enable Real-time protection back.
+5.6. (Optional but recommended) Add Steam folder to exclusions. And enable Real-time protection back.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c8316568-7335-4b07-82aa-e002fc50e384" style="border: 2px solid red" />
 
@@ -109,17 +117,17 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ab44f28d-dc13-4d7e-9ade-e18fb1829d08" style="border: 2px solid red" />
 
-4.7. (Optional but recommended) Create a shortcut to the desktop to let you launch it easily next time.
+5.7. (Optional but recommended) Create a shortcut to the desktop to let you launch it easily next time.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c6ed31aa-e517-4fe2-8b2e-e552fd93c101" style="border: 2px solid red" />
 
-4.8. Run "**Run Greenluma**" file, insert the amount of the id and id of the game in [AppID List](https://cutt.ly/hP54OrT) (Example Tiny Tina). You can check the amount of id at right-bottom, if it shows "**Sum**" then change it to "**Count Numbers**".
+5.8. Run "**Run Greenluma**" file, insert the amount of the id and id of the game in [AppID List](https://cutt.ly/hP54OrT) (Example Tiny Tina). You can check the amount of id at right-bottom, if it shows "**Sum**" then change it to "**Count Numbers**".
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/4d77eee5-315d-4d01-b719-b0d6ebbbf6c2" style="border: 2px solid red" />
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/2f5ec342-1c35-4ded-a04c-983106610ad3" style="border: 2px solid red" />
 
-4.9. If it shows play button then that means you have finished the setup, if it shows "**Borrow**" or "**Purchase**" that means you may miss some steps when you setup, please redo step 4 or contact us.
+5.9. If it shows the play button then that means you have finished the setup, if it shows "**Borrow**" or "**Purchase**" that means you may have missed some steps when you setup, please redo step 5 or contact us.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/eb4bb8dd-9682-43ff-91d4-8e5e46e31476" style="border: 2px solid red" />
 
@@ -129,9 +137,9 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ed936517-f0c0-45d8-be54-1222596c860d" style="border: 2px solid red" />
 
-## 5. Play.
+## 6. Play.
 
-5.1. Run **Run Greenluma** everytime you play the game, and click yes to apply the ID List.
+6.1. Run **Run Greenluma** everytime you play the game, and click yes to apply the ID List.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/4d77eee5-315d-4d01-b719-b0d6ebbbf6c2" style="border: 2px solid red" />
 
