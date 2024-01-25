@@ -9,7 +9,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ## Please note:
 * Skip to Step 4 if you know how to use Steam.
-* Please do Step 5 everytime you play the game
+* Please do Step 5 everytime you play the game.
 * Please redo Step 4 if the game shows **Borrow**.
 
 ## Easy Tutorial:
