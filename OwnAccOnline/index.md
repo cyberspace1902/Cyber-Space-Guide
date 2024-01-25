@@ -64,7 +64,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://user-images.githubusercontent.com/91774682/135748907-cf4a5de7-8d74-40f3-a1f0-b2a453982bc1.jpg" style="border: 2px solid red" />
 
- ## 4. Borrow
+## 4. Borrow
 
  4.1. Once the game installs are completed, login to your account and borrow the game.
 
@@ -74,7 +74,8 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  4.2. If this error occurs when you borrow,  please contact us and send us your Steam Profile and username to remote your device to share/bind the game to your account **(THIS STEP HAVE TO BE DONE BY US, PLEASE TELL US IF YOU DON'T WANT TO LET US REMOTE YOUR DEVICE)**. You can do step 5 while waiting for us to borrow when we are off.
 
-  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/1107d2c3-c15c-4394-a18c-55c636a1dfc8" style="border: 2px solid red" />
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/8e178a88-3d31-49a4-9c09-5a0629654e11" style="border: 2px solid red" />
+
 
 ## 5. Download & setup Greenluma:
 5.1. Go to the Windows Security setting to disable Real-time protection (Don't worry, you can enable it back after setup). If you using another antivirus, please disable at ur antivirus app or contact us if you don't know how to do it.
