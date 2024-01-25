@@ -4,7 +4,7 @@
 
 ### Please read the tutorial carefully. If we do not reply to you during the off-hours, please don’t rush to give us a bad rating, we are taking a break at the moment. If you have a good attitude towards us, we will definitely serve you hard. Thank you for your support!
  
-# Steam Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
+# Own Account Offline Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
 ## Please note:
@@ -64,6 +64,12 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://user-images.githubusercontent.com/91774682/135748907-cf4a5de7-8d74-40f3-a1f0-b2a453982bc1.jpg" style="border: 2px solid red" />
 
+3.7. Once the game is installed, login back to your account.
+
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ad464c0f-cceb-4556-83de-5c99717e40e8" style="border: 2px solid red" />
+
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ff394a6a-0a5d-4e77-bc58-1d7cc41feda1" style="border: 2px solid red" />
+  
 ## 4. Download & setup Greenluma:
 4.1. Go to the Windows Security setting to disable Real-time protection (Don't worry, you can enable it back after setup). If you using another antivirus, please disable at ur antivirus app or contact us if you don't know how to do it.
 
@@ -115,15 +121,11 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/2f5ec342-1c35-4ded-a04c-983106610ad3" style="border: 2px solid red" />
 
-4.9. If it shows the play button then that means you have finished the setup, if it shows "**Borrow**" or "**Purchase**" that means you may have missed some steps when you setup, please redo step 4 or contact us.
+4.9. If it shows the play button then that means you have finished the setup, if it shows "**Borrow**" that means you may have missed some steps when you setup, please redo step 4 or contact us.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/eb4bb8dd-9682-43ff-91d4-8e5e46e31476" style="border: 2px solid red" />
 
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/89d1131f-6930-4a89-9260-b10f8e953702" style="border: 2px solid red" />
-
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/8f3d9a66-8184-48ef-bb0f-e87bcb9aec7e" style="border: 2px solid red" />
-
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ed936517-f0c0-45d8-be54-1222596c860d" style="border: 2px solid red" />
 
 ## 5. Play.
 
