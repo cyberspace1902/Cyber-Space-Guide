@@ -10,7 +10,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 ## Please note:
 * Skip to Step 4 if you know how to use Steam.
 * You have to run Greenluma everytime you play the game.
-* Please redo Step 4 if the game shows **Purchase** & kick out from game by another computer.
+* Please redo Step 4 if the game shows **Purchase** or kick out from game by another computer.
 
 ## Easy Tutorial:
 1. Login the account we provide and download the game.
