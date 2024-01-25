@@ -4,7 +4,7 @@
 
 ### Please read the tutorial carefully. If we do not reply to you during the off-hours, please don’t rush to give us a bad rating, we are taking a break at the moment. If you have a good attitude towards us, we will definitely serve you hard. Thank you for your support!
  
-# Steam Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
+# Own Account Online Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
 ## Please note:
