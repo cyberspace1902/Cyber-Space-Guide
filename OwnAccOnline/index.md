@@ -9,7 +9,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ## Please note:
 * Skip to Step 4 if you know how to use Steam.
-* You have to run Greenluma everytime you play the game.
+* Please do Step 6 everytime you play the game.
 * Please redo Step 4 if the game shows **Purchase** or kick out from game by another computer.
 
 ## Easy Tutorial:
@@ -37,7 +37,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135746487-421ed157-2192-49e0-9b64-7670737efbcf.jpg" style="border: 2px solid red" />
 
-## 3. Install:
+## 3. Install: (SKIP THIS STEP TILL STEP 4 IF THE GAME IS NOT ABLE TO DOWNLOAD YET/HAVEN'T RELEASE.)
 3.1. After you logged in successfully, click "**LIBRARY**" on the top.
 
  <img src="https://user-images.githubusercontent.com/91774682/135746879-888520a8-a73a-4293-b1bc-8e55963eb131.jpg" style="border: 2px solid red" />
@@ -60,13 +60,13 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://user-images.githubusercontent.com/91774682/135748869-744f9f70-748c-46f3-b0a5-fb3673fe1295.jpg" style="border: 2px solid red" />
 
-3.6. Click "**FINISH**".
+3.6. Click "**FINISH**" and wait for the download.
 
  <img src="https://user-images.githubusercontent.com/91774682/135748907-cf4a5de7-8d74-40f3-a1f0-b2a453982bc1.jpg" style="border: 2px solid red" />
 
 ## 4. Borrow
 
- 4.1. Once the game installs are completed, login to your account and borrow the game.
+ 4.1. Once the game is installed (skip to borrow if the game hasn't been released), login to your account and borrow the game. 
 
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ba74a4a7-87c0-4df4-9909-9ad29841f559" style="border: 2px solid red" />
 
