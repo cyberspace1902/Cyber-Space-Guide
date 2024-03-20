@@ -8,8 +8,8 @@
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
 # <span style="color: red;">IMPORTANT!!!</span>
-### 1.<span style="color: red;"> PLEASE PLAY THE GAME IN OFFLINE MODE TO AVOID BLOCKING OTHER BUYERS!!!!</span>
-### 2.<span style="color: red;"> IF YOU FACING ISSUES WHEN WANT TO LAUNCH THE GAME, PLEASE CONTACT US OR SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [SOLUTION FOR THE BUYERS THAT CAN'T LAUNCH THE GAME WHEN THE LIBRARY IS USING BY SOMEONE:](https://gd.csmail.store/dv_new/#solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-using-by-someone)!!!</span>
+### 1.<span style="color: red;"> PLEASE LAUNCH THE GAME IN OFFLINE MODE EVERYTIME WHEN YOU PLAY TO AVOID BLOCKING OTHER BUYERS!!!!</span>
+### 2.<span style="color: red;"> IF LIBRARY IS USE BY SOMEONE, PLEASE CONTACT US OR SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [SOLUTION FOR THE BUYERS THAT CAN'T LAUNCH THE GAME WHEN THE LIBRARY IS USING BY SOMEONE:](https://gd.csmail.store/dv_new/#solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-using-by-someone)!!!</span>
 ### 3.<span style="color: red;"> PLEASE FOLLOW [STEP 0](https://gd.csmail.store/dv_new/#0-update-your-steam-client-to-steam-families-beta-on-your-own-account-please-ask-us-for-family-pin-if-you-dont-have-a-own-account) TO UPDATE YOUR STEAM TO STEAM FAMILES BETA ON YOUR OWN ACCOUNT (PLEASE ASK US FOR FAMILY PIN IF YOU DON'T HAVE A OWN ACCOUNT)!!!</span>
 
 ## Please note:
@@ -92,6 +92,10 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135750191-464f7ac2-e243-42a1-87f1-128f537a721e.jpg" style="border: 2px solid red" />
 
+Note: If "**Something went wrong**" appears when you launch the game, please try other accounts, if you tested all the accounts and it still doesn’t work, please contact us.
+
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ed27df8b-7d94-4b89-8fd1-7c46750a8a7a" style="border: 2px solid red" />
+
 ## 5. Play:
 
 5.1. After you finish the setup, click "Steam" in the upper left corner and click "Go Offline...", "**RESTART IN OFFLINE MODE**".
@@ -102,7 +106,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a748363a-18b8-44f0-b05e-c1436b7e7f1d" style="border: 2px solid red" />
 
-> <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE IF THE GAME IS ALREADY WORKING!!! THIS IS VERY IMPORTANT!!!</span>
+> <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE EVERYTIME YOU PLAY IF THE GAME IS ALREADY WORKING!!! THIS IS VERY IMPORTANT!!!</span>
 
 ## 6. Enable controller function (Optional)
 
@@ -114,7 +118,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135759643-178b6bf3-4baa-4400-b498-11059775055c.jpg" style="border: 2px solid red" />
 
-# <span style="color: red;">Solution for the buyers that can't launch the game when the library is using by someone:</span>
+# <span style="color: red;">Solution for the buyers that can't launch the game when the library is in use by someone:</span>
 
 ## 7.1. <span style="color: red;">If this is your first time to setuping up the game:</span>
 
@@ -134,7 +138,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/1f325cb9-1860-49aa-a0a7-dd42e4da762b" style="border: 2px solid red" />
 
-> <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE IF THE GAME IS ALREADY WORKING!!! THIS IS VERY IMPORTANT!!!</span>
+> <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE EVERYTIME YOU PLAY IF THE GAME IS ALREADY WORKING!!! THIS IS VERY IMPORTANT!!!</span>
 
 
 ## 7.2. <span style="color: red;">If you already finished setup before:</span>
