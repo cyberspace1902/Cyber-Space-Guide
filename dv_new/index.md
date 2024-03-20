@@ -114,10 +114,6 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135759643-178b6bf3-4baa-4400-b498-11059775055c.jpg" style="border: 2px solid red" />
 
-<h2></h2>
-
-<center> <h1>After completing the above steps, you are done! If you have other questions, please pm us again in Shopee! Wish you have a good gaming experience! Thank you for your support! Welcome to come back next time!</h1> </center>
-
 ## Frequently Asked Questions:
 
 1. Why do we need to update Steam Client to Steam Families Beta? We no need to do that before.
@@ -157,3 +153,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/18675795-b8eb-47b3-95fe-2373a486ad98" style="border: 2px solid red" />
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a5def9d1-1ab2-4822-9aa9-b8da1f1f22d3" style="border: 2px solid red" />
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a748363a-18b8-44f0-b05e-c1436b7e7f1d" style="border: 2px solid red" />
+
+<h2></h2>
+
+<center> <h1>After completing the above steps, you are done! If you have other questions, please pm us again in Shopee! Wish you have a good gaming experience! Thank you for your support! Welcome to come back next time!</h1> </center>
