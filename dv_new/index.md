@@ -10,7 +10,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 # <span style="color: red;">IMPORTANT!!!</span>
 ### 1.<span style="color: red;"> PLEASE PLAY THE GAME IN OFFLINE MODE!!!!</span>
 ### 2.<span style="color: red;"> IF YOU FACING ISSUES WHEN WANT TO LAUNCH THE GAME, PLEASE SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [Solution for the buyers that can't launch the game when the library is using by someone:](https://gd.csmail.store/dv_new/#solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-using-by-someone) !!!</span>
-### 3.<span style="color: red;"> PLEASE FOLLOW [STEP 0](https://gd.csmail.store/dv_new/#0-update-your-steam-client-to-steam-families-beta-on-your-own-account-please-ask-us-for-family-pin-if-you-dont-have-a-own-account) TO UPDATE YOUR STEAM TO STEAM FAMILES BETA !!!</span>
+### 3.<span style="color: red;"> PLEASE FOLLOW [STEP 0](https://gd.csmail.store/dv_new/#0-update-your-steam-client-to-steam-families-beta-on-your-own-account-please-ask-us-for-family-pin-if-you-dont-have-a-own-account) TO UPDATE YOUR STEAM TO STEAM FAMILES BETA ON YOUR OWN ACCOUNT (PLEASE ASK US FOR FAMILY PIN IF YOU DON'T HAVE A OWN ACCOUNT)!!!</span>
 
 ## Please note:
 * After you completing the setup, you only need to do **step 4.2**, **step 5** next time you play.
@@ -18,7 +18,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 * Please click "Change Account..." to swap accounts instead of "Sign Out..." or you will need to get the Steam Guard code to login again and may face REQUEST ERROR when getting a new code.
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f05dabbb-cb1b-4d98-abe4-a91d330177c7" style="border: 2px solid red" />
 
-## 0. Update your Steam Client to Steam Families Beta on your Own Account (Please ask us for family pin if you don't have a own account)
+## 0. Update your Steam Client to Steam Families Beta:
 
 0.1. Click "**Steam**" at Top-left corner, and go to setting. (Please do it on your own account, or ask us for the family pin and do on our account if you don't have it.)
 
@@ -115,17 +115,6 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135759643-178b6bf3-4baa-4400-b498-11059775055c.jpg" style="border: 2px solid red" />
 
-## Frequently Asked Questions:
-
-1. Why do we need to update Steam Client to Steam Families Beta? We no need to do that before.
-> The game will be hot when it is just released. We use this method to reduce the costs and sell the game cheaper otherwise we will have to prepare many accounts and there will be a lot of money and that will make us sell it expensive.
-
-2. Will it revoke our previous borrow?
-> Don't worry, your previous borrow will not be revoked by the Beta update.
-
-3. Can I revert the Steam Client update in the future?
-> Yes, just change the Client Beta Participation back to no beta option.
-
 # Solution for the buyers that can't launch the game when the library is using by someone:
 
 ## 1. If this is your first time to setuping up the game:
@@ -154,6 +143,17 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/18675795-b8eb-47b3-95fe-2373a486ad98" style="border: 2px solid red" />
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a5def9d1-1ab2-4822-9aa9-b8da1f1f22d3" style="border: 2px solid red" />
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a748363a-18b8-44f0-b05e-c1436b7e7f1d" style="border: 2px solid red" />
+
+## Frequently Asked Questions:
+
+1. Why do we need to update Steam Client to Steam Families Beta? We no need to do that before.
+> The game will be hot when it is just released. We use this method to reduce the costs and sell the game cheaper otherwise we will have to prepare many accounts and there will be a lot of money and that will make us sell it expensive.
+
+2. Will it revoke our previous borrow?
+> Don't worry, your previous borrow will not be revoked by the Beta update.
+
+3. Can I revert the Steam Client update in the future?
+> Yes, just change the Client Beta Participation back to no beta option.
 
 <h2></h2>
 
