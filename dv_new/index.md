@@ -7,8 +7,9 @@
 # Steam Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
-# <span style="color: red;">IF YOU FACING ISSUES WHEN WANT TO LAUNCH THE GAME!!!</span>
-### <span style="color: red;">1. Make sure you have turned off Windows Update as we said or manually!!!!</span>
+# <span style="color: red;">IMPORTANT!!!</span>
+### <span style="color: red;">1. PLEASE PLAY THE GAME IN OFFLINE MODE!!!!</span>
+### <span style="color: red;">2. IF YOU FACING ISSUES WHEN WANT TO LAUNCH THE GAME, PLEASE SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [Solution for the buyers that can't launch the game when the library is using by someone:](https://github.com/cyberspace1902/Cyber-Space-Guide/edit/main/dv_new/index.md#setup-has-finished-before) !!!</span>
 
 ## Please note:
 * After you completing the setup, you only need to do **step 4.2**, **step 5** next time you play.
@@ -93,27 +94,6 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 <img src="https://user-images.githubusercontent.com/91774682/135750002-a20c5a37-45a3-4596-89e2-40578aaf6832.jpg" style="border: 2px solid red" />
 
 <img src="https://user-images.githubusercontent.com/91774682/135750191-464f7ac2-e243-42a1-87f1-128f537a721e.jpg" style="border: 2px solid red" />
-
-4.5. <span style="color: red;">What if it showing Purchase when setuping?</span>
-
-4.5.1. <span style="color: red;">Contact us or login and start the game from the account that in using to kick out the player that inside the game, you can also activate the game in the account but if it bounce Denuvo error when you start the game, try other accounts.</span>
-
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/3aff2736-0311-4831-b908-ae6c147cf75b" style="border: 2px solid red" />
-
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c3a0d872-ee55-4856-9204-f93af2b64596" style="border: 2px solid red" />
-
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/0a62956d-f904-426d-bb2f-ebec95f05f0d" style="border: 2px solid red" />
-
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/663d3565-263f-4d44-bea7-42412dd23d81" style="border: 2px solid red" />
-
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c9b57ce6-0b9b-46a5-819e-e1516afa374f" style="border: 2px solid red" />
-
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/084a1fca-0613-4bbd-bbca-cc9bf4c0f565" style="border: 2px solid red" />
-
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/49b36435-0ed3-4999-a0bc-0e055d989c03" style="border: 2px solid red" />
-
-> <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE IF THE GAME IS ALREADY WORK!!! THIS IS VERY IMPORTANT!!!</span>
-
 ## 5. Play:
 
 5.1. After you finish the setup, click "Steam" in the upper left corner and click "Go Offline...", "**RESTART IN OFFLINE MODE**".
@@ -122,13 +102,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135750464-f6ae2666-4317-4eb4-baa8-80162d78021a.jpg" style="border: 2px solid red" />
 
-5.2. <span style="color: red;">What if it showing Purchase?</span>
-> <span style="color: red;">If the game is work to you before, go to Offline mode on Steam then restart Steam, after that the "**PLAY**" button should be work again. </span>
-
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/18675795-b8eb-47b3-95fe-2373a486ad98" style="border: 2px solid red" />
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a5def9d1-1ab2-4822-9aa9-b8da1f1f22d3" style="border: 2px solid red" />
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/3d143ba0-c8f7-4ff1-bcd8-d25cf1e44a3e" style="border: 2px solid red" />
-
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a748363a-18b8-44f0-b05e-c1436b7e7f1d" style="border: 2px solid red" />
 
 ## 6. Enable controller function (Optional)
 
@@ -144,7 +118,6 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <center> <h1>After completing the above steps, you are done! If you have other questions, please pm us again in Shopee! Wish you have a good gaming experience! Thank you for your support! Welcome to come back next time!</h1> </center>
 
-
 ## Frequently Asked Questions:
 
 1. Why do we need to update Steam Client to Steam Families Beta? We no need to do that before.
@@ -155,3 +128,32 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 3. Can I revert the Steam Client update in the future?
 > Yes, just change the Client Beta Participation back to no beta option.
+
+## Solution for the buyers that can't launch the game when the library is using by someone:
+
+### First time Setup:
+
+#### <span style="color: red;">Contact us or login and start the game from the account that in using to kick out the player that inside the game, you can also activate the game in the account but if it bounce Denuvo error when you start the game, try other accounts.</span>
+
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/3aff2736-0311-4831-b908-ae6c147cf75b" style="border: 2px solid red" />
+
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c3a0d872-ee55-4856-9204-f93af2b64596" style="border: 2px solid red" />
+
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/0a62956d-f904-426d-bb2f-ebec95f05f0d" style="border: 2px solid red" />
+
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/663d3565-263f-4d44-bea7-42412dd23d81" style="border: 2px solid red" />
+
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c9b57ce6-0b9b-46a5-819e-e1516afa374f" style="border: 2px solid red" />
+
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/06fa0f24-1442-4efc-a84c-4096959cb53f" style="border: 2px solid red" />
+
+> <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE IF THE GAME IS ALREADY WORK!!! THIS IS VERY IMPORTANT!!!</span>
+
+
+### Setup has finished before:
+
+####  5.2. <span style="color: red;">If the game is work to you before, go to Offline mode on Steam then restart Steam, after that the "**PLAY**" button should be work again.</span>
+
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/18675795-b8eb-47b3-95fe-2373a486ad98" style="border: 2px solid red" />
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a5def9d1-1ab2-4822-9aa9-b8da1f1f22d3" style="border: 2px solid red" />
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a748363a-18b8-44f0-b05e-c1436b7e7f1d" style="border: 2px solid red" />
