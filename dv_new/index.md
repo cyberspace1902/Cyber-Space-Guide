@@ -8,9 +8,9 @@
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
 # <span style="color: red;">IMPORTANT!!!</span>
-### <span style="color: red;">1. PLEASE PLAY THE GAME IN OFFLINE MODE!!!!</span>
-### <span style="color: red;">2. IF YOU FACING ISSUES WHEN WANT TO LAUNCH THE GAME, PLEASE SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [Solution for the buyers that can't launch the game when the library is using by someone:](https://gd.csmail.store/dv_new/#solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-using-by-someone) !!!</span>
-### <span style="color: red;">3. PLEASE FOLLOW [STEP 0](https://gd.csmail.store/dv_new/#0-update-your-steam-client-to-steam-families-beta-on-your-own-account-please-ask-us-for-family-pin-if-you-dont-have-a-own-account) TO UPDATE YOUR STEAM TO STEAM FAMILES BETA !!!</span>
+### 1.<span style="color: red;"> PLEASE PLAY THE GAME IN OFFLINE MODE!!!!</span>
+### 2.<span style="color: red;"> IF YOU FACING ISSUES WHEN WANT TO LAUNCH THE GAME, PLEASE SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [Solution for the buyers that can't launch the game when the library is using by someone:](https://gd.csmail.store/dv_new/#solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-using-by-someone) !!!</span>
+### 3.<span style="color: red;"> PLEASE FOLLOW [STEP 0](https://gd.csmail.store/dv_new/#0-update-your-steam-client-to-steam-families-beta-on-your-own-account-please-ask-us-for-family-pin-if-you-dont-have-a-own-account) TO UPDATE YOUR STEAM TO STEAM FAMILES BETA !!!</span>
 
 ## Please note:
 * After you completing the setup, you only need to do **step 4.2**, **step 5** next time you play.
