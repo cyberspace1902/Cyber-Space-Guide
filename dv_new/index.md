@@ -86,15 +86,12 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://user-images.githubusercontent.com/91774682/135749647-ee7160cd-1ccc-4422-b2af-f5c6bf412d5f.jpg" style="border: 2px solid red" />
 
-4.3. Click "**Updates**", Change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**".
-
-<img src="https://user-images.githubusercontent.com/91774682/135763729-f86058ea-be97-4048-a19d-890498f63951.jpg" style="border: 2px solid red" />
-
 4.4. After the game is installed, enter the game and click ""**Exit**"", ""**Quit**"" or Alt + F4 to exit the game.
 
 <img src="https://user-images.githubusercontent.com/91774682/135750002-a20c5a37-45a3-4596-89e2-40578aaf6832.jpg" style="border: 2px solid red" />
 
 <img src="https://user-images.githubusercontent.com/91774682/135750191-464f7ac2-e243-42a1-87f1-128f537a721e.jpg" style="border: 2px solid red" />
+
 ## 5. Play:
 
 5.1. After you finish the setup, click "Steam" in the upper left corner and click "Go Offline...", "**RESTART IN OFFLINE MODE**".
