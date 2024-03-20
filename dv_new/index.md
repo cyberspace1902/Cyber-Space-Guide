@@ -8,7 +8,7 @@
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
 # <span style="color: red;">IMPORTANT!!!</span>
-### 1.<span style="color: red;"> PLEASE PLAY THE GAME IN OFFLINE MODE!!!!</span>
+### 1.<span style="color: red;"> PLEASE PLAY THE GAME IN OFFLINE MODE TO AVOID BLOCKING OTHER BUYERS!!!!</span>
 ### 2.<span style="color: red;"> IF YOU FACING ISSUES WHEN WANT TO LAUNCH THE GAME, PLEASE SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [Solution for the buyers that can't launch the game when the library is using by someone:](https://gd.csmail.store/dv_new/#solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-using-by-someone) !!!</span>
 ### 3.<span style="color: red;"> PLEASE FOLLOW [STEP 0](https://gd.csmail.store/dv_new/#0-update-your-steam-client-to-steam-families-beta-on-your-own-account-please-ask-us-for-family-pin-if-you-dont-have-a-own-account) TO UPDATE YOUR STEAM TO STEAM FAMILES BETA ON YOUR OWN ACCOUNT (PLEASE ASK US FOR FAMILY PIN IF YOU DON'T HAVE A OWN ACCOUNT)!!!</span>
 
@@ -117,9 +117,9 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 # <span style="color: red;">Solution for the buyers that can't launch the game when the library is using by someone:</span>
 
-## 1. If this is your first time to setuping up the game:
+## 1. <span style="color: red;">If this is your first time to setuping up the game:</span>
 
-### <span style="color: red;">Contact us or login and start the game from the account that in using to kick out the player that inside the game, you can also activate the game in the account but if it bounce Denuvo error when you start the game, try other accounts.</span>
+### Contact us or login and start the game from the account that in using to kick out the player that inside the game, you can also activate the game in the account but if it bounce Denuvo error when you start the game, try other accounts.
 
  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/3aff2736-0311-4831-b908-ae6c147cf75b" style="border: 2px solid red" />
 
