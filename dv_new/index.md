@@ -9,7 +9,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 # <span style="color: red;">IMPORTANT!!!</span>
 ### 1.<span style="color: red;"> PLEASE PLAY THE GAME IN OFFLINE MODE TO AVOID BLOCKING OTHER BUYERS!!!!</span>
-### 2.<span style="color: red;"> IF YOU FACING ISSUES WHEN WANT TO LAUNCH THE GAME, PLEASE SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [SOLUTION FOR THE BUYERS THAT CAN'T LAUNCH THE GAME WHEN THE LIBRARY IS USING BY SOMEONE:](https://gd.csmail.store/dv_new/#solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-using-by-someone) !!!</span>
+### 2.<span style="color: red;"> IF YOU FACING ISSUES WHEN WANT TO LAUNCH THE GAME, PLEASE CONTACT US OR SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [SOLUTION FOR THE BUYERS THAT CAN'T LAUNCH THE GAME WHEN THE LIBRARY IS USING BY SOMEONE:](https://gd.csmail.store/dv_new/#solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-using-by-someone) !!!</span>
 ### 3.<span style="color: red;"> PLEASE FOLLOW [STEP 0](https://gd.csmail.store/dv_new/#0-update-your-steam-client-to-steam-families-beta-on-your-own-account-please-ask-us-for-family-pin-if-you-dont-have-a-own-account) TO UPDATE YOUR STEAM TO STEAM FAMILES BETA ON YOUR OWN ACCOUNT (PLEASE ASK US FOR FAMILY PIN IF YOU DON'T HAVE A OWN ACCOUNT)!!!</span>
 
 ## Please note:
@@ -100,7 +100,9 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135750464-f6ae2666-4317-4eb4-baa8-80162d78021a.jpg" style="border: 2px solid red" />
 
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a748363a-18b8-44f0-b05e-c1436b7e7f1d" style="border: 2px solid red" />
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a748363a-18b8-44f0-b05e-c1436b7e7f1d" style="border: 2px solid red" />
+
+> <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE IF THE GAME IS ALREADY WORKING!!! THIS IS VERY IMPORTANT!!!</span>
 
 ## 6. Enable controller function (Optional)
 
@@ -114,9 +116,9 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 # <span style="color: red;">Solution for the buyers that can't launch the game when the library is using by someone:</span>
 
-## 1. <span style="color: red;">If this is your first time to setuping up the game:</span>
+## 7.1. <span style="color: red;">If this is your first time to setuping up the game:</span>
 
-### Contact us or login and start the game from the account that in using to kick out the player that inside the game, you can also activate the game in the account but if it bounce Denuvo error when you start the game, try other accounts.
+### Contact us or login and start the game from the account that in used to kick out the player inside the game, you can also activate the game in the account but if it bounces "Something went wrong" error when you start the game, try other accounts.
 
  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/3aff2736-0311-4831-b908-ae6c147cf75b" style="border: 2px solid red" />
 
@@ -130,18 +132,20 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/06fa0f24-1442-4efc-a84c-4096959cb53f" style="border: 2px solid red" />
 
-  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/1f325cb9-1860-49aa-a0a7-dd42e4da762b" style="border: 2px solid red" />
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/1f325cb9-1860-49aa-a0a7-dd42e4da762b" style="border: 2px solid red" />
 
-> <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE IF THE GAME IS ALREADY WORK!!! THIS IS VERY IMPORTANT!!!</span>
+> <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE IF THE GAME IS ALREADY WORKING!!! THIS IS VERY IMPORTANT!!!</span>
 
 
-## 2. <span style="color: red;">If you already finished setup before:</span>
+## 7.2. <span style="color: red;">If you already finished setup before:</span>
 
 ### Go to Offline mode on Steam then restart Steam, after that the "**PLAY**" button should be work again.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/18675795-b8eb-47b3-95fe-2373a486ad98" style="border: 2px solid red" />
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a5def9d1-1ab2-4822-9aa9-b8da1f1f22d3" style="border: 2px solid red" />
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a748363a-18b8-44f0-b05e-c1436b7e7f1d" style="border: 2px solid red" />
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/5b5c9fe1-8f18-4d56-8d2f-91fb55dfe615" style="border: 2px solid red" />
+> <span style="color: red;">IF IT SHOWS "SOMETHING WHEN WRONG" ERROR WHEN YOU LAUNCH THE GAME IN OFFLINE MODE, PLEASE DO STEPS 7.1 TO ACTIVATE THE GAME AGAIN. IF IT STILL THE SAME ISSUES IN ONLINE MODE PLEASE CONTACT US.</span>
 
 ## Frequently Asked Questions:
 
