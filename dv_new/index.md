@@ -9,7 +9,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 # <span style="color: red;">IMPORTANT!!!</span>
 ### 1.<span style="color: red;"> PLEASE PLAY THE GAME IN OFFLINE MODE TO AVOID BLOCKING OTHER BUYERS!!!!</span>
-### 2.<span style="color: red;"> IF YOU FACING ISSUES WHEN WANT TO LAUNCH THE GAME, PLEASE CONTACT US OR SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [SOLUTION FOR THE BUYERS THAT CAN'T LAUNCH THE GAME WHEN THE LIBRARY IS USING BY SOMEONE:](https://gd.csmail.store/dv_new/#solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-using-by-someone) !!!</span>
+### 2.<span style="color: red;"> IF YOU FACING ISSUES WHEN WANT TO LAUNCH THE GAME, PLEASE CONTACT US OR SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [SOLUTION FOR THE BUYERS THAT CAN'T LAUNCH THE GAME WHEN THE LIBRARY IS USING BY SOMEONE:](https://gd.csmail.store/dv_new/#solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-using-by-someone)!!!</span>
 ### 3.<span style="color: red;"> PLEASE FOLLOW [STEP 0](https://gd.csmail.store/dv_new/#0-update-your-steam-client-to-steam-families-beta-on-your-own-account-please-ask-us-for-family-pin-if-you-dont-have-a-own-account) TO UPDATE YOUR STEAM TO STEAM FAMILES BETA ON YOUR OWN ACCOUNT (PLEASE ASK US FOR FAMILY PIN IF YOU DON'T HAVE A OWN ACCOUNT)!!!</span>
 
 ## Please note:
