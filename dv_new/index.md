@@ -115,7 +115,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135759643-178b6bf3-4baa-4400-b498-11059775055c.jpg" style="border: 2px solid red" />
 
-# Solution for the buyers that can't launch the game when the library is using by someone:
+# <span style="color: red;">Solution for the buyers that can't launch the game when the library is using by someone:</span>
 
 ## 1. If this is your first time to setuping up the game:
 
@@ -136,9 +136,9 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 > <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE IF THE GAME IS ALREADY WORK!!! THIS IS VERY IMPORTANT!!!</span>
 
 
-## 2. If you already finished setup before:
+## 2. <span style="color: red;">If you already finished setup before:</span>
 
-### <span style="color: red;">If the game is work to you before, go to Offline mode on Steam then restart Steam, after that the "**PLAY**" button should be work again.</span>
+### Go to Offline mode on Steam then restart Steam, after that the "**PLAY**" button should be work again.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/18675795-b8eb-47b3-95fe-2373a486ad98" style="border: 2px solid red" />
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a5def9d1-1ab2-4822-9aa9-b8da1f1f22d3" style="border: 2px solid red" />
