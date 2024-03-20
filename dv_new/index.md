@@ -10,6 +10,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 # <span style="color: red;">IMPORTANT!!!</span>
 ### <span style="color: red;">1. PLEASE PLAY THE GAME IN OFFLINE MODE!!!!</span>
 ### <span style="color: red;">2. IF YOU FACING ISSUES WHEN WANT TO LAUNCH THE GAME, PLEASE SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [Solution for the buyers that can't launch the game when the library is using by someone:](https://gd.csmail.store/dv_new/#solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-using-by-someone) !!!</span>
+### <span style="color: red;">3. PLEASE FOLLOW [STEP 0](https://gd.csmail.store/dv_new/#0-update-your-steam-client-to-steam-families-beta-on-your-own-account-please-ask-us-for-family-pin-if-you-dont-have-a-own-account) TO UPDATE YOUR STEAM TO STEAM FAMILES BETA !!!</span>
 
 ## Please note:
 * After you completing the setup, you only need to do **step 4.2**, **step 5** next time you play.
@@ -127,7 +128,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 # Solution for the buyers that can't launch the game when the library is using by someone:
 
-## 1. First time Setup:
+## 1. If this is your first time to setuping up the game:
 
 ### <span style="color: red;">Contact us or login and start the game from the account that in using to kick out the player that inside the game, you can also activate the game in the account but if it bounce Denuvo error when you start the game, try other accounts.</span>
 
@@ -146,7 +147,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 > <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE IF THE GAME IS ALREADY WORK!!! THIS IS VERY IMPORTANT!!!</span>
 
 
-## 2. Setup has finished before:
+## 2. If you already finished setup before:
 
 ### <span style="color: red;">If the game is work to you before, go to Offline mode on Steam then restart Steam, after that the "**PLAY**" button should be work again.</span>
 
