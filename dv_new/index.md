@@ -9,7 +9,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 # <span style="color: red;">IMPORTANT!!!</span>
 ### <span style="color: red;">1. PLEASE PLAY THE GAME IN OFFLINE MODE!!!!</span>
-### <span style="color: red;">2. IF YOU FACING ISSUES WHEN WANT TO LAUNCH THE GAME, PLEASE SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [Solution for the buyers that can't launch the game when the library is using by someone:](https://github.com/cyberspace1902/Cyber-Space-Guide/edit/main/dv_new/index.md#setup-has-finished-before) !!!</span>
+### <span style="color: red;">2. IF YOU FACING ISSUES WHEN WANT TO LAUNCH THE GAME, PLEASE SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [Solution for the buyers that can't launch the game when the library is using by someone:](https://gd.csmail.store/dv_new/#solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-using-by-someone) !!!</span>
 
 ## Please note:
 * After you completing the setup, you only need to do **step 4.2**, **step 5** next time you play.
@@ -125,11 +125,11 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 3. Can I revert the Steam Client update in the future?
 > Yes, just change the Client Beta Participation back to no beta option.
 
-## Solution for the buyers that can't launch the game when the library is using by someone:
+# Solution for the buyers that can't launch the game when the library is using by someone:
 
-### First time Setup:
+## 1. First time Setup:
 
-#### <span style="color: red;">Contact us or login and start the game from the account that in using to kick out the player that inside the game, you can also activate the game in the account but if it bounce Denuvo error when you start the game, try other accounts.</span>
+### <span style="color: red;">Contact us or login and start the game from the account that in using to kick out the player that inside the game, you can also activate the game in the account but if it bounce Denuvo error when you start the game, try other accounts.</span>
 
  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/3aff2736-0311-4831-b908-ae6c147cf75b" style="border: 2px solid red" />
 
@@ -146,9 +146,9 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 > <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE IF THE GAME IS ALREADY WORK!!! THIS IS VERY IMPORTANT!!!</span>
 
 
-### Setup has finished before:
+## 2. Setup has finished before:
 
-####  5.2. <span style="color: red;">If the game is work to you before, go to Offline mode on Steam then restart Steam, after that the "**PLAY**" button should be work again.</span>
+### <span style="color: red;">If the game is work to you before, go to Offline mode on Steam then restart Steam, after that the "**PLAY**" button should be work again.</span>
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/18675795-b8eb-47b3-95fe-2373a486ad98" style="border: 2px solid red" />
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a5def9d1-1ab2-4822-9aa9-b8da1f1f22d3" style="border: 2px solid red" />
