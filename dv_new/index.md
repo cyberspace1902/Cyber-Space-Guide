@@ -130,6 +130,8 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/06fa0f24-1442-4efc-a84c-4096959cb53f" style="border: 2px solid red" />
 
+  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/1f325cb9-1860-49aa-a0a7-dd42e4da762b" style="border: 2px solid red" />
+
 > <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE IF THE GAME IS ALREADY WORK!!! THIS IS VERY IMPORTANT!!!</span>
 
 
