@@ -149,7 +149,7 @@ Note: If "**Something went wrong**" appears when you launch the game, please try
 
 <img src="https://user-images.githubusercontent.com/91774682/135759643-178b6bf3-4baa-4400-b498-11059775055c.jpg" style="border: 2px solid red" />
 
-# <span style="color: red;">Solution for the buyers that can't launch the game when the library is in use by someone:</span>
+# 7. <span style="color: red;">Solution for the buyers that can't launch the game when the library is in use by someone:</span>
 
 ## 7.1. <span style="color: red;">If this is your first time to setuping up the game:</span>
 
