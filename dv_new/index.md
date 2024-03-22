@@ -21,7 +21,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ## -1. Pause Windows Update until you finish the game (Optional):
 
-.<span style="color: red;">Note:</span> Due to Denuvo DRM in the game, The DRM may block you from entering the game if many buyers do a Windows/Game update and launch the game after the update on the same day. So, to avoid the issue, disable Windows Update & Game Update until you finish the game, if possible. We will not force you to disable but that would be best if you do. You can ask us the game is crowded or not if you wish to update Windows/Game. Here the tutorial:
+<span style="color: red;">Note:</span> Due to Denuvo DRM in the game, The DRM may block you from entering the game if many buyers do a Windows/Game update and launch the game after the update on the same day. So, to avoid the issue, disable Windows Update & Game Update until you finish the game, if possible. We will not force you to disable but that would be best if you do. You can ask us the game is crowded or not if you wish to update Windows/Game. Here the tutorial:
 
 -1.1. Download the [Windows Update Pauser reg](https://cutt.ly/JU56Pif) file we gave:
 
