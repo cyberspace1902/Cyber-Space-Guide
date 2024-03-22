@@ -18,6 +18,37 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 * Please click "Change Account..." to swap accounts instead of "Sign Out..." or you will need to get the Steam Guard code to login again and may face REQUEST ERROR when getting a new code.
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f05dabbb-cb1b-4d98-abe4-a91d330177c7" style="border: 2px solid red" />
 
+
+## -1. Pause Windows Update until you finish the game (Optional):
+
+.<span style="color: red;">Note:</span> Due to Denuvo DRM in the game, The DRM may block you from entering the game if many buyers do a Windows/Game update and launch the game after the update on the same day. So, to avoid the issue, disable Windows Update & Game Update until you finish the game, if possible. We will not force you to disable but that would be best if you do. You can ask us the game is crowded or not if you wish to update Windows/Game. Here the tutorial:
+
+-1.1. Download the [Windows Update Pauser reg](https://cutt.ly/JU56Pif) file we gave:
+
+<img src="https://user-images.githubusercontent.com/91774682/226674300-84b87208-c457-4b0d-aa18-63060689f7f7.jpg" style="border: 2px solid red" />
+
+-1.2. Run the file to pause Windows Update until 2099, you can resume it at Windows Update Setting in the future.
+
+<img src="https://user-images.githubusercontent.com/91774682/226674620-d7018f14-aa3d-4711-a096-32eb0d81c552.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/226674691-0059fc29-cd72-47ec-b25c-641e414ef5d5.jpg" style="border: 2px solid red" />
+
+-1.3. Done!
+
+<img src="https://user-images.githubusercontent.com/91774682/226675292-65485aac-c46c-47a7-bd9f-1694748e5261.jpg" style="border: 2px solid red" />
+
+-1.4. After you enter the account, right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**".
+
+ <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/135763729-f86058ea-be97-4048-a19d-890498f63951.jpg" style="border: 2px solid red" />
+
+-1.5. If Steam force you to update the game in offline mode, right click on the game you want to play, click on "**Manage**", and "**Browse local files**". Open the game exe to start the game.
+
+<img src="https://user-images.githubusercontent.com/91774682/135764474-c0601405-a1ad-4f5d-9b73-b4911a9f2bdb.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/135764612-0cfb5bfb-d979-415f-a874-117ce5eb969e.jpg" style="border: 2px solid red" />
+
 ## 0. Update your Steam Client to Steam Families Beta:
 
 0.1. Click "**Steam**" at Top-left corner, and go to setting. (Please do it on your own account, or ask us for the family pin and do on our account if you don't have it.)
