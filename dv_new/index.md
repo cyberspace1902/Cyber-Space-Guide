@@ -155,7 +155,7 @@ Note: If "**Something went wrong**" appears when you launch the game, please try
 
 ### Contact us or login and start the game from the account that in used to kick out the player inside the game, you can also activate the game in the account but if it bounces "Something went wrong" error when you start the game, try other accounts.
 
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/3aff2736-0311-4831-b908-ae6c147cf75b" style="border: 2px solid red" />
+ <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c08dae77-741a-4a66-a662-49da32ddf932" style="border: 2px solid red" />
 
  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c3a0d872-ee55-4856-9204-f93af2b64596" style="border: 2px solid red" />
 
@@ -172,12 +172,12 @@ Note: If "**Something went wrong**" appears when you launch the game, please try
 > <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE EVERYTIME YOU PLAY IF THE GAME IS ALREADY WORKING!!! THIS IS VERY IMPORTANT!!!</span>
 
 
-## 7.2. <span style="color: red;">If you already finished setup before:</span>
+## 7.2. <span style="color: red;">If you already finished setup and able to play before:</span>
 
 ### Go to Offline mode on Steam then restart Steam, after that the "**PLAY**" button should be work again.
 
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/18675795-b8eb-47b3-95fe-2373a486ad98" style="border: 2px solid red" />
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a5def9d1-1ab2-4822-9aa9-b8da1f1f22d3" style="border: 2px solid red" />
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/b3e03ce8-cb8f-48ec-89f1-6ae87b452736" style="border: 2px solid red" />
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/6d9c5317-4595-4305-830f-eb16b2123bc6" style="border: 2px solid red" />
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a748363a-18b8-44f0-b05e-c1436b7e7f1d" style="border: 2px solid red" />
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/5b5c9fe1-8f18-4d56-8d2f-91fb55dfe615" style="border: 2px solid red" />
 > <span style="color: red;">IF IT SHOWS "SOMETHING WHEN WRONG" ERROR WHEN YOU LAUNCH THE GAME IN OFFLINE MODE, PLEASE DO STEPS 7.1 TO ACTIVATE THE GAME AGAIN. IF IT STILL THE SAME ISSUES IN ONLINE MODE PLEASE CONTACT US.</span>
