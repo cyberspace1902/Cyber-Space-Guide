@@ -1,4 +1,4 @@
-## 0. Update your Steam Client to Steam Families Beta:
+## 0. Update your Steam Client to Steam Families Beta (Please do it on ur own account):
 
 0.1. Click "**Steam**" at Top-left corner, and go to setting.
 
