@@ -8,16 +8,15 @@
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
 ## Please note:
-* Skip to Step 4 if you know how to use Steam.
-* Please do Step 5 everytime you play the game.
-* Please redo Step 4 if the game shows **Borrow**.
+* Skip to Step 4 (Details Instruction) if you know how to use Steam.
+* Please do Step 5 (Details Instruction) everytime you play the game.
+* Please redo Step 4 (Details Instruction) if the game shows **Borrow**.
 
 ## Easy Tutorial:
 1. Login the account we provide and download the game.
 2. Disable Real-time protection, and download & extract Greenluma into the Steam client folder. After that add Steam folder into the exception of antivirus scanning and turn Realtime protection on back.
-3. Ask us to borrow the game into your account.
-4. Run **Run Greenluma** file and insert the amount and ID into the window.
-5. Setup is done, click yes on the window when launching greenluma and run greenluma everytime you play the game.
+3. Run **Run Greenluma** file and insert the amount and ID into the window.
+4. Setup is done, click yes on the window when launching greenluma and run greenluma everytime you play the game.
 
 ## 1. [Download and install Steam](https://store.steampowered.com/about/). (Skip if you already installed):
 
