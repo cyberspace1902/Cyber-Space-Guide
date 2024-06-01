@@ -80,7 +80,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
  
  <img src="https://user-images.githubusercontent.com/91774682/135758478-5eb18dfe-4302-4036-9926-643cb9fd474d.png" style="border: 2px solid red" />
 
-### (Method 2): (Try this if method 1 not working)
+### (Method 2): (u can connect wifi while playing with this method but it didn't work usually)
 
 5.2.1. Enter the game in online mode and click ""**Exit**"", ""**Quit**"" or Alt + F4 to exit the game. (You can skip this step if u did it before, but if Rockstar appear an error in offline mode work please repeat again.)
 
