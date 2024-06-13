@@ -11,6 +11,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 ### 1.<span style="color: red;"> PLEASE LAUNCH THE GAME IN OFFLINE MODE EVERYTIME WHEN YOU PLAY TO AVOID BLOCKING OTHER BUYERS!!!!</span>
 ### 2.<span style="color: red;"> IF LIBRARY IS USE BY SOMEONE, PLEASE CONTACT US OR SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [SOLUTION FOR THE BUYERS THAT CAN'T LAUNCH THE GAME WHEN THE LIBRARY IS USING BY SOMEONE:](https://gd.csmail.store/dv_new/#7-solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-in-use-by-someone)!!!</span>
 ### 3.<span style="color: red;"> PLEASE FOLLOW [STEP 0](https://gd.csmail.store/dv_new/#0-update-your-steam-client-to-steam-families-beta) TO UPDATE YOUR STEAM TO STEAM FAMILES BETA ON YOUR OWN ACCOUNT (PLEASE ASK US FOR FAMILY PIN IF YOU DON'T HAVE A OWN ACCOUNT)!!!</span>
+### 4.<span style="color: red;">IF YOU HAVE QUESTIONS ABOUT THIS PLAYING METHOD, PLEASE READ [FREQUENTLY ASKED QUESTIONS](https://gd.csmail.store/dv_new/#frequently-asked-questions).</span>
 
 ## Please note:
 * After you completing the setup, you only need to do **step 4.2**, **step 5** next time you play.
