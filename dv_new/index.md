@@ -58,7 +58,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 0.2. Go into "**Interface**" option and set your "**Client Beta Participation**" to "**Steam Families Beta**". (Don't worry, just update to Steam Familes Beta will not cause ur previous borrow invalid)
 
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/29ce3bb4-f77a-4e19-95f8-3c130dab5e49" style="border: 2px solid red" />
+<img src="https://github.com/user-attachments/assets/28e5fabc-b995-478f-b871-4085e8d0035f" style="border: 2px solid red" />
 
 0.3. Click "Restart Now".
 
