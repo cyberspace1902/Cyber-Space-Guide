@@ -5,7 +5,7 @@
 ### Please read the tutorial carefully. If we do not reply to you during the off-hours, please don’t rush to give us a bad rating, we are taking a break at the moment. If you have a good attitude towards us, we will definitely serve you hard. Thank you for your support!
 
 # Steam Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
-This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
+<h3>This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.</h3>
 
 # <span style="color: red;">IMPORTANT!!!</span>
 ### 1.<span style="color: red;"> PLEASE LAUNCH THE GAME IN OFFLINE MODE EVERYTIME WHEN YOU PLAY TO AVOID BLOCKING OTHER BUYERS!!!!</span>
@@ -13,9 +13,9 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 ### 3. <span style="color: red;">IF YOU HAVE QUESTIONS ABOUT THIS PLAYING METHOD, PLEASE READ [FREQUENTLY ASKED QUESTIONS](https://gd.csmail.store/dv_new/#frequently-asked-questions).</span>
 
 ## Please note:
-* After you completing the setup, you only need to do **step 4.2**, **step 5** next time you play.
-* Please repeat the following steps if you play in a new device/after reset your device.
-* Please click "Change Account..." to swap accounts instead of "Sign Out..." or you will need to get the Steam Guard code to login again and may face REQUEST ERROR when getting a new code.
+* <h3>After you completing the setup, you only need to do **step 4.2**, **step 5** next time you play.</h3>
+* <h3>Please repeat the following steps if you play in a new device/after reset your device.</h3>
+* <h3>Please click "Change Account..." to swap accounts instead of "Sign Out..." or you will need to get the Steam Guard code to login again and may face REQUEST ERROR when getting a new code.</h3>
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f05dabbb-cb1b-4d98-abe4-a91d330177c7" style="border: 2px solid red" />
 
 
@@ -37,7 +37,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/226675292-65485aac-c46c-47a7-bd9f-1694748e5261.jpg" style="border: 2px solid red" />
 
-<h3>-1.4. After you log in to the account we provide. Right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**" (<span style="color: red;">DO THIS AFTER YOU LOGIN THE ACCOUNT WE PROVIDE OR AFTER [STEP 4](https://gd.csmail.store/dv_new/#4-setup)</span>).</h3>
+<h3>-1.4. After you log in to the account we provide. Right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**" (<span style="color: red;">DO THIS AFTER YOU LOGIN THE ACCOUNT WE PROVIDE OR AFTER</h3> [STEP 4](https://gd.csmail.store/dv_new/#4-setup)</span>).
 
 <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
@@ -126,7 +126,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ed27df8b-7d94-4b89-8fd1-7c46750a8a7a" style="border: 2px solid red" />
 
-<h3>Second Note: If library in use when you want to launch the game, please try other accounts, wait for a while or [do Step 7.1 if it still the same problem after wait and try other accounts](https://gd.csmail.store/dv_new/#71-if-this-is-your-first-time-to-setuping-up-the-game):</h3>
+<h3>Second Note: If library in use when you want to launch the game, please try other accounts, wait for a while or </h3>[do Step 7.1 if it still the same problem after wait and try other accounts](https://gd.csmail.store/dv_new/#71-if-this-is-your-first-time-to-setuping-up-the-game):
 
 <img src="https://github.com/user-attachments/assets/ef514358-9bac-4e3a-8048-730323790142" style="border: 2px solid red" />
 
@@ -146,7 +146,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 > <span style="color: red;">PLEASE LAUNCH THE GAME IN OFFLINE MODE EVERYTIME YOU PLAY IF THE GAME IS ALREADY WORKING!!! THIS IS VERY IMPORTANT!!!</span>
 
-<h3>Note: If library in use when you want to launch the game in offline mode, please [do Step 7.2](https://gd.csmail.store/dv_new/#72-if-you-already-finished-setup-and-able-to-play-before):</h3>
+<h3>Note: If library in use when you want to launch the game in offline mode, please </h3>[do Step 7.2](https://gd.csmail.store/dv_new/#72-if-you-already-finished-setup-and-able-to-play-before):
 
 <img src="https://github.com/user-attachments/assets/ebc91983-ed3a-4a28-809e-c90d1d689851" style="border: 2px solid red" />
 
