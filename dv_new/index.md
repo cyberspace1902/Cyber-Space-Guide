@@ -105,7 +105,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://user-images.githubusercontent.com/91774682/135749647-ee7160cd-1ccc-4422-b2af-f5c6bf412d5f.jpg" style="border: 2px solid red" />
 
-4.3. (For disable game auto update) After you log in to the account we provide. Right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**".</span>
+4.3. (For disable game auto update) After you log in to the account we provide. Right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**".
 
 <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
