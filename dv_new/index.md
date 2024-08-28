@@ -21,44 +21,44 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ## -1. Pause Windows Update until you finish the game (Optional):
 
-<span style="color: red;">Note:</span> Due to Denuvo DRM in the game, The DRM may block you from entering the game if many buyers do a Windows/Game update and launch the game after the update on the same day. So, to avoid the issue, disable Windows Update & Game Update until you finish the game, if possible. We will not force you to disable but that would be best if you do. You can ask us the game is crowded or not if you wish to update Windows/Game. You can do it byself in Windows Update setting or do it with the pauser we provide. Here the tutorial if you prefer to do with pauser:
+<h3><span style="color: red;">Note:</span> Due to Denuvo DRM in the game, The DRM may block you from entering the game if many buyers do a Windows/Game update and launch the game after the update on the same day. So, to avoid the issue, disable Windows Update & Game Update until you finish the game, if possible. We will not force you to disable but that would be best if you do. You can ask us the game is crowded or not if you wish to update Windows/Game. You can do it byself in Windows Update setting or do it with the pauser we provide. Here the tutorial if you prefer to do with pauser:</h3>
 
--1.1. Download the [Windows Update Pauser reg](https://cutt.ly/JU56Pif) file we gave:
+<h3>-1.1. Download the [Windows Update Pauser reg](https://cutt.ly/JU56Pif) file we gave:</h3>
 
 <img src="https://user-images.githubusercontent.com/91774682/226674300-84b87208-c457-4b0d-aa18-63060689f7f7.jpg" style="border: 2px solid red" />
 
--1.2. Run the file to pause Windows Update until 2099, you can resume it at Windows Update Setting in the future.
+<h3>-1.2. Run the file to pause Windows Update until 2099, you can resume it at Windows Update Setting in the future.</h3>
 
 <img src="https://user-images.githubusercontent.com/91774682/226674620-d7018f14-aa3d-4711-a096-32eb0d81c552.jpg" style="border: 2px solid red" />
 
 <img src="https://user-images.githubusercontent.com/91774682/226674691-0059fc29-cd72-47ec-b25c-641e414ef5d5.jpg" style="border: 2px solid red" />
 
--1.3. Done!
+<h3>-1.3. Done!</h3>
 
 <img src="https://user-images.githubusercontent.com/91774682/226675292-65485aac-c46c-47a7-bd9f-1694748e5261.jpg" style="border: 2px solid red" />
 
--1.4. After you log in to the account we provide. Right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**" (<span style="color: red;">DO THIS AFTER YOU LOGIN THE ACCOUNT WE PROVIDE OR AFTER [STEP 4](https://gd.csmail.store/dv_new/#4-setup)</span>).
+<h3>-1.4. After you log in to the account we provide. Right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**" (<span style="color: red;">DO THIS AFTER YOU LOGIN THE ACCOUNT WE PROVIDE OR AFTER [STEP 4](https://gd.csmail.store/dv_new/#4-setup)</span>).</h3>
 
 <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
 <img src="https://user-images.githubusercontent.com/91774682/135763729-f86058ea-be97-4048-a19d-890498f63951.jpg" style="border: 2px solid red" />
 
-Note: When Steam force you to update the game after you setup and you decide not to update the game, launch it by the game main exe in the game folder.
+<h3>Note: When Steam force you to update the game after you setup and you decide not to update the game, launch it by the game main exe in the game folder.</h3>
 
 <img src="https://github.com/user-attachments/assets/42930ff1-9651-4ead-8c1f-c372c75029bf" style="border: 2px solid red" />
 <img src="https://github.com/user-attachments/assets/7f572edd-adaf-49d7-b89a-63c8ef9d3cfc" style="border: 2px solid red" />
 
 ## 0. Update your Steam Client to Steam Families Beta:
 
-0.1. Login your own Steam account, click "**Steam**" at Top-left corner, and go to setting. (<span style="color: red;">PLEASE DO IT IN UR OWN ACCOUNT</span>)
+<h3>0.1. Login your own Steam account, click "**Steam**" at Top-left corner, and go to setting. (<span style="color: red;">PLEASE DO IT IN UR OWN ACCOUNT</span>)</h3>
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/e9c9b46e-9b94-49a5-a1e3-30c5ba4fcea8" style="border: 2px solid red" />
 
-0.2. Go into "**Interface**" option and set your "**Client Beta Participation**" to "**Steam Families Beta**". (Don't worry, just update to Steam Familes Beta will not cause ur previous borrow invalid)
+<h3>0.2. Go into "**Interface**" option and set your "**Client Beta Participation**" to "**Steam Families Beta**". (Don't worry, just update to Steam Familes Beta will not cause ur previous borrow invalid)</h3>
 
 <img src="https://github.com/user-attachments/assets/28e5fabc-b995-478f-b871-4085e8d0035f" style="border: 2px solid red" />
 
-0.3. Click "Restart Now".
+<h3>0.3. Click "Restart Now".</h3>
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/cfe75bbc-9d98-48ae-92d9-09a3c9925f3d" style="border: 2px solid red" />                                                                                                                                          
 ## 1. [Download and install Steam](https://store.steampowered.com/about/). (Skip if you already installed):
@@ -67,11 +67,11 @@ Note: When Steam force you to update the game after you setup and you decide not
 
 ## 2. Log in Steam:
 
-2.1. Enter the username and password we gave you and then click on "**LOGIN**". (Click "**Remember my password**" to log in to this account automatically next time.)
+<h3>2.1. Enter the username and password we gave you and then click on "**LOGIN**". (Click "**Remember my password**" to log in to this account automatically next time.)</h3>
 
 <img src="https://user-images.githubusercontent.com/91774682/135746372-c50e3052-db32-48d0-9278-fa797d9d1034.jpg" style="border: 2px solid red" />
 
-2.2. Click "**Next >**". Then get the verification code on the [website](https://cyberspace.cyou) and enter it if account require Steam Guard code.
+<h3>2.2. Click "**Next >**". Then get the verification code on the [website](https://cyberspace.cyou) and enter it if account require Steam Guard code.</h3>
 
 > [How to get Steam Guard access code from the website?](https://cutt.ly/dEXhDw8)
 
@@ -80,63 +80,63 @@ Note: When Steam force you to update the game after you setup and you decide not
 <img src="https://user-images.githubusercontent.com/91774682/135746487-421ed157-2192-49e0-9b64-7670737efbcf.jpg" style="border: 2px solid red" />
 
 ## 3. Install:
-3.1. After you logged in successfully, click "**LIBRARY**" on the top.
+<h3>3.1. After you logged in successfully, click "**LIBRARY**" on the top.</h3>
 
  <img src="https://user-images.githubusercontent.com/91774682/135746879-888520a8-a73a-4293-b1bc-8e55963eb131.jpg" style="border: 2px solid red" />
 
-3.2. Select the game you want to install. (For example: F1 2021)
+<h3>3.2. Select the game you want to install. (For example: F1 2021)</h3>
 
  <img src="https://user-images.githubusercontent.com/91774682/135747116-4d8c908c-b079-423d-bf58-170000da31c0.jpg" style="border: 2px solid red" />
 
-3.3. Click "**INSTALL**" to download the game. (If the button shows "**stream/connect**", click the arrow right on them, and click "**This machine**" to download/install the game.)
+<h3>3.3. Click "**INSTALL**" to download the game. (If the button shows "**stream/connect**", click the arrow right on them, and click "**This machine**" to download/install the game.)</h3>
 
  <img src="https://user-images.githubusercontent.com/91774682/135747351-40eb7a3e-bf64-4a9f-94ca-e2dc14da586b.jpg" style="border: 2px solid red" />
  
  <img src="https://user-images.githubusercontent.com/91774682/135747353-b9d970e0-038f-4d8f-94a6-71c0cfd21eff.jpg" style="border: 2px solid red" />
 
-3.4. Choose a location you like to install at, create shortcut as needed and click on "NEXT>". (Can keep default).
+<h3>3.4. Choose a location you like to install at, create shortcut as needed and click on "NEXT>". (Can keep default).</h3>
 
  <img src="https://user-images.githubusercontent.com/91774682/135748741-792bb820-51fc-407a-bcc8-6b8b7057b309.jpg" style="border: 2px solid red" />
 
-3.5. Click "**I AGREE**". (Skip if there is no such interface.)
+<h3>3.5. Click "**I AGREE**". (Skip if there is no such interface.)</h3>
 
  <img src="https://user-images.githubusercontent.com/91774682/135748869-744f9f70-748c-46f3-b0a5-fb3673fe1295.jpg" style="border: 2px solid red" />
 
-3.6. Click "**FINISH**".
+<h3>3.6. Click "**FINISH**".</h3>
 
  <img src="https://user-images.githubusercontent.com/91774682/135748907-cf4a5de7-8d74-40f3-a1f0-b2a453982bc1.jpg" style="border: 2px solid red" />
 
 ## 4. Setup:
 
-4.1. Click "**LIBRARY**" again, right click on the game, and click on "**Properties...**".
+<h3>4.1. Click "**LIBRARY**" again, right click on the game, and click on "**Properties...**".</h3>
 
  <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
-4.2. Uncheck the option "**Keep games saves in the Steam cloud for....**". (Skip this step if you don't found the option there)
+<h3>4.2. Uncheck the option "**Keep games saves in the Steam cloud for....**". (Skip this step if you don't found the option there)</h3>
 
  <img src="https://user-images.githubusercontent.com/91774682/135749647-ee7160cd-1ccc-4422-b2af-f5c6bf412d5f.jpg" style="border: 2px solid red" />
 
-4.4. After the game is installed, enter the game and click ""**Exit**"", ""**Quit**"" or Alt + F4 to exit the game.
+<h3>4.4. After the game is installed, enter the game and click ""**Exit**"", ""**Quit**"" or Alt + F4 to exit the game.</h3>
 
 <img src="https://user-images.githubusercontent.com/91774682/135750002-a20c5a37-45a3-4596-89e2-40578aaf6832.jpg" style="border: 2px solid red" />
 
 <img src="https://user-images.githubusercontent.com/91774682/135750191-464f7ac2-e243-42a1-87f1-128f537a721e.jpg" style="border: 2px solid red" />
 
-Note: If "**Something went wrong**" appears when you launch the game, please try other accounts, if you already try all the accounts and it still doesn’t work, please contact us.
+<h3>Note: If "**Something went wrong**" appears when you launch the game, please try other accounts, if you already try all the accounts and it still doesn’t work, please contact us.</h3>
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ed27df8b-7d94-4b89-8fd1-7c46750a8a7a" style="border: 2px solid red" />
 
-Second Note: If library in use when you want to launch the game, please try other accounts, wait for a while or [do Step 7.1 if it still the same problem after wait and try other accounts](https://gd.csmail.store/dv_new/#71-if-this-is-your-first-time-to-setuping-up-the-game):
+<h3>Second Note: If library in use when you want to launch the game, please try other accounts, wait for a while or [do Step 7.1 if it still the same problem after wait and try other accounts](https://gd.csmail.store/dv_new/#71-if-this-is-your-first-time-to-setuping-up-the-game):</h3>
 
 <img src="https://github.com/user-attachments/assets/ef514358-9bac-4e3a-8048-730323790142" style="border: 2px solid red" />
 
-4.5. Once you able to enter the game with steps above, quit the game immediately through main menu option or alt + f4.
+<h3>4.5. Once you able to enter the game with steps above, quit the game immediately through main menu option or alt + f4.</h3>
 
 <img src="https://github.com/user-attachments/assets/f8e3d366-7c59-49fb-a90d-bf6367270c80" style="border: 2px solid red" />
 
 ## 5. Play:
 
-5.1. After you finish the setup, click "Steam" in the upper left corner and click "Go Offline...", "**RESTART IN OFFLINE MODE**".
+<h3>5.1. After you finish the setup, click "Steam" in the upper left corner and click "Go Offline...", "**RESTART IN OFFLINE MODE**".</h3>
 
 <img src="https://user-images.githubusercontent.com/91774682/135750380-1a61c6f1-e1b0-425d-9507-5fd60f13b439.jpg" style="border: 2px solid red" />
 
@@ -146,11 +146,11 @@ Second Note: If library in use when you want to launch the game, please try othe
 
 > <span style="color: red;">PLEASE LAUNCH THE GAME IN OFFLINE MODE EVERYTIME YOU PLAY IF THE GAME IS ALREADY WORKING!!! THIS IS VERY IMPORTANT!!!</span>
 
-Note: If library in use when you want to launch the game in offline mode, please [do Step 7.2](https://gd.csmail.store/dv_new/#72-if-you-already-finished-setup-and-able-to-play-before):
+<h3>Note: If library in use when you want to launch the game in offline mode, please [do Step 7.2](https://gd.csmail.store/dv_new/#72-if-you-already-finished-setup-and-able-to-play-before):</h3>
 
 <img src="https://github.com/user-attachments/assets/ebc91983-ed3a-4a28-809e-c90d1d689851" style="border: 2px solid red" />
 
-5.2. Once you able to enter the game with steps above, enjoy the game!
+<h3>5.2. Once you able to enter the game with steps above, enjoy the game!</h3>
 
 <img src="https://github.com/user-attachments/assets/0e753968-aa1e-432d-94b8-d09cc90de934" style="border: 2px solid red" />
 
@@ -158,11 +158,11 @@ Note: If library in use when you want to launch the game in offline mode, please
 
 ## 6. My controller not working in the game: 
 
-6.1 Click "**LIBRARY**", right click on the game, and click on "**Properties...**".
+<h3>6.1 Click "**LIBRARY**", right click on the game, and click on "**Properties...**".</h3>
 
 <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
-6.2 Select "**CONTROLLER**", change the options to "**Enable Steam Input**".
+<h3>6.2 Select "**CONTROLLER**", change the options to "**Enable Steam Input**".</h3>
 
 <img src="https://user-images.githubusercontent.com/91774682/135759643-178b6bf3-4baa-4400-b498-11059775055c.jpg" style="border: 2px solid red" />
 
