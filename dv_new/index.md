@@ -9,9 +9,8 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 # <span style="color: red;">IMPORTANT!!!</span>
 ### 1.<span style="color: red;"> PLEASE LAUNCH THE GAME IN OFFLINE MODE EVERYTIME WHEN YOU PLAY TO AVOID BLOCKING OTHER BUYERS!!!!</span>
-### 2.<span style="color: red;"> IF LIBRARY IS USE BY SOMEONE, PLEASE CONTACT US OR SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [SOLUTION FOR THE BUYERS THAT CAN'T LAUNCH THE GAME WHEN THE LIBRARY IS USING BY SOMEONE:](https://gd.csmail.store/dv_new/#7-solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-in-use-by-someone)!!!</span>
-### 3.<span style="color: red;"> PLEASE FOLLOW [STEP 0](https://gd.csmail.store/dv_new/#0-update-your-steam-client-to-steam-families-beta) TO UPDATE YOUR STEAM TO STEAM FAMILES BETA ON YOUR OWN ACCOUNT (PLEASE ASK US FOR FAMILY PIN IF YOU DON'T HAVE A OWN ACCOUNT)!!!</span>
-### 4. <span style="color: red;">IF YOU HAVE QUESTIONS ABOUT THIS PLAYING METHOD, PLEASE READ [FREQUENTLY ASKED QUESTIONS](https://gd.csmail.store/dv_new/#frequently-asked-questions).</span>
+### 2.<span style="color: red;"> IF LIBRARY IS USE BY SOMEONE, PLEASE SCROLL TO THE END OF THIS PAGE AND LOOK AT THE [SOLUTION FOR THE BUYERS THAT CAN'T LAUNCH THE GAME WHEN THE LIBRARY IS USING BY SOMEONE:](https://gd.csmail.store/dv_new/#7-solution-for-the-buyers-that-cant-launch-the-game-when-the-library-is-in-use-by-someone)!!!</span>
+### 3. <span style="color: red;">IF YOU HAVE QUESTIONS ABOUT THIS PLAYING METHOD, PLEASE READ [FREQUENTLY ASKED QUESTIONS](https://gd.csmail.store/dv_new/#frequently-asked-questions).</span>
 
 ## Please note:
 * After you completing the setup, you only need to do **step 4.2**, **step 5** next time you play.
@@ -38,21 +37,19 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/226675292-65485aac-c46c-47a7-bd9f-1694748e5261.jpg" style="border: 2px solid red" />
 
--1.4. After you enter the account we provide, right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**".
+-1.4. After you log in to the account we provide. Right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**" (<span style="color: red;">DO THIS AFTER YOU LOGIN THE ACCOUNT WE PROVIDE OR AFTER STEP 4</span>).
 
- <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
+<img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
 <img src="https://user-images.githubusercontent.com/91774682/135763729-f86058ea-be97-4048-a19d-890498f63951.jpg" style="border: 2px solid red" />
 
--1.5. If Steam force you to update the game in offline mode, right click on the game you want to play, click on "**Manage**", and "**Browse local files**". Open the game exe to start the game.
+Note: When Steam force you to update the game and you decide not to update the game, launch it by the game main exe in the game folder.
 
-<img src="https://user-images.githubusercontent.com/91774682/135764474-c0601405-a1ad-4f5d-9b73-b4911a9f2bdb.jpg" style="border: 2px solid red" />
 
-<img src="https://user-images.githubusercontent.com/91774682/135764612-0cfb5bfb-d979-415f-a874-117ce5eb969e.jpg" style="border: 2px solid red" />
 
 ## 0. Update your Steam Client to Steam Families Beta:
 
-0.1. Login your own Steam account, click "**Steam**" at Top-left corner, and go to setting. (Please do it on your own account)
+0.1. Login your own Steam account, click "**Steam**" at Top-left corner, and go to setting. (<span style="color: red;">PLEASE DO IT IN UR OWN ACCOUNT</span>)
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/e9c9b46e-9b94-49a5-a1e3-30c5ba4fcea8" style="border: 2px solid red" />
 
@@ -124,9 +121,17 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135750191-464f7ac2-e243-42a1-87f1-128f537a721e.jpg" style="border: 2px solid red" />
 
-Note: If "**Something went wrong**" appears when you launch the game, please try other accounts, if you tested all the accounts and it still doesn’t work, please contact us.
+Note: If "**Something went wrong**" appears when you launch the game, please try other accounts, if you already try all the accounts and it still doesn’t work, please contact us.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ed27df8b-7d94-4b89-8fd1-7c46750a8a7a" style="border: 2px solid red" />
+
+Second Note: If library in use when you want to launch the game, please try other accounts, wait for a while or [do Step 7.1 if it still the same problem after wait and try other accounts](https://gd.csmail.store/dv_new/#71-if-this-is-your-first-time-to-setuping-up-the-game):
+
+<img src="https://github.com/user-attachments/assets/ef514358-9bac-4e3a-8048-730323790142" style="border: 2px solid red" />
+
+4.5. Once you able to enter the game with steps above, quit the game immediately through main menu option or alt + f4.
+
+<img src="https://github.com/user-attachments/assets/f8e3d366-7c59-49fb-a90d-bf6367270c80" style="border: 2px solid red" />
 
 ## 5. Play:
 
@@ -138,9 +143,19 @@ Note: If "**Something went wrong**" appears when you launch the game, please try
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a748363a-18b8-44f0-b05e-c1436b7e7f1d" style="border: 2px solid red" />
 
-> <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE EVERYTIME YOU PLAY IF THE GAME IS ALREADY WORKING!!! THIS IS VERY IMPORTANT!!!</span>
+> <span style="color: red;">PLEASE LAUNCH THE GAME IN OFFLINE MODE EVERYTIME YOU PLAY IF THE GAME IS ALREADY WORKING!!! THIS IS VERY IMPORTANT!!!</span>
 
-## 6. Enable controller function (Optional)
+Note: If library in use when you want to launch the game in offline mode, please [do Step 7.2](https://gd.csmail.store/dv_new/#72-if-you-already-finished-setup-and-able-to-play-before):
+
+<img src="https://github.com/user-attachments/assets/ebc91983-ed3a-4a28-809e-c90d1d689851" style="border: 2px solid red" />
+
+5.2. Once you able to enter the game with steps above, enjoy the game!
+
+<img src="https://github.com/user-attachments/assets/0e753968-aa1e-432d-94b8-d09cc90de934" style="border: 2px solid red" />
+
+# Solution for common issues:
+
+## 6. My controller not working in the game: 
 
 6.1 Click "**LIBRARY**", right click on the game, and click on "**Properties...**".
 
@@ -154,7 +169,7 @@ Note: If "**Something went wrong**" appears when you launch the game, please try
 
 ## 7.1. <span style="color: red;">If this is your first time to setuping up the game:</span>
 
-### Contact us or login and start the game from the account that in used to kick out the player inside the game, you can also activate the game in the account but if it bounces "Something went wrong" error when you start the game, try other accounts.
+### Login and start the game from the account that in used to kick out the player inside the game, you can also activate the game in the account you use to kick but if it bounces "Something went wrong" error when you start the game, try other accounts.
 
  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c08dae77-741a-4a66-a662-49da32ddf932" style="border: 2px solid red" />
 
@@ -164,7 +179,7 @@ Note: If "**Something went wrong**" appears when you launch the game, please try
 
  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/663d3565-263f-4d44-bea7-42412dd23d81" style="border: 2px solid red" />
 
- <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c9b57ce6-0b9b-46a5-819e-e1516afa374f" style="border: 2px solid red" />
+ <img src="https://github.com/user-attachments/assets/7062894d-2e09-4628-9a7f-9ae8f50ef681" style="border: 2px solid red" />
 
  <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/06fa0f24-1442-4efc-a84c-4096959cb53f" style="border: 2px solid red" />
 
@@ -172,21 +187,23 @@ Note: If "**Something went wrong**" appears when you launch the game, please try
 
 > <span style="color: red;">PLEASE EXIT AND LAUNCH THE GAME IN OFFLINE MODE EVERYTIME YOU PLAY IF THE GAME IS ALREADY WORKING!!! THIS IS VERY IMPORTANT!!!</span>
 
-
 ## 7.2. <span style="color: red;">If you already finished setup and able to play before:</span>
 
-### Go to Offline mode on Steam then restart Steam, after that the "**PLAY**" button should be work again.
+### Tick 'Remember Me' when you login the account. After that go to Offline mode on Steam then restart Steam, after that the "**PLAY**" button should be work again.
 
+<img src="https://github.com/user-attachments/assets/4f2a9c06-eca2-4a9a-9dc1-0c66b8baaeb4" style="border: 2px solid red" />
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/b3e03ce8-cb8f-48ec-89f1-6ae87b452736" style="border: 2px solid red" />
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/6d9c5317-4595-4305-830f-eb16b2123bc6" style="border: 2px solid red" />
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/a748363a-18b8-44f0-b05e-c1436b7e7f1d" style="border: 2px solid red" />
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/5b5c9fe1-8f18-4d56-8d2f-91fb55dfe615" style="border: 2px solid red" />
-> <span style="color: red;">IF IT SHOWS "SOMETHING WHEN WRONG" ERROR WHEN YOU LAUNCH THE GAME IN OFFLINE MODE, PLEASE DO STEPS 7.1 TO ACTIVATE THE GAME AGAIN. IF IT STILL THE SAME ISSUES IN ONLINE MODE PLEASE CONTACT US.</span>
 
 ## Frequently Asked Questions:
 
 1. Why do we need to update Steam Client to Steam Families Beta? We no need to do that before.
 > The game will be hot when it is just released. We use this method to reduce the costs and sell the game cheaper otherwise we will have to prepare many accounts and there will be a lot of money and that will make us sell it expensive.
+
+2. It is so complicated!!!
+> We are very sorry about this. This method may require a little patience to setup. After the setup is completed, everything can be played as usual.
 
 2. Will it revoke our previous borrow?
 > Don't worry, your previous borrow will not be revoked by the Beta update.
