@@ -37,15 +37,16 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/226675292-65485aac-c46c-47a7-bd9f-1694748e5261.jpg" style="border: 2px solid red" />
 
--1.4. After you log in to the account we provide. Right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**" (<span style="color: red;">DO THIS AFTER YOU LOGIN THE ACCOUNT WE PROVIDE OR AFTER STEP 4</span>).
+-1.4. After you log in to the account we provide. Right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**" (<span style="color: red;">DO THIS AFTER YOU LOGIN THE ACCOUNT WE PROVIDE OR AFTER [STEP 4](https://gd.csmail.store/dv_new/#4-setup)</span>).
 
 <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
 <img src="https://user-images.githubusercontent.com/91774682/135763729-f86058ea-be97-4048-a19d-890498f63951.jpg" style="border: 2px solid red" />
 
-Note: When Steam force you to update the game and you decide not to update the game, launch it by the game main exe in the game folder.
+Note: When Steam force you to update the game after you setup and you decide not to update the game, launch it by the game main exe in the game folder.
 
-
+<img src="https://github.com/user-attachments/assets/42930ff1-9651-4ead-8c1f-c372c75029bf" style="border: 2px solid red" />
+<img src="https://github.com/user-attachments/assets/7f572edd-adaf-49d7-b89a-63c8ef9d3cfc" style="border: 2px solid red" />
 
 ## 0. Update your Steam Client to Steam Families Beta:
 
