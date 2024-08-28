@@ -22,7 +22,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ## -1. Pause Windows Update until you finish the game (Optional):
 
-<span style="color: red;">Note:</span> Due to Denuvo DRM in the game, The DRM may block you from entering the game if many buyers do a Windows/Game update and launch the game after the update on the same day. So, to avoid the issue, disable Windows Update & Game Update until you finish the game, if possible. We will not force you to disable but that would be best if you do. You can ask us the game is crowded or not if you wish to update Windows/Game. Here the tutorial:
+<span style="color: red;">Note:</span> Due to Denuvo DRM in the game, The DRM may block you from entering the game if many buyers do a Windows/Game update and launch the game after the update on the same day. So, to avoid the issue, disable Windows Update & Game Update until you finish the game, if possible. We will not force you to disable but that would be best if you do. You can ask us the game is crowded or not if you wish to update Windows/Game. You can do it byself in Windows Update setting or do it with the pauser we provide. Here the tutorial if you prefer to do with pauser:
 
 -1.1. Download the [Windows Update Pauser reg](https://cutt.ly/JU56Pif) file we gave:
 
@@ -38,7 +38,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/226675292-65485aac-c46c-47a7-bd9f-1694748e5261.jpg" style="border: 2px solid red" />
 
--1.4. After you enter the account, right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**".
+-1.4. After you enter the account we provide, right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**".
 
  <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
@@ -52,7 +52,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ## 0. Update your Steam Client to Steam Families Beta:
 
-0.1. Click "**Steam**" at Top-left corner, and go to setting. (Please do it on your own account, or ask us for the family pin and do on our account if you don't have it.)
+0.1. Login your own Steam account, click "**Steam**" at Top-left corner, and go to setting. (Please do it on your own account)
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/e9c9b46e-9b94-49a5-a1e3-30c5ba4fcea8" style="border: 2px solid red" />
 
@@ -73,7 +73,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/135746372-c50e3052-db32-48d0-9278-fa797d9d1034.jpg" style="border: 2px solid red" />
 
-2.2. Click "**Next >**". Then get the verification code on the [website](https://cyberspace.cyou) and enter it.
+2.2. Click "**Next >**". Then get the verification code on the [website](https://cyberspace.cyou) and enter it if account require Steam Guard code.
 
 > [How to get Steam Guard access code from the website?](https://cutt.ly/dEXhDw8)
 
