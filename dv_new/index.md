@@ -19,9 +19,9 @@ This tutorial will teach you how to log in, setup, download, and play step by st
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f05dabbb-cb1b-4d98-abe4-a91d330177c7" style="border: 2px solid red" />
 
 
-## -1. Pause Windows Update until you finish the game (Optional):
+## -1. Pause Windows Update until you finish the game:
 
-<span style="color: red;">Note:</span> Due to Denuvo DRM in the game, The DRM may block you from entering the game if many buyers launch the game after doing a Windows/Game update on the same day. So, to avoid the issue, disable Windows Update & Game Update until you finish the game if possible. We will not force you to disable but that would be best if you do. You can ask us the game is crowded or not if you wish to update Windows/Game. You can do it byself in Windows Update setting or do it with the pauser we provide. Here the tutorial if you prefer to do with pauser:
+<span style="color: red;">Note:</span> The game contain Denuvo DRM having an activation system and will need the player to launch the game in online mode to activate the game before you play offline long term. The activation slot of an account is limited and only a few in a day, when the activation slot of the account are used up and haven't refresh yet you will not able to activate the game with the current account. Updating Windows and game will void activation you done before so we suggest buyer disable Windows and game auto update when the game is hot to avoid you can't launch the game after update. You can ask us the current popularity of the game to decide update or not. You can do it byself in Windows Update setting or do it with the pauser we provide. Here the tutorial if you prefer to do with pauser:
 
 -1.1. Download the [Windows Update Pauser reg](https://cutt.ly/JU56Pif) file we gave:
 
