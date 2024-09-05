@@ -19,42 +19,51 @@ This tutorial will teach you how to log in, setup, download, and play step by st
   <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/f05dabbb-cb1b-4d98-abe4-a91d330177c7" style="border: 2px solid red" />
 
 
-## -1. Pause Windows Update until you finish the game:
+## 0. Pause Windows Update until you finish the game:
 
 <span style="color: red;">Note:</span> The game contain Denuvo DRM having an activation system and will need the player to launch the game in online mode to activate the game before you play offline long term. The activation slot of an account is limited and only a few in a day, when the activation slot of the account are used up and haven't refresh yet you will not able to activate the game with the current account. Updating Windows and game will void activation you done before so we suggest buyer disable Windows and game auto update when the game is hot to avoid you can't launch the game after update. You can ask us the current popularity of the game to decide update or not. You can do it byself in Windows Update setting or do it with the pauser we provide. Here the tutorial if you prefer to do with pauser:
 
--1.1. Download the [Windows Update Pauser reg](https://cutt.ly/JU56Pif) file we gave:
+0.1. Download the [Windows Update Pauser reg](https://cutt.ly/JU56Pif) file we gave:
 
 <img src="https://user-images.githubusercontent.com/91774682/226674300-84b87208-c457-4b0d-aa18-63060689f7f7.jpg" style="border: 2px solid red" />
 
--1.2. Run the file to pause Windows Update until 2099, you can resume it at Windows Update Setting in the future.
+0.2. Run the file to pause Windows Update until 2099, you can resume it at Windows Update Setting in the future.
 
 <img src="https://user-images.githubusercontent.com/91774682/226674620-d7018f14-aa3d-4711-a096-32eb0d81c552.jpg" style="border: 2px solid red" />
 
 <img src="https://user-images.githubusercontent.com/91774682/226674691-0059fc29-cd72-47ec-b25c-641e414ef5d5.jpg" style="border: 2px solid red" />
 
--1.3. Done!
+0.3. Done!
 
 <img src="https://user-images.githubusercontent.com/91774682/226675292-65485aac-c46c-47a7-bd9f-1694748e5261.jpg" style="border: 2px solid red" />
 
-## 0. Update your Steam Client to Steam Families Beta:
+## 1. Install Steam and Update your Steam Client to Steam Families Beta:
 
-0.1. Login your own Steam account, click "**Steam**" at Top-left corner, and go to setting. (<span style="color: red;">PLEASE DO IT IN UR OWN ACCOUNT</span>)
+1.1. [Download and install Steam](https://store.steampowered.com/about/). (Skip if you already installed):
 
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/e9c9b46e-9b94-49a5-a1e3-30c5ba4fcea8" style="border: 2px solid red" />
+<img src="https://user-images.githubusercontent.com/91774682/135745721-68d77853-dcd6-4af9-9022-68fd87ce83e3.jpg" style="border: 2px solid red" /> 
 
-0.2. Go into "**Interface**" option and set your "**Client Beta Participation**" to "**Steam Families Beta**". (Don't worry, just update to Steam Familes Beta will not cause ur previous borrow invalid)
+1.2. Login your Own Steam Account.
 
-<img src="https://github.com/user-attachments/assets/28e5fabc-b995-478f-b871-4085e8d0035f" style="border: 2px solid red" />
+<img src="https://github.com/user-attachments/assets/bd56169b-c7dc-4f99-a871-831ed2056a9f" style="border: 2px solid red" />
 
-0.3. Click "Restart Now".
+1.3. Click "**Steam**" at Top-left corner, and go to setting. (<span style="color: red;">PLEASE DO IT IN UR OWN ACCOUNT</span>)
 
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/cfe75bbc-9d98-48ae-92d9-09a3c9925f3d" style="border: 2px solid red" />                                                                                                                                          
-## 1. [Download and install Steam](https://store.steampowered.com/about/). (Skip if you already installed):
+<img src="https://github.com/user-attachments/assets/b38024f1-59a1-40a9-9ce5-62c74cc439b8" style="border: 2px solid red" />
 
-<img src="https://user-images.githubusercontent.com/91774682/135745721-68d77853-dcd6-4af9-9022-68fd87ce83e3.jpg" style="border: 2px solid red" />
+1.4. Go into "**Interface**" option and set your "**Client Beta Participation**" to "**Steam Families Beta**". (Don't worry, just update to Steam Familes Beta will not cause ur previous borrow invalid)
 
-## 2. Log in Steam:
+<img src="https://github.com/user-attachments/assets/e1b92584-4289-43e0-aedc-fbcbfe69e6da" style="border: 2px solid red" />
+
+1.5. Click "Restart Now".
+
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/cfe75bbc-9d98-48ae-92d9-09a3c9925f3d" style="border: 2px solid red" />
+
+1.6. Logout after restart. (Skip this step if the account already logged out).
+
+<img src="https://github.com/user-attachments/assets/5629118c-ecaf-4259-b7b1-160a29594b56" style="border: 2px solid red" />
+
+## 2. Log in Steam Account we provided:
 
 2.1. Enter the username and password we gave you and then click on "**LOGIN**". (Click "**Remember my password**" to log in to this account automatically next time.)
 
