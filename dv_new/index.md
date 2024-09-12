@@ -37,31 +37,9 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://user-images.githubusercontent.com/91774682/226675292-65485aac-c46c-47a7-bd9f-1694748e5261.jpg" style="border: 2px solid red" />
 
-## 1. Install Steam and Update your Steam Client to Steam Families Beta:
+## 1. Install Steam:
 
 1.1. [Download and install Steam](https://store.steampowered.com/about/). (Skip if you already installed):
-
-<img src="https://user-images.githubusercontent.com/91774682/135745721-68d77853-dcd6-4af9-9022-68fd87ce83e3.jpg" style="border: 2px solid red" /> 
-
-1.2. Login your Own Steam Account.
-
-<img src="https://github.com/user-attachments/assets/bd56169b-c7dc-4f99-a871-831ed2056a9f" style="border: 2px solid red" />
-
-1.3. Click "**Steam**" at Top-left corner, and go to setting. (<span style="color: red;">PLEASE DO IT IN UR OWN ACCOUNT</span>)
-
-<img src="https://github.com/user-attachments/assets/b38024f1-59a1-40a9-9ce5-62c74cc439b8" style="border: 2px solid red" />
-
-1.4. Go into "**Interface**" option and set your "**Client Beta Participation**" to "**Steam Families Beta**". (Don't worry, just update to Steam Familes Beta will not cause ur previous borrow invalid)
-
-<img src="https://github.com/user-attachments/assets/e1b92584-4289-43e0-aedc-fbcbfe69e6da" style="border: 2px solid red" />
-
-1.5. Click "Restart Now".
-
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/cfe75bbc-9d98-48ae-92d9-09a3c9925f3d" style="border: 2px solid red" />
-
-1.6. Logout after restart. (Skip this step if the account already logged out).
-
-<img src="https://github.com/user-attachments/assets/5629118c-ecaf-4259-b7b1-160a29594b56" style="border: 2px solid red" />
 
 ## 2. Log in Steam Account we provided:
 
