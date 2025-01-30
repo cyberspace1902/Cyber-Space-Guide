@@ -28,7 +28,7 @@ Tutorial tersebut akan mengajar anda cara login, setup, download, dan bermain la
 ![2](https://user-images.githubusercontent.com/91774682/135710984-33fe378b-2560-4636-9814-e04232542de1.jpg)
 ![3 5](https://user-images.githubusercontent.com/91774682/135710983-f27fba48-a511-40a5-996f-cf2a10b2fa8f.jpg)
 
-2.3. Dapatkan kod akses Steam Guard dari [pickup website](https://cyberspace.cyou). (**Pastikan anda telah mendapatkannya selepas anda log masuk sebaliknya sebelum log masuk!!!**)
+2.3. Dapatkan kod akses Steam Guard dari [pickup website](https://cyberspace.cyou). (**Pastikan anda mengambil kod hanya selepas anda log masuk dan ia diperlukan.!!!**)
 
 ![3](https://user-images.githubusercontent.com/91774682/135711149-74214b5a-480e-4814-a8a4-7a15e6ced7cf.jpg)
 
