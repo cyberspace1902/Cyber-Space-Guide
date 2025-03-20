@@ -3,9 +3,27 @@
 ### Please Notes:
 * <span style="color: red;">Follow Setup Steps if you haven't launch or play the game yet.</span>
 * <span style="color: red;">Follow Play Steps below setup steps if you already setup and everytime when you play.</span>
+* <span style="color: red;">Please get our consent before you want to update the game and enter online mode. (Follow [Step 13](https://gd.csmail.store/dv_en/#6-if-steam-force-you-to-update-the-game-in-offline-mode) if Steam forced you to update)</span>
+* <span style="color: red;">Make sure you start the game in offline mode to avoid you update the game accidently!!!</span>
 * <span style="color: red;">PLEASE FOLLOW EVERY STEPS CAREFULLY !!! DONT MISS ANY STEPS!! PLEASE DON'T CHANGE UBISOFT CONNECT LOGGING IN ACCOUNT RECENTLY IF YOU STILL WANT TO PLAY THE GAME. IF YOU CAN'T FOLLOW THEM, WE REMOTE UR PC TO SET IT UP.</span>
 
 ## Setup Steps (Only need to do one time)
+
+### Step 0. Pause Windows Update until you finish the game or when the game/account is dropped to low traffic (You can just pause it manually at Windows Update setting):
+
+Step 0.1. Download the [Windows Update Pauser reg](https://cutt.ly/JU56Pif) file we gave:
+
+<img src="https://user-images.githubusercontent.com/91774682/226674300-84b87208-c457-4b0d-aa18-63060689f7f7.jpg" style="border: 2px solid red" />
+
+Step 0.2. Run the file to pause Windows Update until 2099, you can resume it at Windows Update Setting in the future.
+
+<img src="https://user-images.githubusercontent.com/91774682/226674620-d7018f14-aa3d-4711-a096-32eb0d81c552.jpg" style="border: 2px solid red" />
+
+<img src="https://user-images.githubusercontent.com/91774682/226674691-0059fc29-cd72-47ec-b25c-641e414ef5d5.jpg" style="border: 2px solid red" />
+
+Step 0.3. Done!
+
+<img src="https://user-images.githubusercontent.com/91774682/226675292-65485aac-c46c-47a7-bd9f-1694748e5261.jpg" style="border: 2px solid red" />
 
 Step 1. Launch the game in online mode at once.
 
@@ -57,10 +75,20 @@ Step 11. Open Ubisoft Connect, untick Cloud save option in Ubisoft Connect.
 <img src="https://github.com/user-attachments/assets/a0134db1-da40-414a-984a-748c52e06b4d" style="border: 2px solid red" />
 
 ## Play Steps (After setup and when you play)
-Step 12. Go into Offline Mode on Steam and launch the game.
+Step 12. Go into Offline Mode on Steam and launch the game. (Follow [Step 13](https://gd.csmail.store/dv_en/#6-if-steam-force-you-to-update-the-game-in-offline-mode) if Steam forced you to update)</span>
 <img src="https://github.com/user-attachments/assets/534eb189-5b22-4543-a15c-e62334d6a986" style="border: 2px solid red" />
 
 <img src="https://github.com/user-attachments/assets/240519bb-ed02-4560-860c-a434a2b85d0d" style="border: 2px solid red" />
+
+## Step 13.<span style="color: red;"> If Steam force you to update the game in offline mode:</span>
+
+13.1. Right click on the game you want to play, click on "**Manage**", and "**Browse local files**".
+
+<img src="https://user-images.githubusercontent.com/91774682/135764474-c0601405-a1ad-4f5d-9b73-b4911a9f2bdb.jpg" style="border: 2px solid red" />
+
+13.2. Open the game exe to start the game.
+
+<img src="https://user-images.githubusercontent.com/91774682/135764612-0cfb5bfb-d979-415f-a874-117ce5eb969e.jpg" style="border: 2px solid red" />
 
 
 ## PLEASE FOLLOW EVERY STEPS CAREFULLY !!! DONT MISS ANY STEPS!! PLEASE DON'T CHANGE UBISOFT CONNECT LOGGING IN ACCOUNT RECENTLY IF YOU STILL WANT TO PLAY THE GAME. IF YOU CAN'T FOLLOW THEM, WE REMOTE UR PC TO SET IT UP.
