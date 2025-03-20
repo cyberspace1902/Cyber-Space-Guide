@@ -1,11 +1,11 @@
 # PLEASE FOLLOW THE STEPS CAREFULLY!!!
 
 ### Please Notes:
-* <span style="color: red;">Follow Setup Steps if you haven't launch or play the game yet.</span>
-* <span style="color: red;">Follow Play Steps below setup steps if you already setup and everytime when you play.</span>
-* <span style="color: red;">Please get our consent before you want to update the game and enter online mode. (Follow [Step 13](https://gd.csmail.store/dv_en/#6-if-steam-force-you-to-update-the-game-in-offline-mode) if Steam forced you to update)</span>
-* <span style="color: red;">Make sure you start the game in offline mode to avoid you update the game accidently!!!</span>
-* <span style="color: red;">PLEASE FOLLOW EVERY STEPS CAREFULLY !!! DONT MISS ANY STEPS!! PLEASE DON'T CHANGE UBISOFT CONNECT LOGGING IN ACCOUNT RECENTLY IF YOU STILL WANT TO PLAY THE GAME. IF YOU CAN'T FOLLOW THEM, WE REMOTE UR PC TO SET IT UP.</span>
+* ### <span style="color: red;">Follow Setup Steps if you haven't launch or play the game yet.</span>
+* ### <span style="color: red;">Follow Play Steps below setup steps if you already setup and everytime when you play.</span>
+* ### <span style="color: red;">Please get our consent before you want to update the game and enter online mode. (Follow [Step 13](https://gd.csmail.store/dv_en/#6-if-steam-force-you-to-update-the-game-in-offline-mode) if Steam forced you to update)</span>
+* ### <span style="color: red;">Make sure you start the game in offline mode to avoid you update the game accidently!!!</span>
+* ### <span style="color: red;">PLEASE FOLLOW EVERY STEPS CAREFULLY !!! DONT MISS ANY STEPS!! PLEASE DON'T CHANGE UBISOFT CONNECT LOGGING IN ACCOUNT RECENTLY IF YOU STILL WANT TO PLAY THE GAME. IF YOU CAN'T FOLLOW THEM, WE REMOTE UR PC TO SET IT UP.</span>
 
 ## Setup Steps (Only need to do one time)
 
