@@ -20,13 +20,15 @@
 
 <img src="https://github.com/user-attachments/assets/e7f49035-8fa4-4b8e-b042-8193dfbcd6bd" style="border: 2px solid red" />
 
-5. Alt+F4 to exit the game immediately once you enter the game.
+4. Alt+F4 to exit the game immediately once you enter the game.
 
 <img src="https://github.com/user-attachments/assets/d5f0ba7c-42d7-49be-b716-3cf4b3803bc9" style="border: 2px solid red" />
 
-6. Right click Ubisoft Connect on tray, click logout.
+5. Right click Ubisoft Connect on tray, click logout.
 
 <img src="https://github.com/user-attachments/assets/8e186e08-8a28-4834-9fe2-fd1c1347b487" style="border: 2px solid red" />
+
+6. Close the Ubisoft Connect window.
 
 <img src="https://github.com/user-attachments/assets/edda2adf-c72e-4eb1-829c-375f51964832" style="border: 2px solid red" />
 
