@@ -6,6 +6,7 @@
 * ### <span style="color: red;">Please get our consent before you want to update the game and enter online mode. (Follow [Step 12](https://gd.csmail.store/dv_en/#6-if-steam-force-you-to-update-the-game-in-offline-mode) if Steam forced you to update)</span>
 * ### <span style="color: red;">Make sure you start the game in offline mode to avoid you update the game accidently!!!</span>
 * ### <span style="color: red;">PLEASE FOLLOW EVERY STEPS CAREFULLY !!! DONT MISS ANY STEPS!! PLEASE DON'T CHANGE UBISOFT CONNECT LOGGING IN ACCOUNT RECENTLY IF YOU STILL WANT TO PLAY THE GAME. IF YOU CAN'T FOLLOW THEM, WE REMOTE UR PC TO SET IT UP.</span>
+* ### <span style="color: red;">PLEASE ENSURE STEP 9 IS COMPLETED TO AVOID BEING LOGGED OUT WHILE PLAYING THE GAME.</span>
 
 ## Setup Steps (Only need to do one time)
 
@@ -46,7 +47,7 @@ Step 5. Right click Ubisoft Connect on tray, click logout.
 
 <img src="https://github.com/user-attachments/assets/8e186e08-8a28-4834-9fe2-fd1c1347b487" style="border: 2px solid red" />
 
-Step 6. Close the Ubisoft Connect window.
+Step 6. Close the Ubisoft Connect window. <span style="color: red;">IMPORTANT: COMPLETE THIS STEP FIRST, OR STEP 9 WILL NOT SHOW UP.</span>
 
 <img src="https://github.com/user-attachments/assets/edda2adf-c72e-4eb1-829c-375f51964832" style="border: 2px solid red" />
 
@@ -60,7 +61,7 @@ Step 8. Start the game again. Follow [Step 12](https://gd.csmail.store/dv_en/#6-
 
 <img src="https://github.com/user-attachments/assets/5e331fbe-c4d9-4ab2-a748-5189ae87e0e1" style="border: 2px solid red" />
 
-Step 9. Go to settings - tick 'Start Ubisoft in Offline Mode'.
+Step 9. Go to settings - tick 'Start Ubisoft in Offline Mode'. <span style="color: red;"> IMPORTANT: MAKE SURE YOU HAVE DONE THIS STEP, OTHERWISE YOU WILL BE LOGGED OUT WHILE PLAYING. MAKE SURE YOU ARE IN OFFLINE MODE EVERYTIME YOU PLAY.</span>
 
 <img src="https://github.com/user-attachments/assets/64ae5f25-803c-43ff-9fe9-434c2df5b692" style="border: 2px solid red" />
 
