@@ -4,7 +4,7 @@
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
 ### Please Notes:
-* ### <span style="color: red;">Do Step 5 everytime when you play.</span>
+* <span style="color: red;">Do Step 5 everytime when you play after you have completed the setup step (you just need to do the setup step for once).</span>
 
 ## 0. Pause Windows Update until you finish the game:
 
