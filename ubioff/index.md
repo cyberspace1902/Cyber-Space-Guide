@@ -3,6 +3,8 @@
 # Steam Platform Guide by [Cyber Space](https://shopee.com.my/cyberspace1902)
 This tutorial will teach you how to log in, setup, download, and play step by step. It's very simple. Please read carefully, and if you don't understand, you can pm us in Shopee. Let's start it.
 
+### Please Notes:
+* ### <span style="color: red;">Do Step 5 everytime when you play.</span>
 
 ## 0. Pause Windows Update until you finish the game:
 
@@ -73,14 +75,71 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
  <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
-4.2. Uncheck the option "**Keep games saves in the Steam cloud for....**". (Skip this step if you don't found the option there)
-
- <img src="https://user-images.githubusercontent.com/91774682/135749647-ee7160cd-1ccc-4422-b2af-f5c6bf412d5f.jpg" style="border: 2px solid red" />
-
-4.3. (For disable game auto update) After you log in to the account we provide. Right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**".
+4.2. (For disable game auto update) After you log in to the account we provide. Right click the game and go "**Properties...**" - "**Updates**", change "**AUTOMATIC UPDATES**" option to "**Only update this game when I launch it**".
 
 <img src="https://user-images.githubusercontent.com/91774682/135749352-1903f1f8-1542-427c-86f2-58459f36b33e.jpg" style="border: 2px solid red" />
 
 <img src="https://user-images.githubusercontent.com/91774682/135763729-f86058ea-be97-4048-a19d-890498f63951.jpg" style="border: 2px solid red" />
 
-## 5. [PLEASE GET THE NEXT TUTORIAL FROM US](https://shopee.com.my/cyberspace1902).
+4.3. Launch the game in online mode at once.
+
+<img src="https://github.com/user-attachments/assets/8912eb47-d8c9-4317-ae6e-8bccc0eb75d3" style="border: 2px solid red" />
+
+4.4. Enter the login details in Ubisoft Connect then login. (DON'T CLICK REMEMBER ME WHEN UBISOFT CONNECT POPUP.)
+
+<img src="https://github.com/user-attachments/assets/936f3a70-f25d-4e01-ad08-1d8fac7a3091" style="border: 2px solid red" />
+
+4.5. Tick 'This is a trusted device', Get Ubisoft code from us then continue.
+
+<img src="https://github.com/user-attachments/assets/e7f49035-8fa4-4b8e-b042-8193dfbcd6bd" style="border: 2px solid red" />
+
+4.6. Alt+F4 to exit the game immediately once you enter the game.
+
+<img src="https://github.com/user-attachments/assets/d5f0ba7c-42d7-49be-b716-3cf4b3803bc9" style="border: 2px solid red" />
+
+4.7. Right click Ubisoft Connect on tray, click logout.
+
+<img src="https://github.com/user-attachments/assets/8e186e08-8a28-4834-9fe2-fd1c1347b487" style="border: 2px solid red" />
+
+4.8. Close the Ubisoft Connect window. <span style="color: red;">IMPORTANT: COMPLETE THIS STEP FIRST, OR STEP 9 WILL NOT SHOW UP.</span>
+
+<img src="https://github.com/user-attachments/assets/edda2adf-c72e-4eb1-829c-375f51964832" style="border: 2px solid red" />
+
+## 5. Play:
+
+5.1. Go into offline mode on Steam.
+
+<img src="https://github.com/user-attachments/assets/44165188-131d-433f-b34f-24514422e910" style="border: 2px solid red" />
+
+5.2. Start the game again. Follow [Step 12](https://gd.csmail.store/dv_en/#6-if-steam-force-you-to-update-the-game-in-offline-mode) if Steam forced you to update)
+
+<img src="https://github.com/user-attachments/assets/5e331fbe-c4d9-4ab2-a748-5189ae87e0e1" style="border: 2px solid red" />
+
+5.3. Go to settings - tick 'Start Ubisoft in Offline Mode'. <span style="color: red;"> IMPORTANT: MAKE SURE YOU HAVE DONE THIS STEP, OTHERWISE YOU WILL BE LOGGED OUT WHILE PLAYING. MAKE SURE YOU ARE IN OFFLINE MODE EVERYTIME YOU PLAY. MAKE SURE UBISOFT CONNECT IS NOT OPENING IN BACKGROUND WHEN YOU DO.</span>
+
+<img src="https://github.com/user-attachments/assets/64ae5f25-803c-43ff-9fe9-434c2df5b692" style="border: 2px solid red" />
+
+<img src="https://github.com/user-attachments/assets/58ae70cc-aeef-4880-9eb4-218c598058dc" style="border: 2px solid red" />
+
+5.4. Enter the login details again and login with ticking Remember Me.
+
+<img src="https://github.com/user-attachments/assets/bfb99948-6882-491e-af62-b3c45e1c80e6" style="border: 2px solid red" />
+
+5.5. Open Ubisoft Connect, untick Cloud save option in Ubisoft Connect. (This is also a setup step, you just need to do it one time but better to do in offline mode)
+
+<img src="https://github.com/user-attachments/assets/c1c98921-d6f4-4d1c-b471-7c0802f22696" style="border: 2px solid red" />
+
+<img src="https://github.com/user-attachments/assets/bd93aaf3-0176-4435-939b-cca598c1e5d2" style="border: 2px solid red" />
+
+<img src="https://github.com/user-attachments/assets/a0134db1-da40-414a-984a-748c52e06b4d" style="border: 2px solid red" />
+
+5.6. <span style="color: red;"> If Steam force you to update the game in offline mode:</span>
+
+12.1. Right click on the game you want to play, click on "**Manage**", and "**Browse local files**".
+
+<img src="https://user-images.githubusercontent.com/91774682/135764474-c0601405-a1ad-4f5d-9b73-b4911a9f2bdb.jpg" style="border: 2px solid red" />
+
+12.2. Open the game exe to start the game.
+
+<img src="https://user-images.githubusercontent.com/91774682/135764612-0cfb5bfb-d979-415f-a874-117ce5eb969e.jpg" style="border: 2px solid red" />
+
