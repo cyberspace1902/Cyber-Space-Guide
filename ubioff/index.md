@@ -123,11 +123,11 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://github.com/user-attachments/assets/009213f8-4473-48df-99be-55a2ddbf2214" style="border: 2px solid red" />
 
-5.2. Start the game again. Follow [Step 5.3](https://gd.csmail.store/ubioff/#53--if-steam-force-you-to-update-the-game-in-offline-mode) if Steam forced you to update)
+5.3. Start the game again. Follow [Step 5.3](https://gd.csmail.store/ubioff/#53--if-steam-force-you-to-update-the-game-in-offline-mode) if Steam forced you to update)
 
 <img src="https://github.com/user-attachments/assets/5e331fbe-c4d9-4ab2-a748-5189ae87e0e1" style="border: 2px solid red" />
 
-## 5.3. <span style="color: red;"> If Steam force you to update the game in offline mode:</span>
+## 5.4. <span style="color: red;"> If Steam force you to update the game in offline mode:</span>
 
 5.3.1 Right click on the game you want to play, click on "**Manage**", and "**Browse local files**".
 
