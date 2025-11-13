@@ -111,13 +111,13 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 ## 5.2. Offline Method:
 
-5.2.1. First Method: Force Ubisoft Connect into offline mode with [Ubisoft Connect Offline Toggler].(https://github.com/cyberspace1902/Cyber-Space-Guide/releases/download/o%3B%3B/ubisoftoffline.bat).
+### 5.2.1. First Method: Force Ubisoft Connect into offline mode with [Ubisoft Connect Offline Toggler](https://github.com/cyberspace1902/Cyber-Space-Guide/releases/download/o%3B%3B/ubisoftoffline.bat).
 
 <img src="https://github.com/user-attachments/assets/aec7499e-f624-481b-99a7-2b8968323cbc" style="border: 2px solid red" />
 
 > You just need to do it once. You can launch toggler again and click no to let Ubisoft Connect continue receiving internet connection when you want to play your own game or activate the game again. It is useful for non-expert PC user and 100% no containing virus/trojan.
 
-5.2.2. Second Method: Start the game, after entered the game main menu, disconnect your internet connection by turn off your wifi or remove the lan cable.
+### 5.2.2. Second Method: Start the game, after entered the game main menu, disconnect your internet connection by turn off your wifi or remove the lan cable.
 
  <img src="https://user-images.githubusercontent.com/91774682/135758484-f85199e3-ad54-4fb5-819b-9b4c31fcc642.jpg" style="border: 2px solid red" />
 
