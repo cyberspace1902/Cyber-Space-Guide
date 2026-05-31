@@ -10,7 +10,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 ## Please note:
 * Skip to Step 4 (Details Instruction) if you know how to use Steam.
 * Please do Step 5 (Details Instruction) everytime you play the game.
-* Please redo Step 4 (Details Instruction) if the game shows **Borrow**.
+* Please redo Step 4 (Details Instruction) if the game shows **Borrow** or **Purchase**.
 
 ## Easy Tutorial:
 1. Login the account we provide and download the game.
@@ -110,13 +110,15 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ab44f28d-dc13-4d7e-9ade-e18fb1829d08" style="border: 2px solid red" />
 
-4.7. Run "**AppListManager**" in your Steam folder, then enter 2 then click enter again. Insert the amount of the id and id of the game in [AppID List](https://cutt.ly/hP54OrT) (Example Tiny Tina). You can check the amount of id at right-bottom, if it shows "**Sum**" then change it to "**Count Numbers**".
+4.7. Run "**AppListManager**" in your Steam folder, then enter 2 then click enter again. Insert the amount of the id and id of the game in [AppID List](https://docs.google.com/spreadsheets/d/1IfR7owkyVb8Y7Zhor4EVOBKyRubhD4K8WXWtz8PrRD4/edit?gid=0#gid=0) (Example Tiny Tina). You can check the amount of id at right-bottom, if it shows "**Sum**" then change it to "**Count Numbers**". Enter 6 to exit AppList Manager after you entered the ID List.
 
 <img src="https://github.com/user-attachments/assets/126256b3-0b36-4033-9a33-666fff772770" style="border: 2px solid red" />
 
 <img src="https://github.com/user-attachments/assets/e361247e-71f7-44dd-ac50-e39ed397dfaa" style="border: 2px solid red" />
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/2f5ec342-1c35-4ded-a04c-983106610ad3" style="border: 2px solid red" />
+
+<img src="https://github.com/user-attachments/assets/a90210a9-71af-40ef-9890-14e314b01275" style="border: 2px solid red" />
 
 4.8. (Optional but recommended) Create a shortcut of "**Run Greenluma**" to the desktop to let you launch it easily next time.
 
@@ -134,7 +136,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/5c66a96a-d9a1-4080-ac7c-e3317db85776" style="border: 2px solid red" />
 
-5.3. If it shows the play button then that means you have finished the setup, if it shows "**Borrow**" that means you may have missed some steps when you setup, please redo step 4 or contact us.
+5.3. If it shows the play button then that means you have finished the setup, if it shows "**Borrow**" or "**Purchase**" that means you may have missed some steps when you setup, please redo step 4 or contact us.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/eb4bb8dd-9682-43ff-91d4-8e5e46e31476" style="border: 2px solid red" />
 
