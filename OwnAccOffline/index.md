@@ -100,7 +100,7 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/7e5efcb2-6224-4162-819c-986010135bc3" style="border: 2px solid red" />
 
-4.6. (Optional but recommended) Add Steam folder to exclusions. And enable Real-time protection back.
+4.6. Add Steam folder to exclusions. And enable Real-time protection back.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c8316568-7335-4b07-82aa-e002fc50e384" style="border: 2px solid red" />
 
@@ -110,29 +110,35 @@ This tutorial will teach you how to log in, setup, download, and play step by st
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/ab44f28d-dc13-4d7e-9ade-e18fb1829d08" style="border: 2px solid red" />
 
-4.7. (Optional but recommended) Create a shortcut to the desktop to let you launch it easily next time.
+4.7. Run "**AppListManager**" in your Steam folder, then enter 2 then click enter again. Insert the amount of the id and id of the game in [AppID List](https://cutt.ly/hP54OrT) (Example Tiny Tina). You can check the amount of id at right-bottom, if it shows "**Sum**" then change it to "**Count Numbers**".
 
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c6ed31aa-e517-4fe2-8b2e-e552fd93c101" style="border: 2px solid red" />
+<img src="https://github.com/user-attachments/assets/126256b3-0b36-4033-9a33-666fff772770" style="border: 2px solid red" />
 
-4.8. Run "**Run Greenluma**" file, insert the amount of the id and id of the game in [AppID List](https://cutt.ly/hP54OrT) (Example Tiny Tina). You can check the amount of id at right-bottom, if it shows "**Sum**" then change it to "**Count Numbers**".
-
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/4d77eee5-315d-4d01-b719-b0d6ebbbf6c2" style="border: 2px solid red" />
+<img src="https://github.com/user-attachments/assets/e361247e-71f7-44dd-ac50-e39ed397dfaa" style="border: 2px solid red" />
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/2f5ec342-1c35-4ded-a04c-983106610ad3" style="border: 2px solid red" />
 
-4.9. If it shows the play button then that means you have finished the setup, if it shows "**Borrow**" that means you may have missed some steps when you setup, please redo step 4 or contact us.
+4.8. (Optional but recommended) Create a shortcut of "**Run Greenluma**" to the desktop to let you launch it easily next time.
 
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/eb4bb8dd-9682-43ff-91d4-8e5e46e31476" style="border: 2px solid red" />
-
-<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/8f3d9a66-8184-48ef-bb0f-e87bcb9aec7e" style="border: 2px solid red" />
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/c6ed31aa-e517-4fe2-8b2e-e552fd93c101" style="border: 2px solid red" />
 
 ## 5. Play.
 
-5.1. Run **Run Greenluma** everytime you play the game, and click yes to apply the ID List.
+5.1. Run "**Run Greenluma**" file to inject the game into your game library.
+
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/4d77eee5-315d-4d01-b719-b0d6ebbbf6c2" style="border: 2px solid red" />
+
+5.2. Run **Run Greenluma** everytime you play the game, and click yes to apply the ID List.
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/4d77eee5-315d-4d01-b719-b0d6ebbbf6c2" style="border: 2px solid red" />
 
 <img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/5c66a96a-d9a1-4080-ac7c-e3317db85776" style="border: 2px solid red" />
+
+5.3. If it shows the play button then that means you have finished the setup, if it shows "**Borrow**" that means you may have missed some steps when you setup, please redo step 4 or contact us.
+
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/eb4bb8dd-9682-43ff-91d4-8e5e46e31476" style="border: 2px solid red" />
+
+<img src="https://github.com/cyberspace1902/Cyber-Space-Guide/assets/91774682/8f3d9a66-8184-48ef-bb0f-e87bcb9aec7e" style="border: 2px solid red" />
 
 <h2></h2>
 
